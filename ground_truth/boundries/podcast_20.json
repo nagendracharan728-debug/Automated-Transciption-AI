@@ -1,0 +1,103 @@
+{
+  "episode_id": "podcast_20",
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_time": 0.0,
+      "end_time": 27.0,
+      "text": "Introduction of debate about drafting women and explanation of Selective Service system.",
+      "embedding_model": "MiniLM-L6-v2"
+    },
+    {
+      "segment_id": 2,
+      "start_time": 27.0,
+      "end_time": 52.0,
+      "text": "Participants give initial opinions on whether women should be drafted or volunteer.",
+      "embedding_model": "MiniLM-L6-v2"
+    },
+    {
+      "segment_id": 3,
+      "start_time": 52.0,
+      "end_time": 83.0,
+      "text": "Discussion shifts to feminism, equality claims, and contradictions about military draft.",
+      "embedding_model": "MiniLM-L6-v2"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 83.0,
+      "end_time": 130.0,
+      "text": "Argument that men dominate dangerous infrastructure and defense roles; questioning equality.",
+      "embedding_model": "MiniLM-L6-v2"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 130.0,
+      "end_time": 158.0,
+      "text": "Examples of physically demanding jobs like trash collection, steel work, oil rigs.",
+      "embedding_model": "MiniLM-L6-v2"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 158.0,
+      "end_time": 190.0,
+      "text": "Discussion about whether women choose not to do dangerous jobs or are culturally influenced.",
+      "embedding_model": "MiniLM-L6-v2"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 190.0,
+      "end_time": 230.0,
+      "text": "Historical discussion about women’s suffrage, voting rights, and anti-suffrage arguments.",
+      "embedding_model": "MiniLM-L6-v2"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 230.0,
+      "end_time": 260.0,
+      "text": "Debate on women’s political role and whether they should bear civic duties like draft or jury service.",
+      "embedding_model": "MiniLM-L6-v2"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 260.0,
+      "end_time": 296.0,
+      "text": "Discussion shifts to property rights and historical limitations on women owning land.",
+      "embedding_model": "MiniLM-L6-v2"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 296.0,
+      "end_time": 320.0,
+      "text": "Hypothetical scenario about defending property and physical force roles.",
+      "embedding_model": "MiniLM-L6-v2"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 320.0,
+      "end_time": 372.0,
+      "text": "Real-life eviction story used as example of law enforcement involvement.",
+      "embedding_model": "MiniLM-L6-v2"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 372.0,
+      "end_time": 421.0,
+      "text": "Discussion of eviction enforcement and whether men or women handle physical removal.",
+      "embedding_model": "MiniLM-L6-v2"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 421.0,
+      "end_time": 456.0,
+      "text": "Conversation moves to policing, borders, and physical strength differences.",
+      "embedding_model": "MiniLM-L6-v2"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 456.0,
+      "end_time": 490.0,
+      "text": "Philosophical debate about equality, power structures, and whether equality is socially granted.",
+      "embedding_model": "MiniLM-L6-v2"
+    }
+  ]
+}

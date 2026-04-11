@@ -1,0 +1,250 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1 class="dashboard-title">Podcast Insights Dashboard</h1>
+
+{% if audio_file %}
+<div class="player-box">
+    <h2 class="player-title">Podcast Player</h2>
+    <audio id="audioPlayer" controls>
+        <source src="{{ url_for('static', filename='audio/' ~ audio_file) }}" type="audio/mpeg">
+    </audio>
+</div>
+{% endif %}
+
+<div class="dashboard-layout" style="display:flex; gap:40px; margin-top:30px;">
+
+<!-- LEFT -->
+<div class="dashboard-left" style="width:220px;">
+<ul class="section-menu" style="list-style:none; padding:0;">
+<li class="active" onclick="showSection('segments')">Segments</li>
+<li onclick="showSection('keyword')">Keyword Search</li>
+<li onclick="showSection('visualization')">Visualization Tools</li>
+<li onclick="showSection('sentiment')">Sentiment Score</li>
+</ul>
+</div>
+
+<!-- RIGHT -->
+<div class="dashboard-right" style="flex:1;">
+
+<!-- EXPORT -->
+<div style="margin-bottom:20px;">
+<button class="export-btn" onclick="exportCSV()">Export CSV</button>
+<button class="export-btn" onclick="exportPDF()">Export PDF</button>
+</div>
+
+<!-- SEGMENTS -->
+<div id="segments" class="section-content">
+{% for seg in segments %}
+<div class="segment-card"
+data-start="{{ seg.start_time }}"
+data-end="{{ seg.end_time }}"
+data-text="{{ seg.text|escape }}"
+data-summary="{{ seg.summary|escape }}"
+data-keywords="{{ seg.keywords|join(',') }}"
+data-sentiment="{{ seg.sentiment_label }}">
+
+<strong>Segment {{ seg.segment_id }}</strong><br>
+⏱ {{ seg.start_time }}s - {{ seg.end_time }}s
+<button onclick="jumpTo('{{ seg.start_time }}')">Jump</button>
+
+<p class="segment-text" id="text{{ seg.segment_id }}">{{ seg.text }}</p>
+<button onclick="toggleText('text{{ seg.segment_id }}', this)">Show More</button>
+
+<p><b>Summary:</b> {{ seg.summary }}</p>
+
+<div>
+{% for k in seg.keywords %}
+<span class="keyword-tag">{{ k }}</span>
+{% endfor %}
+</div>
+
+</div>
+{% endfor %}
+</div>
+
+<!-- KEYWORD -->
+<div id="keyword" class="section-content" style="display:none;">
+<input id="keywordInput" placeholder="Search keyword">
+<button onclick="searchKeyword()">Search</button>
+<div id="keywordResults"></div>
+</div>
+
+<!-- VISUALIZATION -->
+<div id="visualization" class="section-content" style="display:none;">
+
+<div class="graph-card">
+<canvas id="segmentTimeline"
+data-labels='{{ segment_labels|tojson }}'
+data-durations='{{ segment_durations|tojson }}'
+data-topics='{{ topic_boundaries|tojson }}'>
+</canvas>
+</div>
+
+<div class="graph-card">
+<canvas id="sentimentChart"
+data-times='{{ sentiment_times|tojson }}'
+data-scores='{{ sentiment_scores|tojson }}'>
+</canvas>
+</div>
+
+<div class="graph-card">
+<canvas id="keywordChart"
+data-words='{{ keyword_words|tojson }}'
+data-counts='{{ keyword_counts|tojson }}'>
+</canvas>
+</div>
+
+{% if wordcloud_image %}
+<img src="data:image/png;base64,{{ wordcloud_image }}" style="width:100%;">
+{% endif %}
+
+</div>
+
+<!-- SENTIMENT -->
+<div id="sentiment" class="section-content" style="display:none;">
+<p>Positive: {{ sentiment.positive }}%</p>
+<p>Neutral: {{ sentiment.neutral }}%</p>
+<p>Negative: {{ sentiment.negative }}%</p>
+</div>
+
+</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+<script>
+
+// SECTION SWITCH
+function showSection(id){
+document.querySelectorAll(".section-content").forEach(s=>s.style.display="none");
+document.getElementById(id).style.display="block";
+}
+
+// AUDIO
+function jumpTo(time){
+let p=document.getElementById("audioPlayer");
+if(p){p.currentTime=time;p.play();}
+}
+
+// TEXT EXPAND
+function toggleText(id,btn){
+let t=document.getElementById(id);
+t.classList.toggle("expanded");
+btn.innerText = t.classList.contains("expanded") ? "Show Less" : "Show More";
+}
+
+// FAST SEARCH
+function searchKeyword(){
+let word=document.getElementById("keywordInput").value.toLowerCase();
+let cards=document.querySelectorAll(".segment-card");
+let res=[];
+cards.forEach(c=>{
+if(c.dataset.text.includes(word)){
+res.push(`<p>${c.dataset.text.substring(0,150)}...</p>`);
+}
+});
+document.getElementById("keywordResults").innerHTML=res.join("") || "No result";
+}
+
+// CSV
+function exportCSV(){
+let rows=["Segment,Start,End,Text"];
+document.querySelectorAll(".segment-card").forEach(c=>{
+rows.push(`${c.dataset.start},${c.dataset.start},${c.dataset.end},"${c.dataset.text}"`);
+});
+let blob=new Blob([rows.join("\n")]);
+let a=document.createElement("a");
+a.href=URL.createObjectURL(blob);
+a.download="segments.csv";
+a.click();
+}
+
+// PDF
+function exportPDF(){
+const { jsPDF } = window.jspdf;
+let doc=new jsPDF();
+let y=10;
+document.querySelectorAll(".segment-card").forEach(c=>{
+if(y>270){doc.addPage();y=10;}
+doc.text(c.dataset.text.substring(0,80),10,y);
+y+=10;
+});
+doc.save("segments.pdf");
+}
+
+// CHARTS
+document.addEventListener("DOMContentLoaded",()=>{
+
+// timeline
+let t=document.getElementById("segmentTimeline");
+if(t){
+let labels=JSON.parse(t.dataset.labels);
+let durations=JSON.parse(t.dataset.durations);
+let topics=JSON.parse(t.dataset.topics);
+
+new Chart(t,{
+type:'line',
+data:{
+    labels: labels,
+    datasets:[
+        {
+            label: "Segment Duration (sec)",
+            data: durations,
+            borderColor:'#06b6d4'
+        },
+        {
+            label: "Topic Boundary Time",
+            data: topics,
+            borderColor:'#6366f1'
+        }
+    ]
+},
+options:{animation:false,responsive:true}
+});
+}
+
+// sentiment
+let s=document.getElementById("sentimentChart");
+if(s){
+let times=JSON.parse(s.dataset.times);
+let scores=JSON.parse(s.dataset.scores);
+
+new Chart(s,{
+type:'line',
+data:{
+    labels: times,
+    datasets:[{
+        label: "Sentiment Score",
+        data: scores,
+        borderColor:'#22c55e'
+    }]
+},
+options:{animation:false}
+});
+}
+
+// keyword
+let k=document.getElementById("keywordChart");
+if(k){
+let words=JSON.parse(k.dataset.words);
+let counts=JSON.parse(k.dataset.counts);
+
+new Chart(k,{
+type:'bar',
+data:{
+    labels: words,
+    datasets:[{
+        label: "Keyword Frequency",
+        data: counts
+    }]
+},
+options:{animation:false}
+});
+}
+
+});
+
+</script>
+
+{% endblock %}

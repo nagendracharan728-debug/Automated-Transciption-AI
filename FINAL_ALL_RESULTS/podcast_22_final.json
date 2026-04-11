@@ -1,0 +1,1163 @@
+{
+  "episode_id": "podcast_22",
+  "all_configurations": [
+    {
+      "block_size": 3,
+      "k_value": 0.8,
+      "number_of_segments": 17,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.11,
+          "end_time": 18.11,
+          "text": "Who doesn't love and happy? Thank you for coming back. I know, but you know we have a moment. You're just like that forever. Thank you. Yeah, there you go. It's just happening. Come on, the roots. You're high, everybody. Thank you for playing reverse charades with me. You're a great part of it. I don't mean either. Are you? It means you've been in your soul last week. It's okay. It's okay. Let's go. I want to win this. Yeah.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "happy",
+            "love",
+            "soul",
+            "win",
+            "forever"
+          ],
+          "summary": "Who doesn't love and happy? Thank you for coming back. You're a great part of it. It means you've been in your soul last week. It's okay. Let's go."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 18.11,
+          "end_time": 53.11,
+          "text": "Yeah, my kids are very competitive too. I got the one down. It's fun. It's all good. I don't throw that plate for... Are you, is there a party game that you're especially good? It's not a lot of... We play a lot of trouble and sorrows and games. Have you seen that? No, I should like score some movies. And I was just stunned. I just knew and I was like, surprising myself. And it was like... You know you movies. I mean, and then I got to this one question and... Oh, I could have said that. I'm just like... Let's go and say it. Wait, but it's her. That was me, but I'm the... That's why I want to come see you. Yeah, so...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "competitive",
+            "play",
+            "kids",
+            "games",
+            "party"
+          ],
+          "summary": "Yeah, my kids are very competitive too. I got the one down. It's fun. I don't throw that plate for... Are you, is there a party game that you're especially good? It's not a lot of..."
+        },
+        {
+          "segment_id": 3,
+          "start_time": 53.11,
+          "end_time": 73.39,
+          "text": "I'm going to do a project and then you can talk it out of your mind. I don't know. I'm... I... I watch you all the time. To this day, I watch you all the time. Really? My family loves me. I love him. I love... So anyway, people quote it to me. I don't remember that. But Devil was proud of... I actually saw a photo of you. You're kind of Broadway.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "devil",
+            "quote",
+            "proud",
+            "broadway",
+            "photo"
+          ],
+          "summary": "I'm going to do a project and then you can talk it out of your mind. I'm... I... I watch you all the time. To this day, I"
+        },
+        {
+          "segment_id": 4,
+          "start_time": 73.39,
+          "end_time": 85.39,
+          "text": "You have Gutenberg. Did the crowd go nuts? Yeah. So by the... Dear friends, and they're so... They're so... Maybe next level. The end of the show, they... So they said my name first on this name.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "gutenberg",
+            "friends",
+            "dear",
+            "crowd",
+            "end"
+          ],
+          "summary": "You have Gutenberg. Did the crowd go nuts? Yeah. So by the... Dear"
+        },
+        {
+          "segment_id": 5,
+          "start_time": 85.39,
+          "end_time": 88.39,
+          "text": "Really? Yeah. You rock star, everybody.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "star",
+            "rock",
+            "everybody",
+            "really",
+            "yeah"
+          ],
+          "summary": "Really? Yeah. You rock star"
+        },
+        {
+          "segment_id": 6,
+          "start_time": 88.39,
+          "end_time": 94.39,
+          "text": "Because you don't really see Anna outside. Yeah, exactly. You never see Anna went to her from the... I truck her hat. That's correct. Yeah.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "anna",
+            "hat",
+            "outside",
+            "truck",
+            "exactly"
+          ],
+          "summary": "Because you don't really see Anna outside. You never see"
+        },
+        {
+          "segment_id": 7,
+          "start_time": 94.39,
+          "end_time": 97.39,
+          "text": "But everyone just went nuts. I think we're yet. Yeah, she's in New York.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "york",
+            "nuts",
+            "new",
+            "just",
+            "went"
+          ],
+          "summary": "But everyone just went nuts. I think we're yet."
+        },
+        {
+          "segment_id": 8,
+          "start_time": 97.39,
+          "end_time": 107.39,
+          "text": "Everything. Is she fun to do it to Sheth's day? She's... She's so cool. So I get a little nervous. I've less to lose because I'm never a vote. So I don't have nothing to worry about. But she likes me. I mean, I actually...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "nervous",
+            "fun",
+            "vote",
+            "likes",
+            "day"
+          ],
+          "summary": "Everything. Is she fun to do it to Sheth's day? She's... She's so cool."
+        },
+        {
+          "segment_id": 9,
+          "start_time": 107.39,
+          "end_time": 116.39,
+          "text": "But in some... I just... Did I come to love on you? Yeah, good. You should be. That on your butt. No. That's the acting also of a dig. It's the same time.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "dig",
+            "acting",
+            "butt",
+            "love",
+            "come"
+          ],
+          "summary": "But in some... I just... Did I come to love on you?"
+        },
+        {
+          "segment_id": 10,
+          "start_time": 116.39,
+          "end_time": 137.39,
+          "text": "So... That's how well I know you. That's how pussy I am. Yeah, I know. I saw you, man. I'm Broadway. But it wasn't. Is she gonna see you? Yeah. But you did that. You better keep digging me. Are you kidding me? I don't laugh. I saw you. And it was that bell court theme. You made it nerve-wrong. Nothing went wrong. Nothing went wrong. Nothing went wrong. No, you didn't. Because...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "broadway",
+            "laugh",
+            "bell",
+            "saw",
+            "pussy"
+          ],
+          "summary": "\"I saw you, man. I'm Broadway. But it wasn't. Is she gonna see you? Yeah. But you did that. You better keep digging me.\""
+        },
+        {
+          "segment_id": 11,
+          "start_time": 137.39,
+          "end_time": 181.57,
+          "text": "Yeah, I didn't see the dozen. So... I think she experienced it. And so... But it's kind of amazing. Because every night, the last show. I was going to stay with her. Every night, I was just thanks to anyone there. And... No monitor. And I said the last... The hell. Kill. But they've been feeling... And I just like... And so I lean into it. I'm high-fiving my side. I'm just like... I'm rockening. No. And I get off. Did you see the raccoon? Kind of. As soon as you came on stage. A family of raccoons came out. They were so confused. They were like... Well, actually... You got to work with everybody. You played well with others. Let's talk about the idea of you. Oh my gosh. Broke the record.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "raccoons",
+            "raccoon",
+            "dozen",
+            "stage",
+            "feeling"
+          ],
+          "summary": "Yeah, I didn't see the dozen. So... I think she experienced it. But it's kind of amazing. Because every night, the last show. I was going to stay with her. Every night, I was just thanks to anyone there. No monitor. And I said the last... The hell. Kill."
+        },
+        {
+          "segment_id": 12,
+          "start_time": 181.57,
+          "end_time": 186.57,
+          "text": "Both was trailer of any streaming movie in history. Can we set it up? Oh, sure.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "trailer",
+            "streaming",
+            "movie",
+            "history",
+            "sure"
+          ],
+          "summary": "Both was trailer of any streaming movie in history. Can we"
+        },
+        {
+          "segment_id": 13,
+          "start_time": 186.57,
+          "end_time": 221.57,
+          "text": "Sure. This... Oh, she's a guy. And she's an expert. Yeah. And you're just a mom. And you're a chap running through this thing. And then boy band. Love you. You can describe my movie. Just mom. I could do it. Mom in this thing. That's what I was going to say. Mom is a chap running like a coach. And the biggest boy band in the world. Oh, yes. So my character. My daughter's off watching. And she doesn't... Anyway, I'm... All access to... Okay. I'm Jason. Susan. I'm the... Oh, man. You guys have... I'm Ray. I know what you're saying. Yeah. No. As soon as he...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "mom",
+            "daughter",
+            "movie",
+            "jason",
+            "band"
+          ],
+          "summary": "Sure. This... Oh, she's a guy. And she's an expert. And you're a chap running through this thing. And then boy band. Love you."
+        },
+        {
+          "segment_id": 14,
+          "start_time": 221.57,
+          "end_time": 246.57,
+          "text": "I actually burst out laughing. We shouldn't have... We shouldn't have... We shouldn't have... It's not tonight show yet. You want to go over to Steven Colbert. You want to go to Steven Colbert. If you want to get people to read both the name... Well, you have a boss. We do... We do Audible here. We do that. We can do that. We can do that. Okay. So... Jason's book. Yeah. Too late. Too late. But this is the space of the big...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "colbert",
+            "jason",
+            "steven",
+            "laughing",
+            "tonight"
+          ],
+          "summary": "I actually burst out laughing. You want to go over to Steven Colbert. If you want to get people to read both the name... Well, you have a boss."
+        },
+        {
+          "segment_id": 15,
+          "start_time": 246.57,
+          "end_time": 258.57,
+          "text": "Okay. The book does have a fan following. Yeah. Somewhere. And... And I walked in to go to the slide. And I... Yeah. And I just thought, oh, that's Ethan. And that was... Yeah. It's really great.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "ethan",
+            "book",
+            "fan",
+            "slide",
+            "walked"
+          ],
+          "summary": "Okay. The book does have a fan following. Somewhere. And... And I walked in to"
+        },
+        {
+          "segment_id": 16,
+          "start_time": 258.57,
+          "end_time": 270.07,
+          "text": "It works. And halfway. And the idea of you... Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, I don't. It's yours. Yeah. I'm in the bunch.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "assap",
+            "trip",
+            "assuming",
+            "idea",
+            "works"
+          ],
+          "summary": "It works. And halfway. And the idea of you... Are you a part of that ASSAP? No."
+        },
+        {
+          "segment_id": 17,
+          "start_time": 270.07,
+          "end_time": 290.07,
+          "text": "On this count. On this count. On this count. Yeah. Absolutely know who you are. Anyway. Oh. Yeah. Come on. You know. You know. You know. You know. You know. You know. Everybody. The idea of you... Begin streaming on Prime Video. I talked with no one in Lensky. Go around everyone.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "lensky",
+            "prime",
+            "count",
+            "talked",
+            "everybody"
+          ],
+          "summary": "On this count. I talked with no one in Lensky. Go around everyone. Yeah. Absolutely know who you are."
+        }
+      ]
+    },
+    {
+      "block_size": 3,
+      "k_value": 1.0,
+      "number_of_segments": 9,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.11,
+          "end_time": 18.11,
+          "text": "Who doesn't love and happy? Thank you for coming back. I know, but you know we have a moment. You're just like that forever. Thank you. Yeah, there you go. It's just happening. Come on, the roots. You're high, everybody. Thank you for playing reverse charades with me. You're a great part of it. I don't mean either. Are you? It means you've been in your soul last week. It's okay. It's okay. Let's go. I want to win this. Yeah.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "happy",
+            "love",
+            "soul",
+            "win",
+            "forever"
+          ],
+          "summary": "Who doesn't love and happy? Thank you for coming back. You're a great part of it. It means you've been in your soul last week. It's okay. Let's go."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 18.11,
+          "end_time": 53.11,
+          "text": "Yeah, my kids are very competitive too. I got the one down. It's fun. It's all good. I don't throw that plate for... Are you, is there a party game that you're especially good? It's not a lot of... We play a lot of trouble and sorrows and games. Have you seen that? No, I should like score some movies. And I was just stunned. I just knew and I was like, surprising myself. And it was like... You know you movies. I mean, and then I got to this one question and... Oh, I could have said that. I'm just like... Let's go and say it. Wait, but it's her. That was me, but I'm the... That's why I want to come see you. Yeah, so...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "competitive",
+            "play",
+            "kids",
+            "games",
+            "party"
+          ],
+          "summary": "Yeah, my kids are very competitive too. I got the one down. It's fun. I don't throw that plate for... Are you, is there a party game that you're especially good? It's not a lot of..."
+        },
+        {
+          "segment_id": 3,
+          "start_time": 53.11,
+          "end_time": 73.39,
+          "text": "I'm going to do a project and then you can talk it out of your mind. I don't know. I'm... I... I watch you all the time. To this day, I watch you all the time. Really? My family loves me. I love him. I love... So anyway, people quote it to me. I don't remember that. But Devil was proud of... I actually saw a photo of you. You're kind of Broadway.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "devil",
+            "quote",
+            "proud",
+            "broadway",
+            "photo"
+          ],
+          "summary": "I'm going to do a project and then you can talk it out of your mind. I'm... I... I watch you all the time. To this day, I"
+        },
+        {
+          "segment_id": 4,
+          "start_time": 73.39,
+          "end_time": 107.39,
+          "text": "You have Gutenberg. Did the crowd go nuts? Yeah. So by the... Dear friends, and they're so... They're so... Maybe next level. The end of the show, they... So they said my name first on this name. Really? Yeah. You rock star, everybody. Because you don't really see Anna outside. Yeah, exactly. You never see Anna went to her from the... I truck her hat. That's correct. Yeah. But everyone just went nuts. I think we're yet. Yeah, she's in New York. Everything. Is she fun to do it to Sheth's day? She's... She's so cool. So I get a little nervous. I've less to lose because I'm never a vote. So I don't have nothing to worry about. But she likes me. I mean, I actually...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "anna",
+            "friends",
+            "lose",
+            "gutenberg",
+            "star"
+          ],
+          "summary": "\"I get a little nervous. I've less to lose because I'm never a vote. So I don't have nothing to worry about. But she likes me\""
+        },
+        {
+          "segment_id": 5,
+          "start_time": 107.39,
+          "end_time": 181.57,
+          "text": "But in some... I just... Did I come to love on you? Yeah, good. You should be. That on your butt. No. That's the acting also of a dig. It's the same time. So... That's how well I know you. That's how pussy I am. Yeah, I know. I saw you, man. I'm Broadway. But it wasn't. Is she gonna see you? Yeah. But you did that. You better keep digging me. Are you kidding me? I don't laugh. I saw you. And it was that bell court theme. You made it nerve-wrong. Nothing went wrong. Nothing went wrong. Nothing went wrong. No, you didn't. Because... Yeah, I didn't see the dozen. So... I think she experienced it. And so... But it's kind of amazing. Because every night, the last show. I was going to stay with her. Every night, I was just thanks to anyone there. And... No monitor. And I said the last... The hell. Kill. But they've been feeling... And I just like... And so I lean into it. I'm high-fiving my side. I'm just like... I'm rockening. No. And I get off. Did you see the raccoon? Kind of. As soon as you came on stage. A family of raccoons came out. They were so confused. They were like... Well, actually... You got to work with everybody. You played well with others. Let's talk about the idea of you. Oh my gosh. Broke the record.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "broadway",
+            "stage",
+            "laugh",
+            "stay",
+            "love"
+          ],
+          "summary": "But in some... I just... Did I come to love on you? Yeah, good. You should be. That on your butt. That's the acting also of a dig. It's the same time. So... That's how well I know you. that's how pussy I am. I saw you, man. I'm Broadway. But it wasn't. Is she gonna see you? yeah. But you did that. You better keep digging me."
+        },
+        {
+          "segment_id": 6,
+          "start_time": 181.57,
+          "end_time": 221.57,
+          "text": "Both was trailer of any streaming movie in history. Can we set it up? Oh, sure. Sure. This... Oh, she's a guy. And she's an expert. Yeah. And you're just a mom. And you're a chap running through this thing. And then boy band. Love you. You can describe my movie. Just mom. I could do it. Mom in this thing. That's what I was going to say. Mom is a chap running like a coach. And the biggest boy band in the world. Oh, yes. So my character. My daughter's off watching. And she doesn't... Anyway, I'm... All access to... Okay. I'm Jason. Susan. I'm the... Oh, man. You guys have... I'm Ray. I know what you're saying. Yeah. No. As soon as he...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "movie",
+            "trailer",
+            "mom",
+            "daughter",
+            "streaming"
+          ],
+          "summary": "Both was trailer of any streaming movie in history. Can we set it up? Oh, sure. Sure. Love you. You can describe my movie. Just mom. I could do it."
+        },
+        {
+          "segment_id": 7,
+          "start_time": 221.57,
+          "end_time": 246.57,
+          "text": "I actually burst out laughing. We shouldn't have... We shouldn't have... We shouldn't have... It's not tonight show yet. You want to go over to Steven Colbert. You want to go to Steven Colbert. If you want to get people to read both the name... Well, you have a boss. We do... We do Audible here. We do that. We can do that. We can do that. Okay. So... Jason's book. Yeah. Too late. Too late. But this is the space of the big...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "colbert",
+            "jason",
+            "steven",
+            "laughing",
+            "tonight"
+          ],
+          "summary": "I actually burst out laughing. You want to go over to Steven Colbert. If you want to get people to read both the name... Well, you have a boss."
+        },
+        {
+          "segment_id": 8,
+          "start_time": 246.57,
+          "end_time": 258.57,
+          "text": "Okay. The book does have a fan following. Yeah. Somewhere. And... And I walked in to go to the slide. And I... Yeah. And I just thought, oh, that's Ethan. And that was... Yeah. It's really great.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "ethan",
+            "book",
+            "fan",
+            "slide",
+            "walked"
+          ],
+          "summary": "Okay. The book does have a fan following. Somewhere. And... And I walked in to"
+        },
+        {
+          "segment_id": 9,
+          "start_time": 258.57,
+          "end_time": 290.07,
+          "text": "It works. And halfway. And the idea of you... Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, I don't. It's yours. Yeah. I'm in the bunch. On this count. On this count. On this count. Yeah. Absolutely know who you are. Anyway. Oh. Yeah. Come on. You know. You know. You know. You know. You know. You know. Everybody. The idea of you... Begin streaming on Prime Video. I talked with no one in Lensky. Go around everyone.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "streaming",
+            "idea",
+            "trip",
+            "assap",
+            "video"
+          ],
+          "summary": "It works. And halfway. And the idea of you... Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, he doesn't."
+        }
+      ]
+    },
+    {
+      "block_size": 3,
+      "k_value": 1.2,
+      "number_of_segments": 5,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.11,
+          "end_time": 73.39,
+          "text": "Who doesn't love and happy? Thank you for coming back. I know, but you know we have a moment. You're just like that forever. Thank you. Yeah, there you go. It's just happening. Come on, the roots. You're high, everybody. Thank you for playing reverse charades with me. You're a great part of it. I don't mean either. Are you? It means you've been in your soul last week. It's okay. It's okay. Let's go. I want to win this. Yeah. Yeah, my kids are very competitive too. I got the one down. It's fun. It's all good. I don't throw that plate for... Are you, is there a party game that you're especially good? It's not a lot of... We play a lot of trouble and sorrows and games. Have you seen that? No, I should like score some movies. And I was just stunned. I just knew and I was like, surprising myself. And it was like... You know you movies. I mean, and then I got to this one question and... Oh, I could have said that. I'm just like... Let's go and say it. Wait, but it's her. That was me, but I'm the... That's why I want to come see you. Yeah, so... I'm going to do a project and then you can talk it out of your mind. I don't know. I'm... I... I watch you all the time. To this day, I watch you all the time. Really? My family loves me. I love him. I love... So anyway, people quote it to me. I don't remember that. But Devil was proud of... I actually saw a photo of you. You're kind of Broadway.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "play",
+            "charades",
+            "game",
+            "playing",
+            "games"
+          ],
+          "summary": "\"I'm going to do a project and then you can talk it out of your mind,\" he says. \"I watch you all the time. To this day, I watch youall the time\" \"My family loves me. I love him,\" he adds. \"That's why I want to come see you\" \"You're a great part of it. You're kind of Broadway\" \"It's not a lot of trouble and sorrows and games,\" he admits."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 73.39,
+          "end_time": 181.57,
+          "text": "You have Gutenberg. Did the crowd go nuts? Yeah. So by the... Dear friends, and they're so... They're so... Maybe next level. The end of the show, they... So they said my name first on this name. Really? Yeah. You rock star, everybody. Because you don't really see Anna outside. Yeah, exactly. You never see Anna went to her from the... I truck her hat. That's correct. Yeah. But everyone just went nuts. I think we're yet. Yeah, she's in New York. Everything. Is she fun to do it to Sheth's day? She's... She's so cool. So I get a little nervous. I've less to lose because I'm never a vote. So I don't have nothing to worry about. But she likes me. I mean, I actually... But in some... I just... Did I come to love on you? Yeah, good. You should be. That on your butt. No. That's the acting also of a dig. It's the same time. So... That's how well I know you. That's how pussy I am. Yeah, I know. I saw you, man. I'm Broadway. But it wasn't. Is she gonna see you? Yeah. But you did that. You better keep digging me. Are you kidding me? I don't laugh. I saw you. And it was that bell court theme. You made it nerve-wrong. Nothing went wrong. Nothing went wrong. Nothing went wrong. No, you didn't. Because... Yeah, I didn't see the dozen. So... I think she experienced it. And so... But it's kind of amazing. Because every night, the last show. I was going to stay with her. Every night, I was just thanks to anyone there. And... No monitor. And I said the last... The hell. Kill. But they've been feeling... And I just like... And so I lean into it. I'm high-fiving my side. I'm just like... I'm rockening. No. And I get off. Did you see the raccoon? Kind of. As soon as you came on stage. A family of raccoons came out. They were so confused. They were like... Well, actually... You got to work with everybody. You played well with others. Let's talk about the idea of you. Oh my gosh. Broke the record.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "anna",
+            "acting",
+            "stage",
+            "talk",
+            "broadway"
+          ],
+          "summary": "\"I was going to stay with her every night, the last show. Every night, I was just thanks to anyone there\" \"You better keep digging me. Are you kidding me? I don't laugh. I saw you\" \"A family of raccoons came out. They were so confused\" \"I'm high-fiving my side. I'm just like... I'm rockening. No. And I get off\" \"It's kind of amazing. I mean, I actually... But in some... I just... Did I come to love on you? Yeah, good\""
+        },
+        {
+          "segment_id": 3,
+          "start_time": 181.57,
+          "end_time": 221.57,
+          "text": "Both was trailer of any streaming movie in history. Can we set it up? Oh, sure. Sure. This... Oh, she's a guy. And she's an expert. Yeah. And you're just a mom. And you're a chap running through this thing. And then boy band. Love you. You can describe my movie. Just mom. I could do it. Mom in this thing. That's what I was going to say. Mom is a chap running like a coach. And the biggest boy band in the world. Oh, yes. So my character. My daughter's off watching. And she doesn't... Anyway, I'm... All access to... Okay. I'm Jason. Susan. I'm the... Oh, man. You guys have... I'm Ray. I know what you're saying. Yeah. No. As soon as he...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "movie",
+            "trailer",
+            "mom",
+            "daughter",
+            "streaming"
+          ],
+          "summary": "Both was trailer of any streaming movie in history. Can we set it up? Oh, sure. Sure. Love you. You can describe my movie. Just mom. I could do it."
+        },
+        {
+          "segment_id": 4,
+          "start_time": 221.57,
+          "end_time": 258.57,
+          "text": "I actually burst out laughing. We shouldn't have... We shouldn't have... We shouldn't have... It's not tonight show yet. You want to go over to Steven Colbert. You want to go to Steven Colbert. If you want to get people to read both the name... Well, you have a boss. We do... We do Audible here. We do that. We can do that. We can do that. Okay. So... Jason's book. Yeah. Too late. Too late. But this is the space of the big... Okay. The book does have a fan following. Yeah. Somewhere. And... And I walked in to go to the slide. And I... Yeah. And I just thought, oh, that's Ethan. And that was... Yeah. It's really great.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "jason",
+            "colbert",
+            "ethan",
+            "steven",
+            "book"
+          ],
+          "summary": "I actually burst out laughing. It's not tonight show yet. You want to go over to Steven Colbert. If you want to get people to read both the name... Well, you have a boss."
+        },
+        {
+          "segment_id": 5,
+          "start_time": 258.57,
+          "end_time": 290.07,
+          "text": "It works. And halfway. And the idea of you... Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, I don't. It's yours. Yeah. I'm in the bunch. On this count. On this count. On this count. Yeah. Absolutely know who you are. Anyway. Oh. Yeah. Come on. You know. You know. You know. You know. You know. You know. Everybody. The idea of you... Begin streaming on Prime Video. I talked with no one in Lensky. Go around everyone.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "streaming",
+            "idea",
+            "trip",
+            "assap",
+            "video"
+          ],
+          "summary": "It works. And halfway. And the idea of you... Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, he doesn't."
+        }
+      ]
+    },
+    {
+      "block_size": 5,
+      "k_value": 0.8,
+      "number_of_segments": 11,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.11,
+          "end_time": 61.39,
+          "text": "Who doesn't love and happy? Thank you for coming back. I know, but you know we have a moment. You're just like that forever. Thank you. Yeah, there you go. It's just happening. Come on, the roots. You're high, everybody. Thank you for playing reverse charades with me. You're a great part of it. I don't mean either. Are you? It means you've been in your soul last week. It's okay. It's okay. Let's go. I want to win this. Yeah. Yeah, my kids are very competitive too. I got the one down. It's fun. It's all good. I don't throw that plate for... Are you, is there a party game that you're especially good? It's not a lot of... We play a lot of trouble and sorrows and games. Have you seen that? No, I should like score some movies. And I was just stunned. I just knew and I was like, surprising myself. And it was like... You know you movies. I mean, and then I got to this one question and... Oh, I could have said that. I'm just like... Let's go and say it. Wait, but it's her. That was me, but I'm the... That's why I want to come see you. Yeah, so... I'm going to do a project and then you can talk it out of your mind. I don't know. I'm... I... I watch you all the time.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "play",
+            "charades",
+            "game",
+            "playing",
+            "games"
+          ],
+          "summary": "\"I'm going to do a project and then you can talk it out of your mind,\" he says. \"We play a lot of trouble and sorrows and games. Have you seen that? No, I should like score some movies. And I was just stunned. I just knew and I was like, surprising myself\""
+        },
+        {
+          "segment_id": 2,
+          "start_time": 61.39,
+          "end_time": 73.39,
+          "text": "To this day, I watch you all the time. Really? My family loves me. I love him. I love... So anyway, people quote it to me. I don't remember that. But Devil was proud of... I actually saw a photo of you. You're kind of Broadway.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "devil",
+            "quote",
+            "proud",
+            "watch",
+            "loves"
+          ],
+          "summary": "To this day, I watch you all the time. My family loves me. I love him. I"
+        },
+        {
+          "segment_id": 3,
+          "start_time": 73.39,
+          "end_time": 107.39,
+          "text": "You have Gutenberg. Did the crowd go nuts? Yeah. So by the... Dear friends, and they're so... They're so... Maybe next level. The end of the show, they... So they said my name first on this name. Really? Yeah. You rock star, everybody. Because you don't really see Anna outside. Yeah, exactly. You never see Anna went to her from the... I truck her hat. That's correct. Yeah. But everyone just went nuts. I think we're yet. Yeah, she's in New York. Everything. Is she fun to do it to Sheth's day? She's... She's so cool. So I get a little nervous. I've less to lose because I'm never a vote. So I don't have nothing to worry about. But she likes me. I mean, I actually...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "anna",
+            "friends",
+            "lose",
+            "gutenberg",
+            "star"
+          ],
+          "summary": "\"I get a little nervous. I've less to lose because I'm never a vote. So I don't have nothing to worry about. But she likes me\""
+        },
+        {
+          "segment_id": 4,
+          "start_time": 107.39,
+          "end_time": 148.39,
+          "text": "But in some... I just... Did I come to love on you? Yeah, good. You should be. That on your butt. No. That's the acting also of a dig. It's the same time. So... That's how well I know you. That's how pussy I am. Yeah, I know. I saw you, man. I'm Broadway. But it wasn't. Is she gonna see you? Yeah. But you did that. You better keep digging me. Are you kidding me? I don't laugh. I saw you. And it was that bell court theme. You made it nerve-wrong. Nothing went wrong. Nothing went wrong. Nothing went wrong. No, you didn't. Because... Yeah, I didn't see the dozen. So... I think she experienced it. And so... But it's kind of amazing. Because every night, the last show. I was going to stay with her. Every night, I was just thanks to anyone there. And... No monitor.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "broadway",
+            "laugh",
+            "love",
+            "pussy",
+            "stay"
+          ],
+          "summary": "But in some... I just... Did I come to love on you? Yeah, good. That on your butt. That's the acting also of a dig. It's the same time. So... That's how well I know you. that's how pussy I am."
+        },
+        {
+          "segment_id": 5,
+          "start_time": 148.39,
+          "end_time": 153.39,
+          "text": "And I said the last... The hell. Kill. But they've been feeling... And I just like...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "kill",
+            "feeling",
+            "like",
+            "just",
+            "ve"
+          ],
+          "summary": "And I said the last... The hell. Kill. But"
+        },
+        {
+          "segment_id": 6,
+          "start_time": 153.39,
+          "end_time": 185.57,
+          "text": "And so I lean into it. I'm high-fiving my side. I'm just like... I'm rockening. No. And I get off. Did you see the raccoon? Kind of. As soon as you came on stage. A family of raccoons came out. They were so confused. They were like... Well, actually... You got to work with everybody. You played well with others. Let's talk about the idea of you. Oh my gosh. Broke the record. Both was trailer of any streaming movie in history. Can we set it up?",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "raccoon",
+            "raccoons",
+            "movie",
+            "trailer",
+            "stage"
+          ],
+          "summary": "And so I lean into it. I'm high-fiving my side. And I get off. Did you see the raccoon? Kind of. As soon as you came on stage a family of raccoons came out"
+        },
+        {
+          "segment_id": 7,
+          "start_time": 185.57,
+          "end_time": 240.57,
+          "text": "Oh, sure. Sure. This... Oh, she's a guy. And she's an expert. Yeah. And you're just a mom. And you're a chap running through this thing. And then boy band. Love you. You can describe my movie. Just mom. I could do it. Mom in this thing. That's what I was going to say. Mom is a chap running like a coach. And the biggest boy band in the world. Oh, yes. So my character. My daughter's off watching. And she doesn't... Anyway, I'm... All access to... Okay. I'm Jason. Susan. I'm the... Oh, man. You guys have... I'm Ray. I know what you're saying. Yeah. No. As soon as he... I actually burst out laughing. We shouldn't have... We shouldn't have... We shouldn't have... It's not tonight show yet. You want to go over to Steven Colbert. You want to go to Steven Colbert. If you want to get people to read both the name... Well, you have a boss. We do... We do Audible here. We do that. We can do that. We can do that. Okay. So...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "mom",
+            "daughter",
+            "band",
+            "movie",
+            "colbert"
+          ],
+          "summary": "\"I could do it. Just mom. Mom in this thing. That's what I was going to say. Mom is a chap running like a coach. And the biggest boy band in the world. Oh, yes. So my character. My daughter's off watching. And she doesn't... Anyway, I'm... All access to... Okay."
+        },
+        {
+          "segment_id": 8,
+          "start_time": 240.57,
+          "end_time": 251.57,
+          "text": "Jason's book. Yeah. Too late. Too late. But this is the space of the big... Okay. The book does have a fan following. Yeah. Somewhere. And...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "jason",
+            "book",
+            "fan",
+            "space",
+            "following"
+          ],
+          "summary": "Jason's book. Yeah. Too late. But this is"
+        },
+        {
+          "segment_id": 9,
+          "start_time": 251.57,
+          "end_time": 261.57,
+          "text": "And I walked in to go to the slide. And I... Yeah. And I just thought, oh, that's Ethan. And that was... Yeah. It's really great. It works. And halfway. And the idea of you...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "ethan",
+            "slide",
+            "walked",
+            "oh",
+            "great"
+          ],
+          "summary": "And I walked in to go to the slide. And I just thought, oh,"
+        },
+        {
+          "segment_id": 10,
+          "start_time": 261.57,
+          "end_time": 286.07,
+          "text": "Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, I don't. It's yours. Yeah. I'm in the bunch. On this count. On this count. On this count. Yeah. Absolutely know who you are. Anyway. Oh. Yeah. Come on. You know. You know. You know. You know. You know. You know. Everybody.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "assap",
+            "trip",
+            "assuming",
+            "bunch",
+            "everybody"
+          ],
+          "summary": "Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, I don"
+        },
+        {
+          "segment_id": 11,
+          "start_time": 286.07,
+          "end_time": 290.07,
+          "text": "The idea of you... Begin streaming on Prime Video. I talked with no one in Lensky. Go around everyone.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "lensky",
+            "streaming",
+            "prime",
+            "video",
+            "idea"
+          ],
+          "summary": "The idea of you... Begin streaming on Prime Video. I"
+        }
+      ]
+    },
+    {
+      "block_size": 5,
+      "k_value": 1.0,
+      "number_of_segments": 11,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.11,
+          "end_time": 61.39,
+          "text": "Who doesn't love and happy? Thank you for coming back. I know, but you know we have a moment. You're just like that forever. Thank you. Yeah, there you go. It's just happening. Come on, the roots. You're high, everybody. Thank you for playing reverse charades with me. You're a great part of it. I don't mean either. Are you? It means you've been in your soul last week. It's okay. It's okay. Let's go. I want to win this. Yeah. Yeah, my kids are very competitive too. I got the one down. It's fun. It's all good. I don't throw that plate for... Are you, is there a party game that you're especially good? It's not a lot of... We play a lot of trouble and sorrows and games. Have you seen that? No, I should like score some movies. And I was just stunned. I just knew and I was like, surprising myself. And it was like... You know you movies. I mean, and then I got to this one question and... Oh, I could have said that. I'm just like... Let's go and say it. Wait, but it's her. That was me, but I'm the... That's why I want to come see you. Yeah, so... I'm going to do a project and then you can talk it out of your mind. I don't know. I'm... I... I watch you all the time.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "play",
+            "charades",
+            "game",
+            "playing",
+            "games"
+          ],
+          "summary": "\"I'm going to do a project and then you can talk it out of your mind,\" he says. \"We play a lot of trouble and sorrows and games. Have you seen that? No, I should like score some movies. And I was just stunned. I just knew and I was like, surprising myself\""
+        },
+        {
+          "segment_id": 2,
+          "start_time": 61.39,
+          "end_time": 73.39,
+          "text": "To this day, I watch you all the time. Really? My family loves me. I love him. I love... So anyway, people quote it to me. I don't remember that. But Devil was proud of... I actually saw a photo of you. You're kind of Broadway.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "devil",
+            "quote",
+            "proud",
+            "watch",
+            "loves"
+          ],
+          "summary": "To this day, I watch you all the time. My family loves me. I love him. I"
+        },
+        {
+          "segment_id": 3,
+          "start_time": 73.39,
+          "end_time": 107.39,
+          "text": "You have Gutenberg. Did the crowd go nuts? Yeah. So by the... Dear friends, and they're so... They're so... Maybe next level. The end of the show, they... So they said my name first on this name. Really? Yeah. You rock star, everybody. Because you don't really see Anna outside. Yeah, exactly. You never see Anna went to her from the... I truck her hat. That's correct. Yeah. But everyone just went nuts. I think we're yet. Yeah, she's in New York. Everything. Is she fun to do it to Sheth's day? She's... She's so cool. So I get a little nervous. I've less to lose because I'm never a vote. So I don't have nothing to worry about. But she likes me. I mean, I actually...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "anna",
+            "friends",
+            "lose",
+            "gutenberg",
+            "star"
+          ],
+          "summary": "\"I get a little nervous. I've less to lose because I'm never a vote. So I don't have nothing to worry about. But she likes me\""
+        },
+        {
+          "segment_id": 4,
+          "start_time": 107.39,
+          "end_time": 148.39,
+          "text": "But in some... I just... Did I come to love on you? Yeah, good. You should be. That on your butt. No. That's the acting also of a dig. It's the same time. So... That's how well I know you. That's how pussy I am. Yeah, I know. I saw you, man. I'm Broadway. But it wasn't. Is she gonna see you? Yeah. But you did that. You better keep digging me. Are you kidding me? I don't laugh. I saw you. And it was that bell court theme. You made it nerve-wrong. Nothing went wrong. Nothing went wrong. Nothing went wrong. No, you didn't. Because... Yeah, I didn't see the dozen. So... I think she experienced it. And so... But it's kind of amazing. Because every night, the last show. I was going to stay with her. Every night, I was just thanks to anyone there. And... No monitor.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "broadway",
+            "laugh",
+            "love",
+            "pussy",
+            "stay"
+          ],
+          "summary": "But in some... I just... Did I come to love on you? Yeah, good. That on your butt. That's the acting also of a dig. It's the same time. So... That's how well I know you. that's how pussy I am."
+        },
+        {
+          "segment_id": 5,
+          "start_time": 148.39,
+          "end_time": 153.39,
+          "text": "And I said the last... The hell. Kill. But they've been feeling... And I just like...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "kill",
+            "feeling",
+            "like",
+            "just",
+            "ve"
+          ],
+          "summary": "And I said the last... The hell. Kill. But"
+        },
+        {
+          "segment_id": 6,
+          "start_time": 153.39,
+          "end_time": 185.57,
+          "text": "And so I lean into it. I'm high-fiving my side. I'm just like... I'm rockening. No. And I get off. Did you see the raccoon? Kind of. As soon as you came on stage. A family of raccoons came out. They were so confused. They were like... Well, actually... You got to work with everybody. You played well with others. Let's talk about the idea of you. Oh my gosh. Broke the record. Both was trailer of any streaming movie in history. Can we set it up?",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "raccoon",
+            "raccoons",
+            "movie",
+            "trailer",
+            "stage"
+          ],
+          "summary": "And so I lean into it. I'm high-fiving my side. And I get off. Did you see the raccoon? Kind of. As soon as you came on stage a family of raccoons came out"
+        },
+        {
+          "segment_id": 7,
+          "start_time": 185.57,
+          "end_time": 240.57,
+          "text": "Oh, sure. Sure. This... Oh, she's a guy. And she's an expert. Yeah. And you're just a mom. And you're a chap running through this thing. And then boy band. Love you. You can describe my movie. Just mom. I could do it. Mom in this thing. That's what I was going to say. Mom is a chap running like a coach. And the biggest boy band in the world. Oh, yes. So my character. My daughter's off watching. And she doesn't... Anyway, I'm... All access to... Okay. I'm Jason. Susan. I'm the... Oh, man. You guys have... I'm Ray. I know what you're saying. Yeah. No. As soon as he... I actually burst out laughing. We shouldn't have... We shouldn't have... We shouldn't have... It's not tonight show yet. You want to go over to Steven Colbert. You want to go to Steven Colbert. If you want to get people to read both the name... Well, you have a boss. We do... We do Audible here. We do that. We can do that. We can do that. Okay. So...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "mom",
+            "daughter",
+            "band",
+            "movie",
+            "colbert"
+          ],
+          "summary": "\"I could do it. Just mom. Mom in this thing. That's what I was going to say. Mom is a chap running like a coach. And the biggest boy band in the world. Oh, yes. So my character. My daughter's off watching. And she doesn't... Anyway, I'm... All access to... Okay."
+        },
+        {
+          "segment_id": 8,
+          "start_time": 240.57,
+          "end_time": 251.57,
+          "text": "Jason's book. Yeah. Too late. Too late. But this is the space of the big... Okay. The book does have a fan following. Yeah. Somewhere. And...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "jason",
+            "book",
+            "fan",
+            "space",
+            "following"
+          ],
+          "summary": "Jason's book. Yeah. Too late. But this is"
+        },
+        {
+          "segment_id": 9,
+          "start_time": 251.57,
+          "end_time": 261.57,
+          "text": "And I walked in to go to the slide. And I... Yeah. And I just thought, oh, that's Ethan. And that was... Yeah. It's really great. It works. And halfway. And the idea of you...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "ethan",
+            "slide",
+            "walked",
+            "oh",
+            "great"
+          ],
+          "summary": "And I walked in to go to the slide. And I just thought, oh,"
+        },
+        {
+          "segment_id": 10,
+          "start_time": 261.57,
+          "end_time": 286.07,
+          "text": "Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, I don't. It's yours. Yeah. I'm in the bunch. On this count. On this count. On this count. Yeah. Absolutely know who you are. Anyway. Oh. Yeah. Come on. You know. You know. You know. You know. You know. You know. Everybody.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "assap",
+            "trip",
+            "assuming",
+            "bunch",
+            "everybody"
+          ],
+          "summary": "Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, I don"
+        },
+        {
+          "segment_id": 11,
+          "start_time": 286.07,
+          "end_time": 290.07,
+          "text": "The idea of you... Begin streaming on Prime Video. I talked with no one in Lensky. Go around everyone.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "lensky",
+            "streaming",
+            "prime",
+            "video",
+            "idea"
+          ],
+          "summary": "The idea of you... Begin streaming on Prime Video. I"
+        }
+      ]
+    },
+    {
+      "block_size": 5,
+      "k_value": 1.2,
+      "number_of_segments": 7,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.11,
+          "end_time": 61.39,
+          "text": "Who doesn't love and happy? Thank you for coming back. I know, but you know we have a moment. You're just like that forever. Thank you. Yeah, there you go. It's just happening. Come on, the roots. You're high, everybody. Thank you for playing reverse charades with me. You're a great part of it. I don't mean either. Are you? It means you've been in your soul last week. It's okay. It's okay. Let's go. I want to win this. Yeah. Yeah, my kids are very competitive too. I got the one down. It's fun. It's all good. I don't throw that plate for... Are you, is there a party game that you're especially good? It's not a lot of... We play a lot of trouble and sorrows and games. Have you seen that? No, I should like score some movies. And I was just stunned. I just knew and I was like, surprising myself. And it was like... You know you movies. I mean, and then I got to this one question and... Oh, I could have said that. I'm just like... Let's go and say it. Wait, but it's her. That was me, but I'm the... That's why I want to come see you. Yeah, so... I'm going to do a project and then you can talk it out of your mind. I don't know. I'm... I... I watch you all the time.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "play",
+            "charades",
+            "game",
+            "playing",
+            "games"
+          ],
+          "summary": "\"I'm going to do a project and then you can talk it out of your mind,\" he says. \"We play a lot of trouble and sorrows and games. Have you seen that? No, I should like score some movies. And I was just stunned. I just knew and I was like, surprising myself\""
+        },
+        {
+          "segment_id": 2,
+          "start_time": 61.39,
+          "end_time": 73.39,
+          "text": "To this day, I watch you all the time. Really? My family loves me. I love him. I love... So anyway, people quote it to me. I don't remember that. But Devil was proud of... I actually saw a photo of you. You're kind of Broadway.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "devil",
+            "quote",
+            "proud",
+            "watch",
+            "loves"
+          ],
+          "summary": "To this day, I watch you all the time. My family loves me. I love him. I"
+        },
+        {
+          "segment_id": 3,
+          "start_time": 73.39,
+          "end_time": 148.39,
+          "text": "You have Gutenberg. Did the crowd go nuts? Yeah. So by the... Dear friends, and they're so... They're so... Maybe next level. The end of the show, they... So they said my name first on this name. Really? Yeah. You rock star, everybody. Because you don't really see Anna outside. Yeah, exactly. You never see Anna went to her from the... I truck her hat. That's correct. Yeah. But everyone just went nuts. I think we're yet. Yeah, she's in New York. Everything. Is she fun to do it to Sheth's day? She's... She's so cool. So I get a little nervous. I've less to lose because I'm never a vote. So I don't have nothing to worry about. But she likes me. I mean, I actually... But in some... I just... Did I come to love on you? Yeah, good. You should be. That on your butt. No. That's the acting also of a dig. It's the same time. So... That's how well I know you. That's how pussy I am. Yeah, I know. I saw you, man. I'm Broadway. But it wasn't. Is she gonna see you? Yeah. But you did that. You better keep digging me. Are you kidding me? I don't laugh. I saw you. And it was that bell court theme. You made it nerve-wrong. Nothing went wrong. Nothing went wrong. Nothing went wrong. No, you didn't. Because... Yeah, I didn't see the dozen. So... I think she experienced it. And so... But it's kind of amazing. Because every night, the last show. I was going to stay with her. Every night, I was just thanks to anyone there. And... No monitor.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "anna",
+            "acting",
+            "broadway",
+            "friends",
+            "dig"
+          ],
+          "summary": "\"I get a little nervous. I've less to lose because I'm never a vote. So I don't have nothing to worry about. But she likes me. I mean, I actually... But in some... I just... Did I come to love on you? Yeah, good. That on your butt. That's the acting also of a dig. It's the same time\""
+        },
+        {
+          "segment_id": 4,
+          "start_time": 148.39,
+          "end_time": 153.39,
+          "text": "And I said the last... The hell. Kill. But they've been feeling... And I just like...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "kill",
+            "feeling",
+            "like",
+            "just",
+            "ve"
+          ],
+          "summary": "And I said the last... The hell. Kill. But"
+        },
+        {
+          "segment_id": 5,
+          "start_time": 153.39,
+          "end_time": 240.57,
+          "text": "And so I lean into it. I'm high-fiving my side. I'm just like... I'm rockening. No. And I get off. Did you see the raccoon? Kind of. As soon as you came on stage. A family of raccoons came out. They were so confused. They were like... Well, actually... You got to work with everybody. You played well with others. Let's talk about the idea of you. Oh my gosh. Broke the record. Both was trailer of any streaming movie in history. Can we set it up? Oh, sure. Sure. This... Oh, she's a guy. And she's an expert. Yeah. And you're just a mom. And you're a chap running through this thing. And then boy band. Love you. You can describe my movie. Just mom. I could do it. Mom in this thing. That's what I was going to say. Mom is a chap running like a coach. And the biggest boy band in the world. Oh, yes. So my character. My daughter's off watching. And she doesn't... Anyway, I'm... All access to... Okay. I'm Jason. Susan. I'm the... Oh, man. You guys have... I'm Ray. I know what you're saying. Yeah. No. As soon as he... I actually burst out laughing. We shouldn't have... We shouldn't have... We shouldn't have... It's not tonight show yet. You want to go over to Steven Colbert. You want to go to Steven Colbert. If you want to get people to read both the name... Well, you have a boss. We do... We do Audible here. We do that. We can do that. We can do that. Okay. So...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "movie",
+            "raccoon",
+            "daughter",
+            "raccoons",
+            "mom"
+          ],
+          "summary": "\"I'm high-fiving my side. I'm just like... I'm rockening. No. And I get off. Did you see the raccoon? Kind of. As soon as you came on stage, a family of raccoons came out\" \"You got to work with everybody. You played well with others\" \"I could do it. Just mom\""
+        },
+        {
+          "segment_id": 6,
+          "start_time": 240.57,
+          "end_time": 261.57,
+          "text": "Jason's book. Yeah. Too late. Too late. But this is the space of the big... Okay. The book does have a fan following. Yeah. Somewhere. And... And I walked in to go to the slide. And I... Yeah. And I just thought, oh, that's Ethan. And that was... Yeah. It's really great. It works. And halfway. And the idea of you...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "jason",
+            "ethan",
+            "book",
+            "fan",
+            "slide"
+          ],
+          "summary": "Jason's book. Yeah. Too late. But this is the space of the big... Okay. The book does have a fan following. Somewhere."
+        },
+        {
+          "segment_id": 7,
+          "start_time": 261.57,
+          "end_time": 290.07,
+          "text": "Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, I don't. It's yours. Yeah. I'm in the bunch. On this count. On this count. On this count. Yeah. Absolutely know who you are. Anyway. Oh. Yeah. Come on. You know. You know. You know. You know. You know. You know. Everybody. The idea of you... Begin streaming on Prime Video. I talked with no one in Lensky. Go around everyone.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "assap",
+            "prime",
+            "trip",
+            "bunch",
+            "streaming"
+          ],
+          "summary": "Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. I talked with no one in Lensky. Go around everyone. I'm in the bunch."
+        }
+      ]
+    },
+    {
+      "block_size": 8,
+      "k_value": 0.8,
+      "number_of_segments": 6,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.11,
+          "end_time": 17.11,
+          "text": "Who doesn't love and happy? Thank you for coming back. I know, but you know we have a moment. You're just like that forever. Thank you. Yeah, there you go. It's just happening. Come on, the roots. You're high, everybody. Thank you for playing reverse charades with me. You're a great part of it. I don't mean either. Are you? It means you've been in your soul last week. It's okay. It's okay. Let's go. I want to win this.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "happy",
+            "love",
+            "soul",
+            "win",
+            "forever"
+          ],
+          "summary": "Who doesn't love and happy? Thank you for coming back. You're a great part of it. It means you've been in your soul last week. It's okay. I want to win this."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 17.11,
+          "end_time": 153.39,
+          "text": "Yeah. Yeah, my kids are very competitive too. I got the one down. It's fun. It's all good. I don't throw that plate for... Are you, is there a party game that you're especially good? It's not a lot of... We play a lot of trouble and sorrows and games. Have you seen that? No, I should like score some movies. And I was just stunned. I just knew and I was like, surprising myself. And it was like... You know you movies. I mean, and then I got to this one question and... Oh, I could have said that. I'm just like... Let's go and say it. Wait, but it's her. That was me, but I'm the... That's why I want to come see you. Yeah, so... I'm going to do a project and then you can talk it out of your mind. I don't know. I'm... I... I watch you all the time. To this day, I watch you all the time. Really? My family loves me. I love him. I love... So anyway, people quote it to me. I don't remember that. But Devil was proud of... I actually saw a photo of you. You're kind of Broadway. You have Gutenberg. Did the crowd go nuts? Yeah. So by the... Dear friends, and they're so... They're so... Maybe next level. The end of the show, they... So they said my name first on this name. Really? Yeah. You rock star, everybody. Because you don't really see Anna outside. Yeah, exactly. You never see Anna went to her from the... I truck her hat. That's correct. Yeah. But everyone just went nuts. I think we're yet. Yeah, she's in New York. Everything. Is she fun to do it to Sheth's day? She's... She's so cool. So I get a little nervous. I've less to lose because I'm never a vote. So I don't have nothing to worry about. But she likes me. I mean, I actually... But in some... I just... Did I come to love on you? Yeah, good. You should be. That on your butt. No. That's the acting also of a dig. It's the same time. So... That's how well I know you. That's how pussy I am. Yeah, I know. I saw you, man. I'm Broadway. But it wasn't. Is she gonna see you? Yeah. But you did that. You better keep digging me. Are you kidding me? I don't laugh. I saw you. And it was that bell court theme. You made it nerve-wrong. Nothing went wrong. Nothing went wrong. Nothing went wrong. No, you didn't. Because... Yeah, I didn't see the dozen. So... I think she experienced it. And so... But it's kind of amazing. Because every night, the last show. I was going to stay with her. Every night, I was just thanks to anyone there. And... No monitor. And I said the last... The hell. Kill. But they've been feeling... And I just like...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "competitive",
+            "kids",
+            "play",
+            "talk",
+            "games"
+          ],
+          "summary": "\"I was just stunned. I just knew and I was like, surprising myself,\" he says. \"I watch you all the time. To this day, I watch you ... Really? My family loves me. I love him,\" he adds. \"You're kind of Broadway. You have Gutenberg. Did the crowd go nuts?\" \"Everyone just went nuts. I think we're yet\" \"My kids are very competitive too. I got the one down. It's fun. I don't throw that plate for... Are you, is there a party game that you're especially good? It's not a lot of trouble and sorrows and games. Have you seen that? No, I should like score some movies\""
+        },
+        {
+          "segment_id": 3,
+          "start_time": 153.39,
+          "end_time": 179.57,
+          "text": "And so I lean into it. I'm high-fiving my side. I'm just like... I'm rockening. No. And I get off. Did you see the raccoon? Kind of. As soon as you came on stage. A family of raccoons came out. They were so confused. They were like... Well, actually... You got to work with everybody. You played well with others. Let's talk about the idea of you.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "raccoons",
+            "raccoon",
+            "rockening",
+            "high",
+            "stage"
+          ],
+          "summary": "And so I lean into it. I'm high-fiving my side. And I get off. Did you see the raccoon? Kind of. As soon as you"
+        },
+        {
+          "segment_id": 4,
+          "start_time": 179.57,
+          "end_time": 251.57,
+          "text": "Oh my gosh. Broke the record. Both was trailer of any streaming movie in history. Can we set it up? Oh, sure. Sure. This... Oh, she's a guy. And she's an expert. Yeah. And you're just a mom. And you're a chap running through this thing. And then boy band. Love you. You can describe my movie. Just mom. I could do it. Mom in this thing. That's what I was going to say. Mom is a chap running like a coach. And the biggest boy band in the world. Oh, yes. So my character. My daughter's off watching. And she doesn't... Anyway, I'm... All access to... Okay. I'm Jason. Susan. I'm the... Oh, man. You guys have... I'm Ray. I know what you're saying. Yeah. No. As soon as he... I actually burst out laughing. We shouldn't have... We shouldn't have... We shouldn't have... It's not tonight show yet. You want to go over to Steven Colbert. You want to go to Steven Colbert. If you want to get people to read both the name... Well, you have a boss. We do... We do Audible here. We do that. We can do that. We can do that. Okay. So... Jason's book. Yeah. Too late. Too late. But this is the space of the big... Okay. The book does have a fan following. Yeah. Somewhere. And...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "movie",
+            "trailer",
+            "mom",
+            "daughter",
+            "streaming"
+          ],
+          "summary": "Both was trailer of any streaming movie in history. Can we set it up? Oh, sure. Sure. This... Oh, she's a guy. And she's an expert. And you're just a mom. And then boy band. Love you. You can describe my movie. Just mom. I could do it."
+        },
+        {
+          "segment_id": 5,
+          "start_time": 251.57,
+          "end_time": 259.57,
+          "text": "And I walked in to go to the slide. And I... Yeah. And I just thought, oh, that's Ethan. And that was... Yeah. It's really great. It works.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "ethan",
+            "slide",
+            "walked",
+            "oh",
+            "great"
+          ],
+          "summary": "And I walked in to go to the slide. And I just"
+        },
+        {
+          "segment_id": 6,
+          "start_time": 259.57,
+          "end_time": 290.07,
+          "text": "And halfway. And the idea of you... Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, I don't. It's yours. Yeah. I'm in the bunch. On this count. On this count. On this count. Yeah. Absolutely know who you are. Anyway. Oh. Yeah. Come on. You know. You know. You know. You know. You know. You know. Everybody. The idea of you... Begin streaming on Prime Video. I talked with no one in Lensky. Go around everyone.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "assap",
+            "trip",
+            "bunch",
+            "streaming",
+            "prime"
+          ],
+          "summary": "And halfway. And the idea of you... Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, I don\u2019t."
+        }
+      ]
+    },
+    {
+      "block_size": 8,
+      "k_value": 1.0,
+      "number_of_segments": 4,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.11,
+          "end_time": 153.39,
+          "text": "Who doesn't love and happy? Thank you for coming back. I know, but you know we have a moment. You're just like that forever. Thank you. Yeah, there you go. It's just happening. Come on, the roots. You're high, everybody. Thank you for playing reverse charades with me. You're a great part of it. I don't mean either. Are you? It means you've been in your soul last week. It's okay. It's okay. Let's go. I want to win this. Yeah. Yeah, my kids are very competitive too. I got the one down. It's fun. It's all good. I don't throw that plate for... Are you, is there a party game that you're especially good? It's not a lot of... We play a lot of trouble and sorrows and games. Have you seen that? No, I should like score some movies. And I was just stunned. I just knew and I was like, surprising myself. And it was like... You know you movies. I mean, and then I got to this one question and... Oh, I could have said that. I'm just like... Let's go and say it. Wait, but it's her. That was me, but I'm the... That's why I want to come see you. Yeah, so... I'm going to do a project and then you can talk it out of your mind. I don't know. I'm... I... I watch you all the time. To this day, I watch you all the time. Really? My family loves me. I love him. I love... So anyway, people quote it to me. I don't remember that. But Devil was proud of... I actually saw a photo of you. You're kind of Broadway. You have Gutenberg. Did the crowd go nuts? Yeah. So by the... Dear friends, and they're so... They're so... Maybe next level. The end of the show, they... So they said my name first on this name. Really? Yeah. You rock star, everybody. Because you don't really see Anna outside. Yeah, exactly. You never see Anna went to her from the... I truck her hat. That's correct. Yeah. But everyone just went nuts. I think we're yet. Yeah, she's in New York. Everything. Is she fun to do it to Sheth's day? She's... She's so cool. So I get a little nervous. I've less to lose because I'm never a vote. So I don't have nothing to worry about. But she likes me. I mean, I actually... But in some... I just... Did I come to love on you? Yeah, good. You should be. That on your butt. No. That's the acting also of a dig. It's the same time. So... That's how well I know you. That's how pussy I am. Yeah, I know. I saw you, man. I'm Broadway. But it wasn't. Is she gonna see you? Yeah. But you did that. You better keep digging me. Are you kidding me? I don't laugh. I saw you. And it was that bell court theme. You made it nerve-wrong. Nothing went wrong. Nothing went wrong. Nothing went wrong. No, you didn't. Because... Yeah, I didn't see the dozen. So... I think she experienced it. And so... But it's kind of amazing. Because every night, the last show. I was going to stay with her. Every night, I was just thanks to anyone there. And... No monitor. And I said the last... The hell. Kill. But they've been feeling... And I just like...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "play",
+            "charades",
+            "game",
+            "playing",
+            "games"
+          ],
+          "summary": "\"I watch you all the time. To this day,\" he says. \"My family loves me. I love him, I love... So anyway, people quote it to me. But Devil was proud of... I actually saw a photo of you. You're kind of Broadway. You have Gutenberg. Did the crowd go nuts? Yeah. By the... Dear friends, and they're so... Maybe next level. The end of the show, they... So they said my name first on this name. Really? Yeah, you rock star, everybody. Because you don't really see Anna outside. Yeah, exactly. You never see Anna went to her from the... I truck her hat. That's correct. But everyone just went nuts. I think we're yet. Is she fun to do it to Sheth's day? She's... She's so cool. So I get a little nervous because I'm never a vote. But she likes me."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 153.39,
+          "end_time": 179.57,
+          "text": "And so I lean into it. I'm high-fiving my side. I'm just like... I'm rockening. No. And I get off. Did you see the raccoon? Kind of. As soon as you came on stage. A family of raccoons came out. They were so confused. They were like... Well, actually... You got to work with everybody. You played well with others. Let's talk about the idea of you.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "raccoons",
+            "raccoon",
+            "rockening",
+            "high",
+            "stage"
+          ],
+          "summary": "And so I lean into it. I'm high-fiving my side. And I get off. Did you see the raccoon? Kind of. As soon as you"
+        },
+        {
+          "segment_id": 3,
+          "start_time": 179.57,
+          "end_time": 251.57,
+          "text": "Oh my gosh. Broke the record. Both was trailer of any streaming movie in history. Can we set it up? Oh, sure. Sure. This... Oh, she's a guy. And she's an expert. Yeah. And you're just a mom. And you're a chap running through this thing. And then boy band. Love you. You can describe my movie. Just mom. I could do it. Mom in this thing. That's what I was going to say. Mom is a chap running like a coach. And the biggest boy band in the world. Oh, yes. So my character. My daughter's off watching. And she doesn't... Anyway, I'm... All access to... Okay. I'm Jason. Susan. I'm the... Oh, man. You guys have... I'm Ray. I know what you're saying. Yeah. No. As soon as he... I actually burst out laughing. We shouldn't have... We shouldn't have... We shouldn't have... It's not tonight show yet. You want to go over to Steven Colbert. You want to go to Steven Colbert. If you want to get people to read both the name... Well, you have a boss. We do... We do Audible here. We do that. We can do that. We can do that. Okay. So... Jason's book. Yeah. Too late. Too late. But this is the space of the big... Okay. The book does have a fan following. Yeah. Somewhere. And...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "movie",
+            "trailer",
+            "mom",
+            "daughter",
+            "streaming"
+          ],
+          "summary": "Both was trailer of any streaming movie in history. Can we set it up? Oh, sure. Sure. This... Oh, she's a guy. And she's an expert. And you're just a mom. And then boy band. Love you. You can describe my movie. Just mom. I could do it."
+        },
+        {
+          "segment_id": 4,
+          "start_time": 251.57,
+          "end_time": 290.07,
+          "text": "And I walked in to go to the slide. And I... Yeah. And I just thought, oh, that's Ethan. And that was... Yeah. It's really great. It works. And halfway. And the idea of you... Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, I don't. It's yours. Yeah. I'm in the bunch. On this count. On this count. On this count. Yeah. Absolutely know who you are. Anyway. Oh. Yeah. Come on. You know. You know. You know. You know. You know. You know. Everybody. The idea of you... Begin streaming on Prime Video. I talked with no one in Lensky. Go around everyone.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "ethan",
+            "slide",
+            "trip",
+            "bunch",
+            "assap"
+          ],
+          "summary": "And I walked in to go to the slide. And I just thought, oh, that's Ethan. And that was... Yeah. It's really great. And halfway. And the idea of you... Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my"
+        }
+      ]
+    },
+    {
+      "block_size": 8,
+      "k_value": 1.2,
+      "number_of_segments": 3,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.11,
+          "end_time": 179.57,
+          "text": "Who doesn't love and happy? Thank you for coming back. I know, but you know we have a moment. You're just like that forever. Thank you. Yeah, there you go. It's just happening. Come on, the roots. You're high, everybody. Thank you for playing reverse charades with me. You're a great part of it. I don't mean either. Are you? It means you've been in your soul last week. It's okay. It's okay. Let's go. I want to win this. Yeah. Yeah, my kids are very competitive too. I got the one down. It's fun. It's all good. I don't throw that plate for... Are you, is there a party game that you're especially good? It's not a lot of... We play a lot of trouble and sorrows and games. Have you seen that? No, I should like score some movies. And I was just stunned. I just knew and I was like, surprising myself. And it was like... You know you movies. I mean, and then I got to this one question and... Oh, I could have said that. I'm just like... Let's go and say it. Wait, but it's her. That was me, but I'm the... That's why I want to come see you. Yeah, so... I'm going to do a project and then you can talk it out of your mind. I don't know. I'm... I... I watch you all the time. To this day, I watch you all the time. Really? My family loves me. I love him. I love... So anyway, people quote it to me. I don't remember that. But Devil was proud of... I actually saw a photo of you. You're kind of Broadway. You have Gutenberg. Did the crowd go nuts? Yeah. So by the... Dear friends, and they're so... They're so... Maybe next level. The end of the show, they... So they said my name first on this name. Really? Yeah. You rock star, everybody. Because you don't really see Anna outside. Yeah, exactly. You never see Anna went to her from the... I truck her hat. That's correct. Yeah. But everyone just went nuts. I think we're yet. Yeah, she's in New York. Everything. Is she fun to do it to Sheth's day? She's... She's so cool. So I get a little nervous. I've less to lose because I'm never a vote. So I don't have nothing to worry about. But she likes me. I mean, I actually... But in some... I just... Did I come to love on you? Yeah, good. You should be. That on your butt. No. That's the acting also of a dig. It's the same time. So... That's how well I know you. That's how pussy I am. Yeah, I know. I saw you, man. I'm Broadway. But it wasn't. Is she gonna see you? Yeah. But you did that. You better keep digging me. Are you kidding me? I don't laugh. I saw you. And it was that bell court theme. You made it nerve-wrong. Nothing went wrong. Nothing went wrong. Nothing went wrong. No, you didn't. Because... Yeah, I didn't see the dozen. So... I think she experienced it. And so... But it's kind of amazing. Because every night, the last show. I was going to stay with her. Every night, I was just thanks to anyone there. And... No monitor. And I said the last... The hell. Kill. But they've been feeling... And I just like... And so I lean into it. I'm high-fiving my side. I'm just like... I'm rockening. No. And I get off. Did you see the raccoon? Kind of. As soon as you came on stage. A family of raccoons came out. They were so confused. They were like... Well, actually... You got to work with everybody. You played well with others. Let's talk about the idea of you.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "play",
+            "charades",
+            "game",
+            "playing",
+            "games"
+          ],
+          "summary": "\"I watch you all the time. To this day,\" he says. \"My family loves me. I love him, I love... So anyway, people quote it to me. But Devil was proud of... I actually saw a photo of you. You're kind of Broadway. You have Gutenberg. Did the crowd go nuts? Yeah. By the... Dear friends, and they're so... Maybe next level. The end of the show, they... So they said my name first on this name. Really? Yeah, you rock star, everybody. Because you don't really see Anna outside. You never see Anna went to her from the... I truck her hat. That's correct. But everyone just went nuts. I think we're yet. Yeah, she's in New York. Is she fun to do it to Sheth's day? She's so cool. So I get a little nervous. I've less to lose because I'm never a vote. But she likes me."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 179.57,
+          "end_time": 251.57,
+          "text": "Oh my gosh. Broke the record. Both was trailer of any streaming movie in history. Can we set it up? Oh, sure. Sure. This... Oh, she's a guy. And she's an expert. Yeah. And you're just a mom. And you're a chap running through this thing. And then boy band. Love you. You can describe my movie. Just mom. I could do it. Mom in this thing. That's what I was going to say. Mom is a chap running like a coach. And the biggest boy band in the world. Oh, yes. So my character. My daughter's off watching. And she doesn't... Anyway, I'm... All access to... Okay. I'm Jason. Susan. I'm the... Oh, man. You guys have... I'm Ray. I know what you're saying. Yeah. No. As soon as he... I actually burst out laughing. We shouldn't have... We shouldn't have... We shouldn't have... It's not tonight show yet. You want to go over to Steven Colbert. You want to go to Steven Colbert. If you want to get people to read both the name... Well, you have a boss. We do... We do Audible here. We do that. We can do that. We can do that. Okay. So... Jason's book. Yeah. Too late. Too late. But this is the space of the big... Okay. The book does have a fan following. Yeah. Somewhere. And...",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "movie",
+            "trailer",
+            "mom",
+            "daughter",
+            "streaming"
+          ],
+          "summary": "Both was trailer of any streaming movie in history. Can we set it up? Oh, sure. Sure. This... Oh, she's a guy. And she's an expert. And you're just a mom. And then boy band. Love you. You can describe my movie. Just mom. I could do it."
+        },
+        {
+          "segment_id": 3,
+          "start_time": 251.57,
+          "end_time": 290.07,
+          "text": "And I walked in to go to the slide. And I... Yeah. And I just thought, oh, that's Ethan. And that was... Yeah. It's really great. It works. And halfway. And the idea of you... Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my trip. It's not literally my... No, I don't. It's yours. Yeah. I'm in the bunch. On this count. On this count. On this count. Yeah. Absolutely know who you are. Anyway. Oh. Yeah. Come on. You know. You know. You know. You know. You know. You know. Everybody. The idea of you... Begin streaming on Prime Video. I talked with no one in Lensky. Go around everyone.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "ethan",
+            "slide",
+            "trip",
+            "bunch",
+            "assap"
+          ],
+          "summary": "And I walked in to go to the slide. And I just thought, oh, that's Ethan. And that was... Yeah. It's really great. And halfway. And the idea of you... Are you a part of that ASSAP? No. I don't think you can just go around assuming... It's actually my"
+        }
+      ]
+    }
+  ]
+}

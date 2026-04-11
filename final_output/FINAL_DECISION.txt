@@ -1,0 +1,133 @@
+1. Objective
+
+The objective of this experiment was to determine the optimal parameters for semantic topic segmentation of podcast transcripts. The segmentation algorithm depends on two key parameters:
+
+Block Size (number of sentences grouped together before similarity comparison)
+
+k value (controls the threshold sensitivity using mean − k × standard deviation)
+
+The goal was to select parameters that produce balanced segmentation with good logical coherence and reasonable precision–recall performance.
+
+2. Experimental Setup
+
+We tested:
+
+Block Sizes: 3, 5, 8
+
+k values: 0.8, 1.0, 1.2
+
+Total combinations tested: 9
+
+Two podcast episodes were selected for tuning.
+Gold boundaries were manually marked and used for evaluation.
+
+Sentence embeddings were generated using
+Sentence Transformers (MiniLM model).
+
+Semantic similarity between adjacent blocks was computed using cosine similarity.
+
+3. Results
+Episode 1 Results
+Block Size	k	Segments	Observation
+3	0.8	65	Severe over-segmentation
+3	1.0	45	Over-segmentation
+3	1.2	31	Slight over-segmentation
+5	0.8	30	Slightly high segmentation
+5	1.0	27	Balanced segmentation
+5	1.2	19	Slight under-segmentation
+8	0.8	23	Slight under-segmentation
+8	1.0	17	Under-segmentation
+8	1.2	14	Severe under-segmentation
+Episode 2 Results
+Block Size	k	Segments	Observation
+3	0.8	20	Over-segmentation
+3	1.0	18	Slight over-segmentation
+3	1.2	12	Moderate segmentation
+5	0.8	13	Slight over-segmentation
+5	1.0	12	Balanced segmentation
+5	1.2	8	Under-segmentation
+8	0.8	10	Under-segmentation
+8	1.0	7	Strong under-segmentation
+8	1.2	6	Severe under-segmentation
+4. Analysis
+Effect of Block Size
+
+Block Size = 3
+
+Produced a high number of segments.
+
+Topics were split too frequently.
+
+Resulted in over-segmentation.
+
+Block Size = 8
+
+Produced fewer segments.
+
+Multiple topics were merged into single segments.
+
+Resulted in under-segmentation.
+
+Block Size = 5
+
+Provided moderate segmentation.
+
+Maintained logical coherence within segments.
+
+Avoided both excessive splitting and merging.
+
+Thus, block size 5 provided the best structural balance.
+
+Effect of k Value
+
+k = 0.8
+
+Lower threshold
+
+More sensitive to similarity drops
+
+Produced more boundaries
+
+k = 1.2
+
+Higher threshold
+
+Fewer boundaries
+
+Risk of missing subtle topic changes
+
+k = 1.0
+
+Balanced sensitivity
+
+Consistent results across both episodes
+
+5. Evaluation (Precision & Recall)
+
+Using manually marked gold boundaries, predicted boundaries were compared with a tolerance window of ±10 seconds.
+
+The configuration:
+
+Block Size = 5
+k = 1.0
+
+achieved the most balanced precision and recall across both episodes.
+
+6. Final Decision
+
+Based on:
+
+Segment count analysis
+
+Logical coherence inspection
+
+Precision–Recall evaluation
+
+Stability across multiple episodes
+
+The final selected configuration is:
+
+Block Size = 5
+k = 1.0
+
+This configuration provides balanced segmentation while preserving topic continuity and minimizing over- and under-segmentation.

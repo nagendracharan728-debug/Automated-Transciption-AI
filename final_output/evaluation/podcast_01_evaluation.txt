@@ -1,0 +1,4 @@
+Best Block Size: 3
+Best k Value: 0.8
+Precision: 0.406
+Recall: 1.130

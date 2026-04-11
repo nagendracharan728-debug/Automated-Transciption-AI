@@ -1,0 +1,10 @@
+Block Size,k,Segments,Observation
+3,0.8,65,Over-segmentation
+3,1.0,45,Over-segmentation
+3,1.2,31,Balanced segmentation
+5,0.8,30,Balanced segmentation
+5,1.0,27,Balanced segmentation
+5,1.2,19,Balanced segmentation
+8,0.8,23,Balanced segmentation
+8,1.0,17,Balanced segmentation
+8,1.2,14,Under-segmentation

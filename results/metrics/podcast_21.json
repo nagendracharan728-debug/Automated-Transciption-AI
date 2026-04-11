@@ -1,0 +1,14 @@
+{
+  "MiniLM": {
+    "Pk": 0.59392575928009,
+    "WindowDiff": 0.59392575928009,
+    "Precision": 0.0,
+    "Recall": 0.0
+  },
+  "TextTiling": {
+    "Pk": 0.5324074074074074,
+    "WindowDiff": 0.5324074074074074,
+    "Precision": 0.0,
+    "Recall": 0.0
+  }
+}

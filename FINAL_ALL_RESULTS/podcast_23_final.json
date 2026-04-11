@@ -1,0 +1,1028 @@
+{
+  "episode_id": "podcast_23",
+  "all_configurations": [
+    {
+      "block_size": 3,
+      "k_value": 0.8,
+      "number_of_segments": 14,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 69.62,
+          "text": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school She thought it was important for me to keep up with American education So she decided to teach me extra lessons or so on day through Friday because she had to go to work You know, in time she could do it was at 4.30 and more whenever I complain my mother would just give me one of those looks and She'd say this is no picnic for me either buster I know that some of you are still just to being back at school But I'm here today because I've something important to discuss my father left my family when I was two years old I was raised by a single mom who had to work struggled at times to pay the bills and wasn't always able to give us things that other kids There were times when I missed having a father in my life There were times when I was lonely and I felt like I didn't fit I wasn't always as focused as I should have fit on school I did some things that I'm not proud of and I got more trouble than I should My life would have easily taken turn for the world I was, I got a lot of second chances and I had the opportunity to go to college I lost all of my dream. My wife, our first lady, Michelle Obama, she has a similar story Either of her parents had gone to college. They didn't have a lot of them But they worked hard and she worked hard so that she could go to the best schools in the school Some of you might not have those advantages. Maybe you don't have adults in your life",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "mother",
+            "parents",
+            "mom",
+            "family",
+            "father"
+          ],
+          "summary": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school. There were times when I missed having a father in my life. I wasn't always as focused as I should have fit on school. I did some things that I'm not proud of and I got more trouble than I should."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 69.62,
+          "end_time": 78.62,
+          "text": "Give you the support that maybe someone in your family has lost their job and there's not enough money to go If you live in a neighborhood where you don't feel safe Have friends, we're pressuring you to do things, no aren't right",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "neighborhood",
+            "family",
+            "safe",
+            "support",
+            "live"
+          ],
+          "summary": "Give you the support that maybe someone in your family has lost their job and there's"
+        },
+        {
+          "segment_id": 3,
+          "start_time": 78.62,
+          "end_time": 168.8,
+          "text": "Maybe you could be a great writer, maybe even good enough to write about articles in a newspaper But you might not know until you write that English, that English class paper that's assigned to Maybe you could be an innovator or an inventor, maybe even good enough to come up with the next iPhone or the new medicine or vaccine But you might not know it until you do your project for your science class Maybe you could be a mayor or a senator or a Supreme Court just But you might not know that until you join student government or the debate No matter what you want to do with your life I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer You want to be a nurse or an architect, lawyer or a member of our military You're going to need a good education for every single one of those careers You cannot drop out of school and just drop into a good job You've got to train for, work for, learn for This isn't just important for your own life and your own life You make of your education will decide nothing less than the future of this country The future of America depends on you But you're learning in school today will determine whether we as a nation can meet our greatest challenges And if you'll need the knowledge and problem solving skills You learn in science and math, your diseases like cancer and AIDS And to develop new energy technologies and protect our environment You'll need the insights and critical thinking skills you gain in history and social studies Like poverty and homelessness, crime and discrimination And make our nation more fair and more You'll need the creativity and ingenuity you develop in all your classes to build new comfort You'll create new jobs and boost our economy You need every single one of you to develop your talents and your skills and your intellect You can solve us all folks are most difficult problems If you don't do that, if you quit on school",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "education",
+            "careers",
+            "writer",
+            "school",
+            "teacher"
+          ],
+          "summary": "No matter what you want to do with your life I guarantee that you'll need an education. You cannot drop out of school and just drop into a good job. You've got to train for, work for, learn for. You make of your education will decide nothing less than the future of this country. The future of America depends on you. You can solve us all folks are most difficult problems If you don't do that, if you quit on school."
+        },
+        {
+          "segment_id": 4,
+          "start_time": 168.8,
+          "end_time": 201.12,
+          "text": "You're not just quitting on yourself, you're quitting on your cut I know it's not always easy to do well And so a lot of you have challenges in your lives right now You can make it hard to focus on your school I get it, I know what it's like But at the end of the day, circumstances of your life What you look like, where you come from, how much money you have, you've got going on at home None of that is an excuse for neglecting your homework or having a bad attitude in school That's no excuse for talking back to your teacher or cutting class or dropping out of school There is no excuse for not trying You are right now, it doesn't have to determine where you'll end up No one's written your destiny, because here in America, you write your own destiny",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "quitting",
+            "cutting",
+            "cut",
+            "school",
+            "destiny"
+          ],
+          "summary": "You're not just quitting on yourself, you're quitting on your cut, says Obama. \"Here in America, you write your own destiny,\" he says. \"It doesn't have to determine where you'll end up\""
+        },
+        {
+          "segment_id": 5,
+          "start_time": 201.12,
+          "end_time": 233.04,
+          "text": "You make your own future That's what young people like you are doing every day all across America That's why today I'm calling on each of you to set your own goals for your education Everything you can to meet your goal can be as something as simple as Doing all your homework, paying attention in class Or spending time each day reading a book Maybe you'll decide to get involved in an extracurricular activity Or volunteer in your community Maybe you'll decide to stand up for kids who are being teased Or both because of who they are Because you believe like I did all young people deserve a safe environment to study Maybe you'll decide to take better care of yourself so you can be more ready to",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "education",
+            "extracurricular",
+            "study",
+            "future",
+            "goals"
+          ],
+          "summary": "You make your own future That's what young people like you are doing every day all across America. I'm calling on each of you to set your own goals for your education Everything you can to meet your goal can be as something as simple as doing all your homework"
+        },
+        {
+          "segment_id": 6,
+          "start_time": 233.04,
+          "end_time": 266.4,
+          "text": "But whatever you resolve to do, I want you to commit to, I want you to really work at Although sometimes you get that sense from TV that you be rich and successful without any hard work Your ticket to success is through wrapping or basketball Being a reality TV star Chances are you're not going to be any of those Truth is being successful is hard You won't love every subject that you stuck You won't click with every teacher that you had Not every homework assign will seem completely relevant to your life At this minute, and you won't necessarily succeed at every first time you try That's okay Some of the most successful people in the world are the ones who had the most failed",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "succeed",
+            "commit",
+            "success",
+            "successful",
+            "work"
+          ],
+          "summary": "Being successful is hard. You won't necessarily succeed at every first time you try. Some of the most successful people in the world are the ones who had the most failed."
+        },
+        {
+          "segment_id": 7,
+          "start_time": 266.4,
+          "end_time": 282.0,
+          "text": "J.K. Rollins, who wrote Harry Potter Her first Harry Potter book was rejected 12 times before it was finally published Michael Jordan was cut from his high school basketball He lost hundreds of games and missed thousands of shots during his career But he once said, I have failed over and over and over again in my life",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "potter",
+            "harry",
+            "jordan",
+            "published",
+            "rollins"
+          ],
+          "summary": "J.K. Rollins' first Harry Potter book was rejected 12 times before it was finally published. Michael Jordan was"
+        },
+        {
+          "segment_id": 8,
+          "start_time": 282.0,
+          "end_time": 309.6,
+          "text": "And that's why I succeed These people succeeded because they understood That you can't let your failures define you You have to let your failures teach you You have to let them show you what to do differently the next time If you get into trouble, it doesn't mean you're a troublemaker It means you need to try harder You get a bad grade that doesn't mean you're stupid It just means you need to spend more time studying No one's born being good at all things You become good at things through hard work Out of our city athlete, the first time you play a new sport",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "succeed",
+            "troublemaker",
+            "failures",
+            "athlete",
+            "studying"
+          ],
+          "summary": "And that's why I succeed. These people succeeded because they understood That you can't let your failures define you. You have to let them show you what to do differently."
+        },
+        {
+          "segment_id": 9,
+          "start_time": 309.6,
+          "end_time": 318.4,
+          "text": "Don't hit every note the first time you sing a song You've got to practice the same principle applies to your school You might have to do a math problem a few times before you get it right",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "sing",
+            "practice",
+            "math",
+            "principle",
+            "song"
+          ],
+          "summary": "Don't hit every note the first time you sing a song."
+        },
+        {
+          "segment_id": 10,
+          "start_time": 318.4,
+          "end_time": 337.12,
+          "text": "You might have to read something a few times before you understand You definitely have to do a few drafts of a pay for it's good enough to hand in Don't be afraid to ask for help when you need it I do that every day That's for help isn't a sign of weakness It's a sign of strength As it shows you have the courage to admit when you don't know something That then allows you to learn something new Find an adult that you trust",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "learn",
+            "pay",
+            "read",
+            "drafts",
+            "adult"
+          ],
+          "summary": "You might have to read something a few times before you understand. You definitely have to do a few drafts of a pay for it's good enough to hand in. Don't"
+        },
+        {
+          "segment_id": 11,
+          "start_time": 337.12,
+          "end_time": 344.0,
+          "text": "The grandparent or a coach or a counselor Ask them to help you stay on track to meet your goal Even when you're struck when you're discouraged",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "discouraged",
+            "counselor",
+            "grandparent",
+            "goal",
+            "track"
+          ],
+          "summary": "The grandparent or a coach or a counselor can help you"
+        },
+        {
+          "segment_id": 12,
+          "start_time": 344.0,
+          "end_time": 383.36,
+          "text": "Feel like other people have given up on you Have up on yourself When you give up on yourself Give up on your cut Story of America isn't about people who quit when things got tough People who kept going and tried harder Who loved their country too much Anything less than their best Story of students who sat where you sit 250 years ago Went on to wage a revolution And they founded this young students who sat Where you sit 75 years ago Who overcame a depression One-of-world war for civil rights And put a man on the students who sat Where you sit 20 years ago Found a Google and Twitter and Facebook And change the way we communicate with each other So today I want to ask All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "depression",
+            "revolution",
+            "quit",
+            "america",
+            "president"
+          ],
+          "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of America for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots."
+        },
+        {
+          "segment_id": 13,
+          "start_time": 383.36,
+          "end_time": 388.4,
+          "text": "Saying about what all of you did for this guy Your families Your teachers and I are doing everything we can",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "teachers",
+            "families",
+            "saying",
+            "guy",
+            "doing"
+          ],
+          "summary": "Saying about what all of you did for this guy Your"
+        },
+        {
+          "segment_id": 14,
+          "start_time": 388.4,
+          "end_time": 408.32,
+          "text": "To make sure you have the education You need to answer these questions I'm working hard to fix up your classrooms And get you the books and the acquitters you need But you've got to do your part So I expect all of you to get serious this year I expect you to put your best out And everything you do I expect great things from each of you Don't let us down I'll let your family down Or your country down Most of all don't let yourself Megazole proud",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "classrooms",
+            "education",
+            "proud",
+            "expect",
+            "make"
+          ],
+          "summary": "To make sure you have the education You need to answer these questions. Don't let us down I'll let your family down Or your country down Most of all don't let yourself Meg"
+        }
+      ]
+    },
+    {
+      "block_size": 3,
+      "k_value": 1.0,
+      "number_of_segments": 9,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 78.62,
+          "text": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school She thought it was important for me to keep up with American education So she decided to teach me extra lessons or so on day through Friday because she had to go to work You know, in time she could do it was at 4.30 and more whenever I complain my mother would just give me one of those looks and She'd say this is no picnic for me either buster I know that some of you are still just to being back at school But I'm here today because I've something important to discuss my father left my family when I was two years old I was raised by a single mom who had to work struggled at times to pay the bills and wasn't always able to give us things that other kids There were times when I missed having a father in my life There were times when I was lonely and I felt like I didn't fit I wasn't always as focused as I should have fit on school I did some things that I'm not proud of and I got more trouble than I should My life would have easily taken turn for the world I was, I got a lot of second chances and I had the opportunity to go to college I lost all of my dream. My wife, our first lady, Michelle Obama, she has a similar story Either of her parents had gone to college. They didn't have a lot of them But they worked hard and she worked hard so that she could go to the best schools in the school Some of you might not have those advantages. Maybe you don't have adults in your life Give you the support that maybe someone in your family has lost their job and there's not enough money to go If you live in a neighborhood where you don't feel safe Have friends, we're pressuring you to do things, no aren't right",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "mother",
+            "parents",
+            "mom",
+            "family",
+            "father"
+          ],
+          "summary": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school. I wasn't always as focused as I should have fit on school I did some things that I'm not proud of and I got more trouble than I should. My life would have easily taken turn for the world I was, I got a lot of second chances and I had the opportunity to go to college I lost all of my dream."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 78.62,
+          "end_time": 168.8,
+          "text": "Maybe you could be a great writer, maybe even good enough to write about articles in a newspaper But you might not know until you write that English, that English class paper that's assigned to Maybe you could be an innovator or an inventor, maybe even good enough to come up with the next iPhone or the new medicine or vaccine But you might not know it until you do your project for your science class Maybe you could be a mayor or a senator or a Supreme Court just But you might not know that until you join student government or the debate No matter what you want to do with your life I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer You want to be a nurse or an architect, lawyer or a member of our military You're going to need a good education for every single one of those careers You cannot drop out of school and just drop into a good job You've got to train for, work for, learn for This isn't just important for your own life and your own life You make of your education will decide nothing less than the future of this country The future of America depends on you But you're learning in school today will determine whether we as a nation can meet our greatest challenges And if you'll need the knowledge and problem solving skills You learn in science and math, your diseases like cancer and AIDS And to develop new energy technologies and protect our environment You'll need the insights and critical thinking skills you gain in history and social studies Like poverty and homelessness, crime and discrimination And make our nation more fair and more You'll need the creativity and ingenuity you develop in all your classes to build new comfort You'll create new jobs and boost our economy You need every single one of you to develop your talents and your skills and your intellect You can solve us all folks are most difficult problems If you don't do that, if you quit on school",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "education",
+            "careers",
+            "writer",
+            "school",
+            "teacher"
+          ],
+          "summary": "No matter what you want to do with your life I guarantee that you'll need an education. You cannot drop out of school and just drop into a good job. You've got to train for, work for, learn for. You make of your education will decide nothing less than the future of this country. The future of America depends on you. You can solve us all folks are most difficult problems If you don't do that, if you quit on school."
+        },
+        {
+          "segment_id": 3,
+          "start_time": 168.8,
+          "end_time": 201.12,
+          "text": "You're not just quitting on yourself, you're quitting on your cut I know it's not always easy to do well And so a lot of you have challenges in your lives right now You can make it hard to focus on your school I get it, I know what it's like But at the end of the day, circumstances of your life What you look like, where you come from, how much money you have, you've got going on at home None of that is an excuse for neglecting your homework or having a bad attitude in school That's no excuse for talking back to your teacher or cutting class or dropping out of school There is no excuse for not trying You are right now, it doesn't have to determine where you'll end up No one's written your destiny, because here in America, you write your own destiny",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "quitting",
+            "cutting",
+            "cut",
+            "school",
+            "destiny"
+          ],
+          "summary": "You're not just quitting on yourself, you're quitting on your cut, says Obama. \"Here in America, you write your own destiny,\" he says. \"It doesn't have to determine where you'll end up\""
+        },
+        {
+          "segment_id": 4,
+          "start_time": 201.12,
+          "end_time": 266.4,
+          "text": "You make your own future That's what young people like you are doing every day all across America That's why today I'm calling on each of you to set your own goals for your education Everything you can to meet your goal can be as something as simple as Doing all your homework, paying attention in class Or spending time each day reading a book Maybe you'll decide to get involved in an extracurricular activity Or volunteer in your community Maybe you'll decide to stand up for kids who are being teased Or both because of who they are Because you believe like I did all young people deserve a safe environment to study Maybe you'll decide to take better care of yourself so you can be more ready to But whatever you resolve to do, I want you to commit to, I want you to really work at Although sometimes you get that sense from TV that you be rich and successful without any hard work Your ticket to success is through wrapping or basketball Being a reality TV star Chances are you're not going to be any of those Truth is being successful is hard You won't love every subject that you stuck You won't click with every teacher that you had Not every homework assign will seem completely relevant to your life At this minute, and you won't necessarily succeed at every first time you try That's okay Some of the most successful people in the world are the ones who had the most failed",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "succeed",
+            "education",
+            "future",
+            "extracurricular",
+            "goals"
+          ],
+          "summary": "You make your own future That's what young people like you are doing every day all across America. I'm calling on each of you to set your own goals for your education Everything you can to meet your goal can be as something as simple as doing all your homework, paying attention in class."
+        },
+        {
+          "segment_id": 5,
+          "start_time": 266.4,
+          "end_time": 318.4,
+          "text": "J.K. Rollins, who wrote Harry Potter Her first Harry Potter book was rejected 12 times before it was finally published Michael Jordan was cut from his high school basketball He lost hundreds of games and missed thousands of shots during his career But he once said, I have failed over and over and over again in my life And that's why I succeed These people succeeded because they understood That you can't let your failures define you You have to let your failures teach you You have to let them show you what to do differently the next time If you get into trouble, it doesn't mean you're a troublemaker It means you need to try harder You get a bad grade that doesn't mean you're stupid It just means you need to spend more time studying No one's born being good at all things You become good at things through hard work Out of our city athlete, the first time you play a new sport Don't hit every note the first time you sing a song You've got to practice the same principle applies to your school You might have to do a math problem a few times before you get it right",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "succeed",
+            "practice",
+            "failures",
+            "troublemaker",
+            "failed"
+          ],
+          "summary": "J.K. Rollins' first Harry Potter book was rejected 12 times before it was finally published. Michael Jordan was cut from his high school basketball. No one's born being good at all things. You become good at things through hard work."
+        },
+        {
+          "segment_id": 6,
+          "start_time": 318.4,
+          "end_time": 337.12,
+          "text": "You might have to read something a few times before you understand You definitely have to do a few drafts of a pay for it's good enough to hand in Don't be afraid to ask for help when you need it I do that every day That's for help isn't a sign of weakness It's a sign of strength As it shows you have the courage to admit when you don't know something That then allows you to learn something new Find an adult that you trust",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "learn",
+            "pay",
+            "read",
+            "drafts",
+            "adult"
+          ],
+          "summary": "You might have to read something a few times before you understand. You definitely have to do a few drafts of a pay for it's good enough to hand in. Don't"
+        },
+        {
+          "segment_id": 7,
+          "start_time": 337.12,
+          "end_time": 383.36,
+          "text": "The grandparent or a coach or a counselor Ask them to help you stay on track to meet your goal Even when you're struck when you're discouraged Feel like other people have given up on you Have up on yourself When you give up on yourself Give up on your cut Story of America isn't about people who quit when things got tough People who kept going and tried harder Who loved their country too much Anything less than their best Story of students who sat where you sit 250 years ago Went on to wage a revolution And they founded this young students who sat Where you sit 75 years ago Who overcame a depression One-of-world war for civil rights And put a man on the students who sat Where you sit 20 years ago Found a Google and Twitter and Facebook And change the way we communicate with each other So today I want to ask All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "depression",
+            "counselor",
+            "quit",
+            "discouraged",
+            "revolution"
+          ],
+          "summary": "The grandparent or a coach or a counselor Ask them to help you stay on track to meet your goal. Story of America isn't about people who quit when things got tough People who kept going and tried harder Who loved their country too much Anything less than their best"
+        },
+        {
+          "segment_id": 8,
+          "start_time": 383.36,
+          "end_time": 388.4,
+          "text": "Saying about what all of you did for this guy Your families Your teachers and I are doing everything we can",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "teachers",
+            "families",
+            "saying",
+            "guy",
+            "doing"
+          ],
+          "summary": "Saying about what all of you did for this guy Your"
+        },
+        {
+          "segment_id": 9,
+          "start_time": 388.4,
+          "end_time": 408.32,
+          "text": "To make sure you have the education You need to answer these questions I'm working hard to fix up your classrooms And get you the books and the acquitters you need But you've got to do your part So I expect all of you to get serious this year I expect you to put your best out And everything you do I expect great things from each of you Don't let us down I'll let your family down Or your country down Most of all don't let yourself Megazole proud",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "classrooms",
+            "education",
+            "proud",
+            "expect",
+            "make"
+          ],
+          "summary": "To make sure you have the education You need to answer these questions. Don't let us down I'll let your family down Or your country down Most of all don't let yourself Meg"
+        }
+      ]
+    },
+    {
+      "block_size": 3,
+      "k_value": 1.2,
+      "number_of_segments": 8,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 78.62,
+          "text": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school She thought it was important for me to keep up with American education So she decided to teach me extra lessons or so on day through Friday because she had to go to work You know, in time she could do it was at 4.30 and more whenever I complain my mother would just give me one of those looks and She'd say this is no picnic for me either buster I know that some of you are still just to being back at school But I'm here today because I've something important to discuss my father left my family when I was two years old I was raised by a single mom who had to work struggled at times to pay the bills and wasn't always able to give us things that other kids There were times when I missed having a father in my life There were times when I was lonely and I felt like I didn't fit I wasn't always as focused as I should have fit on school I did some things that I'm not proud of and I got more trouble than I should My life would have easily taken turn for the world I was, I got a lot of second chances and I had the opportunity to go to college I lost all of my dream. My wife, our first lady, Michelle Obama, she has a similar story Either of her parents had gone to college. They didn't have a lot of them But they worked hard and she worked hard so that she could go to the best schools in the school Some of you might not have those advantages. Maybe you don't have adults in your life Give you the support that maybe someone in your family has lost their job and there's not enough money to go If you live in a neighborhood where you don't feel safe Have friends, we're pressuring you to do things, no aren't right",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "mother",
+            "parents",
+            "mom",
+            "family",
+            "father"
+          ],
+          "summary": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school. I wasn't always as focused as I should have fit on school I did some things that I'm not proud of and I got more trouble than I should. My life would have easily taken turn for the world I was, I got a lot of second chances and I had the opportunity to go to college I lost all of my dream."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 78.62,
+          "end_time": 201.12,
+          "text": "Maybe you could be a great writer, maybe even good enough to write about articles in a newspaper But you might not know until you write that English, that English class paper that's assigned to Maybe you could be an innovator or an inventor, maybe even good enough to come up with the next iPhone or the new medicine or vaccine But you might not know it until you do your project for your science class Maybe you could be a mayor or a senator or a Supreme Court just But you might not know that until you join student government or the debate No matter what you want to do with your life I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer You want to be a nurse or an architect, lawyer or a member of our military You're going to need a good education for every single one of those careers You cannot drop out of school and just drop into a good job You've got to train for, work for, learn for This isn't just important for your own life and your own life You make of your education will decide nothing less than the future of this country The future of America depends on you But you're learning in school today will determine whether we as a nation can meet our greatest challenges And if you'll need the knowledge and problem solving skills You learn in science and math, your diseases like cancer and AIDS And to develop new energy technologies and protect our environment You'll need the insights and critical thinking skills you gain in history and social studies Like poverty and homelessness, crime and discrimination And make our nation more fair and more You'll need the creativity and ingenuity you develop in all your classes to build new comfort You'll create new jobs and boost our economy You need every single one of you to develop your talents and your skills and your intellect You can solve us all folks are most difficult problems If you don't do that, if you quit on school You're not just quitting on yourself, you're quitting on your cut I know it's not always easy to do well And so a lot of you have challenges in your lives right now You can make it hard to focus on your school I get it, I know what it's like But at the end of the day, circumstances of your life What you look like, where you come from, how much money you have, you've got going on at home None of that is an excuse for neglecting your homework or having a bad attitude in school That's no excuse for talking back to your teacher or cutting class or dropping out of school There is no excuse for not trying You are right now, it doesn't have to determine where you'll end up No one's written your destiny, because here in America, you write your own destiny",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "education",
+            "careers",
+            "writer",
+            "school",
+            "teacher"
+          ],
+          "summary": "No matter what you want to do with your life I guarantee that you'll need an education. You cannot drop out of school and just drop into a good job. You've got to train for, work for, learn for. You make of your education will decide nothing less than the future of this country. But you're learning in school today will determine whether we as a nation can meet our greatest challenges. You can solve us all folks are most difficult problems If you don't do that, if you quit on school you're not just quitting on yourself, you're quitting on your cut."
+        },
+        {
+          "segment_id": 3,
+          "start_time": 201.12,
+          "end_time": 266.4,
+          "text": "You make your own future That's what young people like you are doing every day all across America That's why today I'm calling on each of you to set your own goals for your education Everything you can to meet your goal can be as something as simple as Doing all your homework, paying attention in class Or spending time each day reading a book Maybe you'll decide to get involved in an extracurricular activity Or volunteer in your community Maybe you'll decide to stand up for kids who are being teased Or both because of who they are Because you believe like I did all young people deserve a safe environment to study Maybe you'll decide to take better care of yourself so you can be more ready to But whatever you resolve to do, I want you to commit to, I want you to really work at Although sometimes you get that sense from TV that you be rich and successful without any hard work Your ticket to success is through wrapping or basketball Being a reality TV star Chances are you're not going to be any of those Truth is being successful is hard You won't love every subject that you stuck You won't click with every teacher that you had Not every homework assign will seem completely relevant to your life At this minute, and you won't necessarily succeed at every first time you try That's okay Some of the most successful people in the world are the ones who had the most failed",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "succeed",
+            "education",
+            "future",
+            "extracurricular",
+            "goals"
+          ],
+          "summary": "You make your own future That's what young people like you are doing every day all across America. I'm calling on each of you to set your own goals for your education Everything you can to meet your goal can be as something as simple as doing all your homework, paying attention in class."
+        },
+        {
+          "segment_id": 4,
+          "start_time": 266.4,
+          "end_time": 318.4,
+          "text": "J.K. Rollins, who wrote Harry Potter Her first Harry Potter book was rejected 12 times before it was finally published Michael Jordan was cut from his high school basketball He lost hundreds of games and missed thousands of shots during his career But he once said, I have failed over and over and over again in my life And that's why I succeed These people succeeded because they understood That you can't let your failures define you You have to let your failures teach you You have to let them show you what to do differently the next time If you get into trouble, it doesn't mean you're a troublemaker It means you need to try harder You get a bad grade that doesn't mean you're stupid It just means you need to spend more time studying No one's born being good at all things You become good at things through hard work Out of our city athlete, the first time you play a new sport Don't hit every note the first time you sing a song You've got to practice the same principle applies to your school You might have to do a math problem a few times before you get it right",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "succeed",
+            "practice",
+            "failures",
+            "troublemaker",
+            "failed"
+          ],
+          "summary": "J.K. Rollins' first Harry Potter book was rejected 12 times before it was finally published. Michael Jordan was cut from his high school basketball. No one's born being good at all things. You become good at things through hard work."
+        },
+        {
+          "segment_id": 5,
+          "start_time": 318.4,
+          "end_time": 337.12,
+          "text": "You might have to read something a few times before you understand You definitely have to do a few drafts of a pay for it's good enough to hand in Don't be afraid to ask for help when you need it I do that every day That's for help isn't a sign of weakness It's a sign of strength As it shows you have the courage to admit when you don't know something That then allows you to learn something new Find an adult that you trust",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "learn",
+            "pay",
+            "read",
+            "drafts",
+            "adult"
+          ],
+          "summary": "You might have to read something a few times before you understand. You definitely have to do a few drafts of a pay for it's good enough to hand in. Don't"
+        },
+        {
+          "segment_id": 6,
+          "start_time": 337.12,
+          "end_time": 383.36,
+          "text": "The grandparent or a coach or a counselor Ask them to help you stay on track to meet your goal Even when you're struck when you're discouraged Feel like other people have given up on you Have up on yourself When you give up on yourself Give up on your cut Story of America isn't about people who quit when things got tough People who kept going and tried harder Who loved their country too much Anything less than their best Story of students who sat where you sit 250 years ago Went on to wage a revolution And they founded this young students who sat Where you sit 75 years ago Who overcame a depression One-of-world war for civil rights And put a man on the students who sat Where you sit 20 years ago Found a Google and Twitter and Facebook And change the way we communicate with each other So today I want to ask All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "depression",
+            "counselor",
+            "quit",
+            "discouraged",
+            "revolution"
+          ],
+          "summary": "The grandparent or a coach or a counselor Ask them to help you stay on track to meet your goal. Story of America isn't about people who quit when things got tough People who kept going and tried harder Who loved their country too much Anything less than their best"
+        },
+        {
+          "segment_id": 7,
+          "start_time": 383.36,
+          "end_time": 388.4,
+          "text": "Saying about what all of you did for this guy Your families Your teachers and I are doing everything we can",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "teachers",
+            "families",
+            "saying",
+            "guy",
+            "doing"
+          ],
+          "summary": "Saying about what all of you did for this guy Your"
+        },
+        {
+          "segment_id": 8,
+          "start_time": 388.4,
+          "end_time": 408.32,
+          "text": "To make sure you have the education You need to answer these questions I'm working hard to fix up your classrooms And get you the books and the acquitters you need But you've got to do your part So I expect all of you to get serious this year I expect you to put your best out And everything you do I expect great things from each of you Don't let us down I'll let your family down Or your country down Most of all don't let yourself Megazole proud",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "classrooms",
+            "education",
+            "proud",
+            "expect",
+            "make"
+          ],
+          "summary": "To make sure you have the education You need to answer these questions. Don't let us down I'll let your family down Or your country down Most of all don't let yourself Meg"
+        }
+      ]
+    },
+    {
+      "block_size": 5,
+      "k_value": 0.8,
+      "number_of_segments": 8,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 75.82,
+          "text": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school She thought it was important for me to keep up with American education So she decided to teach me extra lessons or so on day through Friday because she had to go to work You know, in time she could do it was at 4.30 and more whenever I complain my mother would just give me one of those looks and She'd say this is no picnic for me either buster I know that some of you are still just to being back at school But I'm here today because I've something important to discuss my father left my family when I was two years old I was raised by a single mom who had to work struggled at times to pay the bills and wasn't always able to give us things that other kids There were times when I missed having a father in my life There were times when I was lonely and I felt like I didn't fit I wasn't always as focused as I should have fit on school I did some things that I'm not proud of and I got more trouble than I should My life would have easily taken turn for the world I was, I got a lot of second chances and I had the opportunity to go to college I lost all of my dream. My wife, our first lady, Michelle Obama, she has a similar story Either of her parents had gone to college. They didn't have a lot of them But they worked hard and she worked hard so that she could go to the best schools in the school Some of you might not have those advantages. Maybe you don't have adults in your life Give you the support that maybe someone in your family has lost their job and there's not enough money to go If you live in a neighborhood where you don't feel safe",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "mother",
+            "parents",
+            "mom",
+            "family",
+            "father"
+          ],
+          "summary": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school. There were times when I missed having a father in my life. I wasn't always as focused as I should have fit on school. I did some things that I'm not proud of and I got more trouble than I should. I had the opportunity to go to college I lost all of my dream."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 75.82,
+          "end_time": 214.8,
+          "text": "Have friends, we're pressuring you to do things, no aren't right Maybe you could be a great writer, maybe even good enough to write about articles in a newspaper But you might not know until you write that English, that English class paper that's assigned to Maybe you could be an innovator or an inventor, maybe even good enough to come up with the next iPhone or the new medicine or vaccine But you might not know it until you do your project for your science class Maybe you could be a mayor or a senator or a Supreme Court just But you might not know that until you join student government or the debate No matter what you want to do with your life I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer You want to be a nurse or an architect, lawyer or a member of our military You're going to need a good education for every single one of those careers You cannot drop out of school and just drop into a good job You've got to train for, work for, learn for This isn't just important for your own life and your own life You make of your education will decide nothing less than the future of this country The future of America depends on you But you're learning in school today will determine whether we as a nation can meet our greatest challenges And if you'll need the knowledge and problem solving skills You learn in science and math, your diseases like cancer and AIDS And to develop new energy technologies and protect our environment You'll need the insights and critical thinking skills you gain in history and social studies Like poverty and homelessness, crime and discrimination And make our nation more fair and more You'll need the creativity and ingenuity you develop in all your classes to build new comfort You'll create new jobs and boost our economy You need every single one of you to develop your talents and your skills and your intellect You can solve us all folks are most difficult problems If you don't do that, if you quit on school You're not just quitting on yourself, you're quitting on your cut I know it's not always easy to do well And so a lot of you have challenges in your lives right now You can make it hard to focus on your school I get it, I know what it's like But at the end of the day, circumstances of your life What you look like, where you come from, how much money you have, you've got going on at home None of that is an excuse for neglecting your homework or having a bad attitude in school That's no excuse for talking back to your teacher or cutting class or dropping out of school There is no excuse for not trying You are right now, it doesn't have to determine where you'll end up No one's written your destiny, because here in America, you write your own destiny You make your own future That's what young people like you are doing every day all across America That's why today I'm calling on each of you to set your own goals for your education Everything you can to meet your goal can be as something as simple as Doing all your homework, paying attention in class",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "education",
+            "careers",
+            "school",
+            "life",
+            "learn"
+          ],
+          "summary": "I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer or a nurse or an architect, lawyer or a member of our military. You're going to need a good education for every single one of those careers. You cannot drop out of school and just drop into a good job. You've got to train for, work for, learn for. This isn't just important for your own life and your life. You make of your education will decide nothing less than the future of this country. The future of America depends on you. I know it's not always easy to do well. None of that is an excuse for neglecting your homework or having a bad attitude in school."
+        },
+        {
+          "segment_id": 3,
+          "start_time": 214.8,
+          "end_time": 268.32,
+          "text": "Or spending time each day reading a book Maybe you'll decide to get involved in an extracurricular activity Or volunteer in your community Maybe you'll decide to stand up for kids who are being teased Or both because of who they are Because you believe like I did all young people deserve a safe environment to study Maybe you'll decide to take better care of yourself so you can be more ready to But whatever you resolve to do, I want you to commit to, I want you to really work at Although sometimes you get that sense from TV that you be rich and successful without any hard work Your ticket to success is through wrapping or basketball Being a reality TV star Chances are you're not going to be any of those Truth is being successful is hard You won't love every subject that you stuck You won't click with every teacher that you had Not every homework assign will seem completely relevant to your life At this minute, and you won't necessarily succeed at every first time you try That's okay Some of the most successful people in the world are the ones who had the most failed J.K. Rollins, who wrote Harry Potter",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "succeed",
+            "success",
+            "study",
+            "extracurricular",
+            "successful"
+          ],
+          "summary": "Or spending time each day reading a book. Maybe you'll decide to get involved in an extracurricular activity. Or volunteer in your community. Or stand up for kids who are being teased. Or both because of who they are."
+        },
+        {
+          "segment_id": 4,
+          "start_time": 268.32,
+          "end_time": 282.0,
+          "text": "Her first Harry Potter book was rejected 12 times before it was finally published Michael Jordan was cut from his high school basketball He lost hundreds of games and missed thousands of shots during his career But he once said, I have failed over and over and over again in my life",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "potter",
+            "harry",
+            "jordan",
+            "rejected",
+            "published"
+          ],
+          "summary": "Her first Harry Potter book was rejected 12 times before it was finally published. Michael Jordan was cut"
+        },
+        {
+          "segment_id": 5,
+          "start_time": 282.0,
+          "end_time": 318.4,
+          "text": "And that's why I succeed These people succeeded because they understood That you can't let your failures define you You have to let your failures teach you You have to let them show you what to do differently the next time If you get into trouble, it doesn't mean you're a troublemaker It means you need to try harder You get a bad grade that doesn't mean you're stupid It just means you need to spend more time studying No one's born being good at all things You become good at things through hard work Out of our city athlete, the first time you play a new sport Don't hit every note the first time you sing a song You've got to practice the same principle applies to your school You might have to do a math problem a few times before you get it right",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "succeed",
+            "troublemaker",
+            "practice",
+            "failures",
+            "studying"
+          ],
+          "summary": "And that's why I succeed These people succeeded because they understood That you can't let your failures define you. You have to let them show you what to do differently the next time. No one's born being good at all things You become good at things through hard work."
+        },
+        {
+          "segment_id": 6,
+          "start_time": 318.4,
+          "end_time": 374.56,
+          "text": "You might have to read something a few times before you understand You definitely have to do a few drafts of a pay for it's good enough to hand in Don't be afraid to ask for help when you need it I do that every day That's for help isn't a sign of weakness It's a sign of strength As it shows you have the courage to admit when you don't know something That then allows you to learn something new Find an adult that you trust The grandparent or a coach or a counselor Ask them to help you stay on track to meet your goal Even when you're struck when you're discouraged Feel like other people have given up on you Have up on yourself When you give up on yourself Give up on your cut Story of America isn't about people who quit when things got tough People who kept going and tried harder Who loved their country too much Anything less than their best Story of students who sat where you sit 250 years ago Went on to wage a revolution And they founded this young students who sat Where you sit 75 years ago Who overcame a depression One-of-world war for civil rights And put a man on the students who sat Where you sit 20 years ago Found a Google and Twitter and Facebook And change the way we communicate with each other",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "depression",
+            "quit",
+            "discouraged",
+            "counselor",
+            "learn"
+          ],
+          "summary": "You might have to read something a few times before you understand. You definitely have to do a few drafts of a pay for it's good enough to hand in. Don't be afraid to ask for help when you need it. Ask an adult that you trust The grandparent or a coach or a counselor."
+        },
+        {
+          "segment_id": 7,
+          "start_time": 374.56,
+          "end_time": 398.56,
+          "text": "So today I want to ask All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years Saying about what all of you did for this guy Your families Your teachers and I are doing everything we can To make sure you have the education You need to answer these questions I'm working hard to fix up your classrooms And get you the books and the acquitters you need But you've got to do your part So I expect all of you to get serious this year",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "discoveries",
+            "president",
+            "questions",
+            "problems",
+            "teachers"
+          ],
+          "summary": "So today I want to ask All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years Saying about what all"
+        },
+        {
+          "segment_id": 8,
+          "start_time": 398.56,
+          "end_time": 408.32,
+          "text": "I expect you to put your best out And everything you do I expect great things from each of you Don't let us down I'll let your family down Or your country down Most of all don't let yourself Megazole proud",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "expect",
+            "proud",
+            "best",
+            "family",
+            "megazole"
+          ],
+          "summary": "I expect you to put your best out And everything you do I expect great things"
+        }
+      ]
+    },
+    {
+      "block_size": 5,
+      "k_value": 1.0,
+      "number_of_segments": 7,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 75.82,
+          "text": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school She thought it was important for me to keep up with American education So she decided to teach me extra lessons or so on day through Friday because she had to go to work You know, in time she could do it was at 4.30 and more whenever I complain my mother would just give me one of those looks and She'd say this is no picnic for me either buster I know that some of you are still just to being back at school But I'm here today because I've something important to discuss my father left my family when I was two years old I was raised by a single mom who had to work struggled at times to pay the bills and wasn't always able to give us things that other kids There were times when I missed having a father in my life There were times when I was lonely and I felt like I didn't fit I wasn't always as focused as I should have fit on school I did some things that I'm not proud of and I got more trouble than I should My life would have easily taken turn for the world I was, I got a lot of second chances and I had the opportunity to go to college I lost all of my dream. My wife, our first lady, Michelle Obama, she has a similar story Either of her parents had gone to college. They didn't have a lot of them But they worked hard and she worked hard so that she could go to the best schools in the school Some of you might not have those advantages. Maybe you don't have adults in your life Give you the support that maybe someone in your family has lost their job and there's not enough money to go If you live in a neighborhood where you don't feel safe",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "mother",
+            "parents",
+            "mom",
+            "family",
+            "father"
+          ],
+          "summary": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school. There were times when I missed having a father in my life. I wasn't always as focused as I should have fit on school. I did some things that I'm not proud of and I got more trouble than I should. I had the opportunity to go to college I lost all of my dream."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 75.82,
+          "end_time": 268.32,
+          "text": "Have friends, we're pressuring you to do things, no aren't right Maybe you could be a great writer, maybe even good enough to write about articles in a newspaper But you might not know until you write that English, that English class paper that's assigned to Maybe you could be an innovator or an inventor, maybe even good enough to come up with the next iPhone or the new medicine or vaccine But you might not know it until you do your project for your science class Maybe you could be a mayor or a senator or a Supreme Court just But you might not know that until you join student government or the debate No matter what you want to do with your life I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer You want to be a nurse or an architect, lawyer or a member of our military You're going to need a good education for every single one of those careers You cannot drop out of school and just drop into a good job You've got to train for, work for, learn for This isn't just important for your own life and your own life You make of your education will decide nothing less than the future of this country The future of America depends on you But you're learning in school today will determine whether we as a nation can meet our greatest challenges And if you'll need the knowledge and problem solving skills You learn in science and math, your diseases like cancer and AIDS And to develop new energy technologies and protect our environment You'll need the insights and critical thinking skills you gain in history and social studies Like poverty and homelessness, crime and discrimination And make our nation more fair and more You'll need the creativity and ingenuity you develop in all your classes to build new comfort You'll create new jobs and boost our economy You need every single one of you to develop your talents and your skills and your intellect You can solve us all folks are most difficult problems If you don't do that, if you quit on school You're not just quitting on yourself, you're quitting on your cut I know it's not always easy to do well And so a lot of you have challenges in your lives right now You can make it hard to focus on your school I get it, I know what it's like But at the end of the day, circumstances of your life What you look like, where you come from, how much money you have, you've got going on at home None of that is an excuse for neglecting your homework or having a bad attitude in school That's no excuse for talking back to your teacher or cutting class or dropping out of school There is no excuse for not trying You are right now, it doesn't have to determine where you'll end up No one's written your destiny, because here in America, you write your own destiny You make your own future That's what young people like you are doing every day all across America That's why today I'm calling on each of you to set your own goals for your education Everything you can to meet your goal can be as something as simple as Doing all your homework, paying attention in class Or spending time each day reading a book Maybe you'll decide to get involved in an extracurricular activity Or volunteer in your community Maybe you'll decide to stand up for kids who are being teased Or both because of who they are Because you believe like I did all young people deserve a safe environment to study Maybe you'll decide to take better care of yourself so you can be more ready to But whatever you resolve to do, I want you to commit to, I want you to really work at Although sometimes you get that sense from TV that you be rich and successful without any hard work Your ticket to success is through wrapping or basketball Being a reality TV star Chances are you're not going to be any of those Truth is being successful is hard You won't love every subject that you stuck You won't click with every teacher that you had Not every homework assign will seem completely relevant to your life At this minute, and you won't necessarily succeed at every first time you try That's okay Some of the most successful people in the world are the ones who had the most failed J.K. Rollins, who wrote Harry Potter",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "education",
+            "careers",
+            "school",
+            "life",
+            "learn"
+          ],
+          "summary": "I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer or a nurse or an architect, lawyer or a member of our military. You're going to need a good education for every single one of those careers. You cannot drop out of school and just drop into a good job. You've got to train for, work for, learn for. This isn't just important for your own life, it's important for the future of this country. If you don't do that, if you quit on school you're not just quitting on yourself, you're quitting on your cut. You can solve us all folks are most difficult problems. I'm calling on each of you to set your own goals for your education. Everything you can to meet your goal can be as something as simple as doing all your homework, paying attention in class."
+        },
+        {
+          "segment_id": 3,
+          "start_time": 268.32,
+          "end_time": 282.0,
+          "text": "Her first Harry Potter book was rejected 12 times before it was finally published Michael Jordan was cut from his high school basketball He lost hundreds of games and missed thousands of shots during his career But he once said, I have failed over and over and over again in my life",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "potter",
+            "harry",
+            "jordan",
+            "rejected",
+            "published"
+          ],
+          "summary": "Her first Harry Potter book was rejected 12 times before it was finally published. Michael Jordan was cut"
+        },
+        {
+          "segment_id": 4,
+          "start_time": 282.0,
+          "end_time": 318.4,
+          "text": "And that's why I succeed These people succeeded because they understood That you can't let your failures define you You have to let your failures teach you You have to let them show you what to do differently the next time If you get into trouble, it doesn't mean you're a troublemaker It means you need to try harder You get a bad grade that doesn't mean you're stupid It just means you need to spend more time studying No one's born being good at all things You become good at things through hard work Out of our city athlete, the first time you play a new sport Don't hit every note the first time you sing a song You've got to practice the same principle applies to your school You might have to do a math problem a few times before you get it right",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "succeed",
+            "troublemaker",
+            "practice",
+            "failures",
+            "studying"
+          ],
+          "summary": "And that's why I succeed These people succeeded because they understood That you can't let your failures define you. You have to let them show you what to do differently the next time. No one's born being good at all things You become good at things through hard work."
+        },
+        {
+          "segment_id": 5,
+          "start_time": 318.4,
+          "end_time": 374.56,
+          "text": "You might have to read something a few times before you understand You definitely have to do a few drafts of a pay for it's good enough to hand in Don't be afraid to ask for help when you need it I do that every day That's for help isn't a sign of weakness It's a sign of strength As it shows you have the courage to admit when you don't know something That then allows you to learn something new Find an adult that you trust The grandparent or a coach or a counselor Ask them to help you stay on track to meet your goal Even when you're struck when you're discouraged Feel like other people have given up on you Have up on yourself When you give up on yourself Give up on your cut Story of America isn't about people who quit when things got tough People who kept going and tried harder Who loved their country too much Anything less than their best Story of students who sat where you sit 250 years ago Went on to wage a revolution And they founded this young students who sat Where you sit 75 years ago Who overcame a depression One-of-world war for civil rights And put a man on the students who sat Where you sit 20 years ago Found a Google and Twitter and Facebook And change the way we communicate with each other",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "depression",
+            "quit",
+            "discouraged",
+            "counselor",
+            "learn"
+          ],
+          "summary": "You might have to read something a few times before you understand. You definitely have to do a few drafts of a pay for it's good enough to hand in. Don't be afraid to ask for help when you need it. Ask an adult that you trust The grandparent or a coach or a counselor."
+        },
+        {
+          "segment_id": 6,
+          "start_time": 374.56,
+          "end_time": 398.56,
+          "text": "So today I want to ask All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years Saying about what all of you did for this guy Your families Your teachers and I are doing everything we can To make sure you have the education You need to answer these questions I'm working hard to fix up your classrooms And get you the books and the acquitters you need But you've got to do your part So I expect all of you to get serious this year",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "discoveries",
+            "president",
+            "questions",
+            "problems",
+            "teachers"
+          ],
+          "summary": "So today I want to ask All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years Saying about what all"
+        },
+        {
+          "segment_id": 7,
+          "start_time": 398.56,
+          "end_time": 408.32,
+          "text": "I expect you to put your best out And everything you do I expect great things from each of you Don't let us down I'll let your family down Or your country down Most of all don't let yourself Megazole proud",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "expect",
+            "proud",
+            "best",
+            "family",
+            "megazole"
+          ],
+          "summary": "I expect you to put your best out And everything you do I expect great things"
+        }
+      ]
+    },
+    {
+      "block_size": 5,
+      "k_value": 1.2,
+      "number_of_segments": 6,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 268.32,
+          "text": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school She thought it was important for me to keep up with American education So she decided to teach me extra lessons or so on day through Friday because she had to go to work You know, in time she could do it was at 4.30 and more whenever I complain my mother would just give me one of those looks and She'd say this is no picnic for me either buster I know that some of you are still just to being back at school But I'm here today because I've something important to discuss my father left my family when I was two years old I was raised by a single mom who had to work struggled at times to pay the bills and wasn't always able to give us things that other kids There were times when I missed having a father in my life There were times when I was lonely and I felt like I didn't fit I wasn't always as focused as I should have fit on school I did some things that I'm not proud of and I got more trouble than I should My life would have easily taken turn for the world I was, I got a lot of second chances and I had the opportunity to go to college I lost all of my dream. My wife, our first lady, Michelle Obama, she has a similar story Either of her parents had gone to college. They didn't have a lot of them But they worked hard and she worked hard so that she could go to the best schools in the school Some of you might not have those advantages. Maybe you don't have adults in your life Give you the support that maybe someone in your family has lost their job and there's not enough money to go If you live in a neighborhood where you don't feel safe Have friends, we're pressuring you to do things, no aren't right Maybe you could be a great writer, maybe even good enough to write about articles in a newspaper But you might not know until you write that English, that English class paper that's assigned to Maybe you could be an innovator or an inventor, maybe even good enough to come up with the next iPhone or the new medicine or vaccine But you might not know it until you do your project for your science class Maybe you could be a mayor or a senator or a Supreme Court just But you might not know that until you join student government or the debate No matter what you want to do with your life I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer You want to be a nurse or an architect, lawyer or a member of our military You're going to need a good education for every single one of those careers You cannot drop out of school and just drop into a good job You've got to train for, work for, learn for This isn't just important for your own life and your own life You make of your education will decide nothing less than the future of this country The future of America depends on you But you're learning in school today will determine whether we as a nation can meet our greatest challenges And if you'll need the knowledge and problem solving skills You learn in science and math, your diseases like cancer and AIDS And to develop new energy technologies and protect our environment You'll need the insights and critical thinking skills you gain in history and social studies Like poverty and homelessness, crime and discrimination And make our nation more fair and more You'll need the creativity and ingenuity you develop in all your classes to build new comfort You'll create new jobs and boost our economy You need every single one of you to develop your talents and your skills and your intellect You can solve us all folks are most difficult problems If you don't do that, if you quit on school You're not just quitting on yourself, you're quitting on your cut I know it's not always easy to do well And so a lot of you have challenges in your lives right now You can make it hard to focus on your school I get it, I know what it's like But at the end of the day, circumstances of your life What you look like, where you come from, how much money you have, you've got going on at home None of that is an excuse for neglecting your homework or having a bad attitude in school That's no excuse for talking back to your teacher or cutting class or dropping out of school There is no excuse for not trying You are right now, it doesn't have to determine where you'll end up No one's written your destiny, because here in America, you write your own destiny You make your own future That's what young people like you are doing every day all across America That's why today I'm calling on each of you to set your own goals for your education Everything you can to meet your goal can be as something as simple as Doing all your homework, paying attention in class Or spending time each day reading a book Maybe you'll decide to get involved in an extracurricular activity Or volunteer in your community Maybe you'll decide to stand up for kids who are being teased Or both because of who they are Because you believe like I did all young people deserve a safe environment to study Maybe you'll decide to take better care of yourself so you can be more ready to But whatever you resolve to do, I want you to commit to, I want you to really work at Although sometimes you get that sense from TV that you be rich and successful without any hard work Your ticket to success is through wrapping or basketball Being a reality TV star Chances are you're not going to be any of those Truth is being successful is hard You won't love every subject that you stuck You won't click with every teacher that you had Not every homework assign will seem completely relevant to your life At this minute, and you won't necessarily succeed at every first time you try That's okay Some of the most successful people in the world are the ones who had the most failed J.K. Rollins, who wrote Harry Potter",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "mother",
+            "parents",
+            "mom",
+            "family",
+            "father"
+          ],
+          "summary": "President Barack Obama spoke to students about the importance of education. Obama: \"You make of your education will decide nothing less than the future of this country\" \"There is no excuse for talking back to your teacher or cutting class or dropping out of school\" \"No one's written your destiny because here in America, you write your own destiny\" \"If you don't do that, if you quit on school you're not just quitting on yourself, you're quitting on your cut\" \"I'm calling on each of you to get involved in each day of your life, to make your own future\" \"You can solve us all folks are most difficult problems,\" he said. \"I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer or a nurse or an architect, lawyer or a member of our military\" \"It's not always easy to do well,\" Obama said, \"but you're learning in school today will determine whether we as a nation can meet our greatest challenges\""
+        },
+        {
+          "segment_id": 2,
+          "start_time": 268.32,
+          "end_time": 282.0,
+          "text": "Her first Harry Potter book was rejected 12 times before it was finally published Michael Jordan was cut from his high school basketball He lost hundreds of games and missed thousands of shots during his career But he once said, I have failed over and over and over again in my life",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "potter",
+            "harry",
+            "jordan",
+            "rejected",
+            "published"
+          ],
+          "summary": "Her first Harry Potter book was rejected 12 times before it was finally published. Michael Jordan was cut"
+        },
+        {
+          "segment_id": 3,
+          "start_time": 282.0,
+          "end_time": 318.4,
+          "text": "And that's why I succeed These people succeeded because they understood That you can't let your failures define you You have to let your failures teach you You have to let them show you what to do differently the next time If you get into trouble, it doesn't mean you're a troublemaker It means you need to try harder You get a bad grade that doesn't mean you're stupid It just means you need to spend more time studying No one's born being good at all things You become good at things through hard work Out of our city athlete, the first time you play a new sport Don't hit every note the first time you sing a song You've got to practice the same principle applies to your school You might have to do a math problem a few times before you get it right",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "succeed",
+            "troublemaker",
+            "practice",
+            "failures",
+            "studying"
+          ],
+          "summary": "And that's why I succeed These people succeeded because they understood That you can't let your failures define you. You have to let them show you what to do differently the next time. No one's born being good at all things You become good at things through hard work."
+        },
+        {
+          "segment_id": 4,
+          "start_time": 318.4,
+          "end_time": 374.56,
+          "text": "You might have to read something a few times before you understand You definitely have to do a few drafts of a pay for it's good enough to hand in Don't be afraid to ask for help when you need it I do that every day That's for help isn't a sign of weakness It's a sign of strength As it shows you have the courage to admit when you don't know something That then allows you to learn something new Find an adult that you trust The grandparent or a coach or a counselor Ask them to help you stay on track to meet your goal Even when you're struck when you're discouraged Feel like other people have given up on you Have up on yourself When you give up on yourself Give up on your cut Story of America isn't about people who quit when things got tough People who kept going and tried harder Who loved their country too much Anything less than their best Story of students who sat where you sit 250 years ago Went on to wage a revolution And they founded this young students who sat Where you sit 75 years ago Who overcame a depression One-of-world war for civil rights And put a man on the students who sat Where you sit 20 years ago Found a Google and Twitter and Facebook And change the way we communicate with each other",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "depression",
+            "quit",
+            "discouraged",
+            "counselor",
+            "learn"
+          ],
+          "summary": "You might have to read something a few times before you understand. You definitely have to do a few drafts of a pay for it's good enough to hand in. Don't be afraid to ask for help when you need it. Ask an adult that you trust The grandparent or a coach or a counselor."
+        },
+        {
+          "segment_id": 5,
+          "start_time": 374.56,
+          "end_time": 398.56,
+          "text": "So today I want to ask All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years Saying about what all of you did for this guy Your families Your teachers and I are doing everything we can To make sure you have the education You need to answer these questions I'm working hard to fix up your classrooms And get you the books and the acquitters you need But you've got to do your part So I expect all of you to get serious this year",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "discoveries",
+            "president",
+            "questions",
+            "problems",
+            "teachers"
+          ],
+          "summary": "So today I want to ask All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years Saying about what all"
+        },
+        {
+          "segment_id": 6,
+          "start_time": 398.56,
+          "end_time": 408.32,
+          "text": "I expect you to put your best out And everything you do I expect great things from each of you Don't let us down I'll let your family down Or your country down Most of all don't let yourself Megazole proud",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "expect",
+            "proud",
+            "best",
+            "family",
+            "megazole"
+          ],
+          "summary": "I expect you to put your best out And everything you do I expect great things"
+        }
+      ]
+    },
+    {
+      "block_size": 8,
+      "k_value": 0.8,
+      "number_of_segments": 6,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 93.06,
+          "text": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school She thought it was important for me to keep up with American education So she decided to teach me extra lessons or so on day through Friday because she had to go to work You know, in time she could do it was at 4.30 and more whenever I complain my mother would just give me one of those looks and She'd say this is no picnic for me either buster I know that some of you are still just to being back at school But I'm here today because I've something important to discuss my father left my family when I was two years old I was raised by a single mom who had to work struggled at times to pay the bills and wasn't always able to give us things that other kids There were times when I missed having a father in my life There were times when I was lonely and I felt like I didn't fit I wasn't always as focused as I should have fit on school I did some things that I'm not proud of and I got more trouble than I should My life would have easily taken turn for the world I was, I got a lot of second chances and I had the opportunity to go to college I lost all of my dream. My wife, our first lady, Michelle Obama, she has a similar story Either of her parents had gone to college. They didn't have a lot of them But they worked hard and she worked hard so that she could go to the best schools in the school Some of you might not have those advantages. Maybe you don't have adults in your life Give you the support that maybe someone in your family has lost their job and there's not enough money to go If you live in a neighborhood where you don't feel safe Have friends, we're pressuring you to do things, no aren't right Maybe you could be a great writer, maybe even good enough to write about articles in a newspaper But you might not know until you write that English, that English class paper that's assigned to Maybe you could be an innovator or an inventor, maybe even good enough to come up with the next iPhone or the new medicine or vaccine",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "mother",
+            "parents",
+            "mom",
+            "family",
+            "father"
+          ],
+          "summary": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school. I wasn't always as focused as I should have fit on school I did some things that I'm not proud of and I got more trouble than I should. My life would have easily taken turn for the world I was, I got a lot of second chances and I had the opportunity to go to college I lost all of my dream. Maybe you could be an innovator or an inventor, maybe even good enough to come up with the next iPhone or the new medicine or vaccine."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 93.06,
+          "end_time": 168.8,
+          "text": "But you might not know it until you do your project for your science class Maybe you could be a mayor or a senator or a Supreme Court just But you might not know that until you join student government or the debate No matter what you want to do with your life I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer You want to be a nurse or an architect, lawyer or a member of our military You're going to need a good education for every single one of those careers You cannot drop out of school and just drop into a good job You've got to train for, work for, learn for This isn't just important for your own life and your own life You make of your education will decide nothing less than the future of this country The future of America depends on you But you're learning in school today will determine whether we as a nation can meet our greatest challenges And if you'll need the knowledge and problem solving skills You learn in science and math, your diseases like cancer and AIDS And to develop new energy technologies and protect our environment You'll need the insights and critical thinking skills you gain in history and social studies Like poverty and homelessness, crime and discrimination And make our nation more fair and more You'll need the creativity and ingenuity you develop in all your classes to build new comfort You'll create new jobs and boost our economy You need every single one of you to develop your talents and your skills and your intellect You can solve us all folks are most difficult problems If you don't do that, if you quit on school",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "education",
+            "careers",
+            "school",
+            "science",
+            "student"
+          ],
+          "summary": "You make of your education will decide nothing less than the future of this country. The future of America depends on you. You cannot drop out of school and just drop into a good job. You've got to train for, work for, learn for. You can solve us all folks are most difficult problems. If you don't do that, if you quit on school."
+        },
+        {
+          "segment_id": 3,
+          "start_time": 168.8,
+          "end_time": 254.48,
+          "text": "You're not just quitting on yourself, you're quitting on your cut I know it's not always easy to do well And so a lot of you have challenges in your lives right now You can make it hard to focus on your school I get it, I know what it's like But at the end of the day, circumstances of your life What you look like, where you come from, how much money you have, you've got going on at home None of that is an excuse for neglecting your homework or having a bad attitude in school That's no excuse for talking back to your teacher or cutting class or dropping out of school There is no excuse for not trying You are right now, it doesn't have to determine where you'll end up No one's written your destiny, because here in America, you write your own destiny You make your own future That's what young people like you are doing every day all across America That's why today I'm calling on each of you to set your own goals for your education Everything you can to meet your goal can be as something as simple as Doing all your homework, paying attention in class Or spending time each day reading a book Maybe you'll decide to get involved in an extracurricular activity Or volunteer in your community Maybe you'll decide to stand up for kids who are being teased Or both because of who they are Because you believe like I did all young people deserve a safe environment to study Maybe you'll decide to take better care of yourself so you can be more ready to But whatever you resolve to do, I want you to commit to, I want you to really work at Although sometimes you get that sense from TV that you be rich and successful without any hard work Your ticket to success is through wrapping or basketball Being a reality TV star Chances are you're not going to be any of those Truth is being successful is hard You won't love every subject that you stuck You won't click with every teacher that you had",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "quitting",
+            "cutting",
+            "school",
+            "cut",
+            "end"
+          ],
+          "summary": "You're not just quitting on yourself, you're quitting on your cut. No one's written your destiny, because here in America, you write your own destiny. That's what young people like you are doing every day all across America. Everything you can to meet your goal can be as something as simple as doing all your homework, paying attention in class or spending time each day reading a book. Maybe you'll decide to stand up for kids who are being teased or volunteer in your community."
+        },
+        {
+          "segment_id": 4,
+          "start_time": 254.48,
+          "end_time": 375.92,
+          "text": "Not every homework assign will seem completely relevant to your life At this minute, and you won't necessarily succeed at every first time you try That's okay Some of the most successful people in the world are the ones who had the most failed J.K. Rollins, who wrote Harry Potter Her first Harry Potter book was rejected 12 times before it was finally published Michael Jordan was cut from his high school basketball He lost hundreds of games and missed thousands of shots during his career But he once said, I have failed over and over and over again in my life And that's why I succeed These people succeeded because they understood That you can't let your failures define you You have to let your failures teach you You have to let them show you what to do differently the next time If you get into trouble, it doesn't mean you're a troublemaker It means you need to try harder You get a bad grade that doesn't mean you're stupid It just means you need to spend more time studying No one's born being good at all things You become good at things through hard work Out of our city athlete, the first time you play a new sport Don't hit every note the first time you sing a song You've got to practice the same principle applies to your school You might have to do a math problem a few times before you get it right You might have to read something a few times before you understand You definitely have to do a few drafts of a pay for it's good enough to hand in Don't be afraid to ask for help when you need it I do that every day That's for help isn't a sign of weakness It's a sign of strength As it shows you have the courage to admit when you don't know something That then allows you to learn something new Find an adult that you trust The grandparent or a coach or a counselor Ask them to help you stay on track to meet your goal Even when you're struck when you're discouraged Feel like other people have given up on you Have up on yourself When you give up on yourself Give up on your cut Story of America isn't about people who quit when things got tough People who kept going and tried harder Who loved their country too much Anything less than their best Story of students who sat where you sit 250 years ago Went on to wage a revolution And they founded this young students who sat Where you sit 75 years ago Who overcame a depression One-of-world war for civil rights And put a man on the students who sat Where you sit 20 years ago Found a Google and Twitter and Facebook And change the way we communicate with each other So today I want to ask",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "succeed",
+            "studying",
+            "failures",
+            "practice",
+            "homework"
+          ],
+          "summary": "Some of the most successful people in the world are the ones who had the most failed J.K. Rollins' first Harry Potter book was rejected 12 times before it was finally published Michael Jordan was cut from his high school basketball. No one's born being good at all things. You become good at things through hard work. Don't hit every note the first time you sing a song. You might have to do a math problem a few times before you get it right. You definitely have todo a few drafts of a pay for it's good enough to hand in."
+        },
+        {
+          "segment_id": 5,
+          "start_time": 375.92,
+          "end_time": 400.88,
+          "text": "All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years Saying about what all of you did for this guy Your families Your teachers and I are doing everything we can To make sure you have the education You need to answer these questions I'm working hard to fix up your classrooms And get you the books and the acquitters you need But you've got to do your part So I expect all of you to get serious this year I expect you to put your best out And everything you do",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "discoveries",
+            "president",
+            "problems",
+            "teachers",
+            "education"
+          ],
+          "summary": "All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years Saying about what all of you did for this guy Your families Your"
+        },
+        {
+          "segment_id": 6,
+          "start_time": 400.88,
+          "end_time": 408.32,
+          "text": "I expect great things from each of you Don't let us down I'll let your family down Or your country down Most of all don't let yourself Megazole proud",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "proud",
+            "expect",
+            "megazole",
+            "family",
+            "let"
+          ],
+          "summary": "I expect great things from each of you Don't let us"
+        }
+      ]
+    },
+    {
+      "block_size": 8,
+      "k_value": 1.0,
+      "number_of_segments": 4,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 168.8,
+          "text": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school She thought it was important for me to keep up with American education So she decided to teach me extra lessons or so on day through Friday because she had to go to work You know, in time she could do it was at 4.30 and more whenever I complain my mother would just give me one of those looks and She'd say this is no picnic for me either buster I know that some of you are still just to being back at school But I'm here today because I've something important to discuss my father left my family when I was two years old I was raised by a single mom who had to work struggled at times to pay the bills and wasn't always able to give us things that other kids There were times when I missed having a father in my life There were times when I was lonely and I felt like I didn't fit I wasn't always as focused as I should have fit on school I did some things that I'm not proud of and I got more trouble than I should My life would have easily taken turn for the world I was, I got a lot of second chances and I had the opportunity to go to college I lost all of my dream. My wife, our first lady, Michelle Obama, she has a similar story Either of her parents had gone to college. They didn't have a lot of them But they worked hard and she worked hard so that she could go to the best schools in the school Some of you might not have those advantages. Maybe you don't have adults in your life Give you the support that maybe someone in your family has lost their job and there's not enough money to go If you live in a neighborhood where you don't feel safe Have friends, we're pressuring you to do things, no aren't right Maybe you could be a great writer, maybe even good enough to write about articles in a newspaper But you might not know until you write that English, that English class paper that's assigned to Maybe you could be an innovator or an inventor, maybe even good enough to come up with the next iPhone or the new medicine or vaccine But you might not know it until you do your project for your science class Maybe you could be a mayor or a senator or a Supreme Court just But you might not know that until you join student government or the debate No matter what you want to do with your life I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer You want to be a nurse or an architect, lawyer or a member of our military You're going to need a good education for every single one of those careers You cannot drop out of school and just drop into a good job You've got to train for, work for, learn for This isn't just important for your own life and your own life You make of your education will decide nothing less than the future of this country The future of America depends on you But you're learning in school today will determine whether we as a nation can meet our greatest challenges And if you'll need the knowledge and problem solving skills You learn in science and math, your diseases like cancer and AIDS And to develop new energy technologies and protect our environment You'll need the insights and critical thinking skills you gain in history and social studies Like poverty and homelessness, crime and discrimination And make our nation more fair and more You'll need the creativity and ingenuity you develop in all your classes to build new comfort You'll create new jobs and boost our economy You need every single one of you to develop your talents and your skills and your intellect You can solve us all folks are most difficult problems If you don't do that, if you quit on school",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "mother",
+            "parents",
+            "mom",
+            "family",
+            "father"
+          ],
+          "summary": "Obama: \"I got a lot of second chances and I had the opportunity to go to college I lost all of my dream\" Obama: \"You're learning in school today will determine whether we as a nation can meet our greatest challenges\" \"You cannot drop out of school and just drop into a good job You've got to train for, work for, learn for\" \"The future of America depends on you\" \"I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer\" \"If you don't do that, if you quit on school, you won't be able to solve our most difficult problems\" \"We need every single one of you to develop your talents and your skills and your intellect\" \"This is no picnic for me either buster\""
+        },
+        {
+          "segment_id": 2,
+          "start_time": 168.8,
+          "end_time": 375.92,
+          "text": "You're not just quitting on yourself, you're quitting on your cut I know it's not always easy to do well And so a lot of you have challenges in your lives right now You can make it hard to focus on your school I get it, I know what it's like But at the end of the day, circumstances of your life What you look like, where you come from, how much money you have, you've got going on at home None of that is an excuse for neglecting your homework or having a bad attitude in school That's no excuse for talking back to your teacher or cutting class or dropping out of school There is no excuse for not trying You are right now, it doesn't have to determine where you'll end up No one's written your destiny, because here in America, you write your own destiny You make your own future That's what young people like you are doing every day all across America That's why today I'm calling on each of you to set your own goals for your education Everything you can to meet your goal can be as something as simple as Doing all your homework, paying attention in class Or spending time each day reading a book Maybe you'll decide to get involved in an extracurricular activity Or volunteer in your community Maybe you'll decide to stand up for kids who are being teased Or both because of who they are Because you believe like I did all young people deserve a safe environment to study Maybe you'll decide to take better care of yourself so you can be more ready to But whatever you resolve to do, I want you to commit to, I want you to really work at Although sometimes you get that sense from TV that you be rich and successful without any hard work Your ticket to success is through wrapping or basketball Being a reality TV star Chances are you're not going to be any of those Truth is being successful is hard You won't love every subject that you stuck You won't click with every teacher that you had Not every homework assign will seem completely relevant to your life At this minute, and you won't necessarily succeed at every first time you try That's okay Some of the most successful people in the world are the ones who had the most failed J.K. Rollins, who wrote Harry Potter Her first Harry Potter book was rejected 12 times before it was finally published Michael Jordan was cut from his high school basketball He lost hundreds of games and missed thousands of shots during his career But he once said, I have failed over and over and over again in my life And that's why I succeed These people succeeded because they understood That you can't let your failures define you You have to let your failures teach you You have to let them show you what to do differently the next time If you get into trouble, it doesn't mean you're a troublemaker It means you need to try harder You get a bad grade that doesn't mean you're stupid It just means you need to spend more time studying No one's born being good at all things You become good at things through hard work Out of our city athlete, the first time you play a new sport Don't hit every note the first time you sing a song You've got to practice the same principle applies to your school You might have to do a math problem a few times before you get it right You might have to read something a few times before you understand You definitely have to do a few drafts of a pay for it's good enough to hand in Don't be afraid to ask for help when you need it I do that every day That's for help isn't a sign of weakness It's a sign of strength As it shows you have the courage to admit when you don't know something That then allows you to learn something new Find an adult that you trust The grandparent or a coach or a counselor Ask them to help you stay on track to meet your goal Even when you're struck when you're discouraged Feel like other people have given up on you Have up on yourself When you give up on yourself Give up on your cut Story of America isn't about people who quit when things got tough People who kept going and tried harder Who loved their country too much Anything less than their best Story of students who sat where you sit 250 years ago Went on to wage a revolution And they founded this young students who sat Where you sit 75 years ago Who overcame a depression One-of-world war for civil rights And put a man on the students who sat Where you sit 20 years ago Found a Google and Twitter and Facebook And change the way we communicate with each other So today I want to ask",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "quitting",
+            "quit",
+            "cutting",
+            "succeed",
+            "depression"
+          ],
+          "summary": "You're not just quitting on yourself, you're quitting on your cut. No one's written your destiny, because here in America, you write your own destiny. Do all your homework, pay attention in class or spend time each day reading a book. Find an adult that you trust The grandparent or a coach or a counselor Ask them to help you stay on track to meet your goal. Don't be afraid to ask for help when you need it I do that every day. Story of America isn't about people who quit when things got tough. People who kept going and tried harder Who loved their country too much. Anything less than their best is not their best. You can't let your failures define you. You have to let them show you what to do differently the next time. You get a bad grade that doesn't mean you're stupid. It just means you need to spend more time studying. You won't necessarily succeed at every first time you try That's okay."
+        },
+        {
+          "segment_id": 3,
+          "start_time": 375.92,
+          "end_time": 400.88,
+          "text": "All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years Saying about what all of you did for this guy Your families Your teachers and I are doing everything we can To make sure you have the education You need to answer these questions I'm working hard to fix up your classrooms And get you the books and the acquitters you need But you've got to do your part So I expect all of you to get serious this year I expect you to put your best out And everything you do",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "discoveries",
+            "president",
+            "problems",
+            "teachers",
+            "education"
+          ],
+          "summary": "All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years Saying about what all of you did for this guy Your families Your"
+        },
+        {
+          "segment_id": 4,
+          "start_time": 400.88,
+          "end_time": 408.32,
+          "text": "I expect great things from each of you Don't let us down I'll let your family down Or your country down Most of all don't let yourself Megazole proud",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "proud",
+            "expect",
+            "megazole",
+            "family",
+            "let"
+          ],
+          "summary": "I expect great things from each of you Don't let us"
+        }
+      ]
+    },
+    {
+      "block_size": 8,
+      "k_value": 1.2,
+      "number_of_segments": 2,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 168.8,
+          "text": "When I was young high family lived overseas. I lived in Indonesia for a few and my mother She didn't have the money to send me where all the American kids went to school She thought it was important for me to keep up with American education So she decided to teach me extra lessons or so on day through Friday because she had to go to work You know, in time she could do it was at 4.30 and more whenever I complain my mother would just give me one of those looks and She'd say this is no picnic for me either buster I know that some of you are still just to being back at school But I'm here today because I've something important to discuss my father left my family when I was two years old I was raised by a single mom who had to work struggled at times to pay the bills and wasn't always able to give us things that other kids There were times when I missed having a father in my life There were times when I was lonely and I felt like I didn't fit I wasn't always as focused as I should have fit on school I did some things that I'm not proud of and I got more trouble than I should My life would have easily taken turn for the world I was, I got a lot of second chances and I had the opportunity to go to college I lost all of my dream. My wife, our first lady, Michelle Obama, she has a similar story Either of her parents had gone to college. They didn't have a lot of them But they worked hard and she worked hard so that she could go to the best schools in the school Some of you might not have those advantages. Maybe you don't have adults in your life Give you the support that maybe someone in your family has lost their job and there's not enough money to go If you live in a neighborhood where you don't feel safe Have friends, we're pressuring you to do things, no aren't right Maybe you could be a great writer, maybe even good enough to write about articles in a newspaper But you might not know until you write that English, that English class paper that's assigned to Maybe you could be an innovator or an inventor, maybe even good enough to come up with the next iPhone or the new medicine or vaccine But you might not know it until you do your project for your science class Maybe you could be a mayor or a senator or a Supreme Court just But you might not know that until you join student government or the debate No matter what you want to do with your life I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer You want to be a nurse or an architect, lawyer or a member of our military You're going to need a good education for every single one of those careers You cannot drop out of school and just drop into a good job You've got to train for, work for, learn for This isn't just important for your own life and your own life You make of your education will decide nothing less than the future of this country The future of America depends on you But you're learning in school today will determine whether we as a nation can meet our greatest challenges And if you'll need the knowledge and problem solving skills You learn in science and math, your diseases like cancer and AIDS And to develop new energy technologies and protect our environment You'll need the insights and critical thinking skills you gain in history and social studies Like poverty and homelessness, crime and discrimination And make our nation more fair and more You'll need the creativity and ingenuity you develop in all your classes to build new comfort You'll create new jobs and boost our economy You need every single one of you to develop your talents and your skills and your intellect You can solve us all folks are most difficult problems If you don't do that, if you quit on school",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "mother",
+            "parents",
+            "mom",
+            "family",
+            "father"
+          ],
+          "summary": "Obama: \"I got a lot of second chances and I had the opportunity to go to college I lost all of my dream\" Obama: \"You're learning in school today will determine whether we as a nation can meet our greatest challenges\" \"You cannot drop out of school and just drop into a good job You've got to train for, work for, learn for\" \"The future of America depends on you\" \"I guarantee that you'll need an education that you want to be a doctor or a teacher or a police officer\" \"If you don't do that, if you quit on school, you won't be able to solve our most difficult problems\" \"We need every single one of you to develop your talents and your skills and your intellect\" \"This is no picnic for me either buster\""
+        },
+        {
+          "segment_id": 2,
+          "start_time": 168.8,
+          "end_time": 408.32,
+          "text": "You're not just quitting on yourself, you're quitting on your cut I know it's not always easy to do well And so a lot of you have challenges in your lives right now You can make it hard to focus on your school I get it, I know what it's like But at the end of the day, circumstances of your life What you look like, where you come from, how much money you have, you've got going on at home None of that is an excuse for neglecting your homework or having a bad attitude in school That's no excuse for talking back to your teacher or cutting class or dropping out of school There is no excuse for not trying You are right now, it doesn't have to determine where you'll end up No one's written your destiny, because here in America, you write your own destiny You make your own future That's what young people like you are doing every day all across America That's why today I'm calling on each of you to set your own goals for your education Everything you can to meet your goal can be as something as simple as Doing all your homework, paying attention in class Or spending time each day reading a book Maybe you'll decide to get involved in an extracurricular activity Or volunteer in your community Maybe you'll decide to stand up for kids who are being teased Or both because of who they are Because you believe like I did all young people deserve a safe environment to study Maybe you'll decide to take better care of yourself so you can be more ready to But whatever you resolve to do, I want you to commit to, I want you to really work at Although sometimes you get that sense from TV that you be rich and successful without any hard work Your ticket to success is through wrapping or basketball Being a reality TV star Chances are you're not going to be any of those Truth is being successful is hard You won't love every subject that you stuck You won't click with every teacher that you had Not every homework assign will seem completely relevant to your life At this minute, and you won't necessarily succeed at every first time you try That's okay Some of the most successful people in the world are the ones who had the most failed J.K. Rollins, who wrote Harry Potter Her first Harry Potter book was rejected 12 times before it was finally published Michael Jordan was cut from his high school basketball He lost hundreds of games and missed thousands of shots during his career But he once said, I have failed over and over and over again in my life And that's why I succeed These people succeeded because they understood That you can't let your failures define you You have to let your failures teach you You have to let them show you what to do differently the next time If you get into trouble, it doesn't mean you're a troublemaker It means you need to try harder You get a bad grade that doesn't mean you're stupid It just means you need to spend more time studying No one's born being good at all things You become good at things through hard work Out of our city athlete, the first time you play a new sport Don't hit every note the first time you sing a song You've got to practice the same principle applies to your school You might have to do a math problem a few times before you get it right You might have to read something a few times before you understand You definitely have to do a few drafts of a pay for it's good enough to hand in Don't be afraid to ask for help when you need it I do that every day That's for help isn't a sign of weakness It's a sign of strength As it shows you have the courage to admit when you don't know something That then allows you to learn something new Find an adult that you trust The grandparent or a coach or a counselor Ask them to help you stay on track to meet your goal Even when you're struck when you're discouraged Feel like other people have given up on you Have up on yourself When you give up on yourself Give up on your cut Story of America isn't about people who quit when things got tough People who kept going and tried harder Who loved their country too much Anything less than their best Story of students who sat where you sit 250 years ago Went on to wage a revolution And they founded this young students who sat Where you sit 75 years ago Who overcame a depression One-of-world war for civil rights And put a man on the students who sat Where you sit 20 years ago Found a Google and Twitter and Facebook And change the way we communicate with each other So today I want to ask All that's your contribution What problems are you going to solve Discoveries Well you make what will the president He comes here in 20 or 50 or 100 years Saying about what all of you did for this guy Your families Your teachers and I are doing everything we can To make sure you have the education You need to answer these questions I'm working hard to fix up your classrooms And get you the books and the acquitters you need But you've got to do your part So I expect all of you to get serious this year I expect you to put your best out And everything you do I expect great things from each of you Don't let us down I'll let your family down Or your country down Most of all don't let yourself Megazole proud",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "quitting",
+            "quit",
+            "cutting",
+            "succeed",
+            "depression"
+          ],
+          "summary": "You're not just quitting on yourself, you're quitting on your cut. No one's written your destiny, because here in America, you write your own destiny. Do all your homework, pay attention in class Or spend time each day reading a book. Find an adult that you trust The grandparent or a coach or a counselor. Ask them to help you stay on track to meet your goal. Don't be afraid to ask for help when you need it I do that every day. I want you to commit to, I wantYou to really work at. You won't necessarily succeed at every first time you try That's okay Some of the most successful people in the world are the ones who had the most failed J.K. Rollins, who wrote Harry Potter Her first Harry Potter book was rejected 12 times before it was finally published. Michael Jordan was cut from his high school basketball He lost hundreds of games and missed thousands of shots during his career But he once said, I have failed over and over andover and over again in my life And that's why I succeed."
+        }
+      ]
+    }
+  ]
+}

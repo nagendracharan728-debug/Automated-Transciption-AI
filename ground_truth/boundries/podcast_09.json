@@ -1,0 +1,16 @@
+{
+  "episode_id": "podcast_09",
+  "segments": [
+    {"segment_id": 1, "start_time": 0.0, "end_time": 48.32, "text": "...", "embedding_model": "MiniLM-L6-v2"},
+    {"segment_id": 2, "start_time": 48.32, "end_time": 95.20, "text": "...", "embedding_model": "MiniLM-L6-v2"},
+    {"segment_id": 3, "start_time": 95.20, "end_time": 142.08, "text": "...", "embedding_model": "MiniLM-L6-v2"},
+    {"segment_id": 4, "start_time": 142.08, "end_time": 210.56, "text": "...", "embedding_model": "MiniLM-L6-v2"},
+    {"segment_id": 5, "start_time": 210.56, "end_time": 276.48, "text": "...", "embedding_model": "MiniLM-L6-v2"},
+    {"segment_id": 6, "start_time": 276.48, "end_time": 340.80, "text": "...", "embedding_model": "MiniLM-L6-v2"},
+    {"segment_id": 7, "start_time": 340.80, "end_time": 415.04, "text": "...", "embedding_model": "MiniLM-L6-v2"},
+    {"segment_id": 8, "start_time": 415.04, "end_time": 492.96, "text": "...", "embedding_model": "MiniLM-L6-v2"},
+    {"segment_id": 9, "start_time": 492.96, "end_time": 575.20, "text": "...", "embedding_model": "MiniLM-L6-v2"},
+    {"segment_id": 10, "start_time": 575.20, "end_time": 662.40, "text": "...", "embedding_model": "MiniLM-L6-v2"},
+    {"segment_id": 11, "start_time": 662.40, "end_time": 748.80, "text": "...", "embedding_model": "MiniLM-L6-v2"}
+  ]
+}

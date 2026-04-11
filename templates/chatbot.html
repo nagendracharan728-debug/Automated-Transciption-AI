@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div style="margin:80px auto; max-width:800px; text-align:center;">
+    <h1 class="dashboard-title">AI Podcast Chatbot</h1>
+    <p style="margin-bottom:30px; color:#a0a0a0;">Ask questions about the AI Podcast Analyzer project</p>
+
+    <div id="chat-container" style="background:rgba(0,0,0,0.3); padding:20px; border-radius:12px; height:500px; overflow-y:auto; box-shadow:0 0 15px #6366f1; margin-bottom:20px;"></div>
+
+    <input type="text" id="chat-input" placeholder="Type your question..." 
+        style="padding:15px; width:70%; border-radius:8px; border:none; outline:none; background:rgba(255,255,255,0.05); color:white;">
+    <button onclick="sendChat()" 
+        style="padding:15px 25px; background:#6366f1; border:none; border-radius:8px; color:white; cursor:pointer; box-shadow:0 0 20px #06b6d4;">Send</button>
+</div>
+
+<script>
+function sendChat(){
+    const input = document.getElementById("chat-input");
+    const question = input.value.trim();
+    if(!question) return;
+
+    const chatBox = document.getElementById("chat-container");
+    chatBox.innerHTML += `<div style="color:#fff; margin-bottom:10px;">You: ${question}</div>`;
+    input.value="";
+
+    fetch("/ask_project_ai", {
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body: JSON.stringify({question: question})
+    })
+    .then(res => res.json())
+    .then(data => {
+        chatBox.innerHTML += `<div style="color:#06b6d4; margin-bottom:15px;">AI: ${data.answer}</div>`;
+        chatBox.scrollTop = chatBox.scrollHeight;
+    })
+    .catch(err => {
+        chatBox.innerHTML += `<div style="color:red;">Error: ${err}</div>`;
+    });
+}
+</script>
+{% endblock %}

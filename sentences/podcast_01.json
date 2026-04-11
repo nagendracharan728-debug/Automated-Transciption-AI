@@ -1,0 +1,4860 @@
+{
+  "episode_id": "podcast_01",
+  "duration": 1637.471,
+  "sentences": [
+    {
+      "sentence_id": 1,
+      "start_time": 0.0,
+      "end_time": 5.48,
+      "text": "Hello and welcome to another episode of the Fluency Fur podcast."
+    },
+    {
+      "sentence_id": 2,
+      "start_time": 5.68,
+      "end_time": 8.28,
+      "text": "I'm here with a very special guest."
+    },
+    {
+      "sentence_id": 3,
+      "start_time": 8.28,
+      "end_time": 10.92,
+      "text": "Hi, Carol, who is a family friend."
+    },
+    {
+      "sentence_id": 4,
+      "start_time": 10.92,
+      "end_time": 11.44,
+      "text": "Hi, Carol."
+    },
+    {
+      "sentence_id": 5,
+      "start_time": 11.44,
+      "end_time": 12.56,
+      "text": "Hi, hi."
+    },
+    {
+      "sentence_id": 6,
+      "start_time": 12.68,
+      "end_time": 16.68,
+      "text": "So at the start of every episode, we start small talk."
+    },
+    {
+      "sentence_id": 7,
+      "start_time": 16.88,
+      "end_time": 20.4,
+      "text": "So, Carol, firstly, thank you so much for doing this."
+    },
+    {
+      "sentence_id": 8,
+      "start_time": 20.48,
+      "end_time": 21.32,
+      "text": "It's a pleasure."
+    },
+    {
+      "sentence_id": 9,
+      "start_time": 21.56,
+      "end_time": 26.4,
+      "text": "I know you are a very busy person, but I'm so grateful that we can schedule this."
+    },
+    {
+      "sentence_id": 10,
+      "start_time": 26.4,
+      "end_time": 26.8,
+      "text": "Me too."
+    },
+    {
+      "sentence_id": 11,
+      "start_time": 26.8,
+      "end_time": 27.6,
+      "text": "I'm excited."
+    },
+    {
+      "sentence_id": 12,
+      "start_time": 27.6,
+      "end_time": 29.0,
+      "text": "I'm looking forward to it."
+    },
+    {
+      "sentence_id": 13,
+      "start_time": 29.84,
+      "end_time": 30.32,
+      "text": "So how are you?"
+    },
+    {
+      "sentence_id": 14,
+      "start_time": 30.32,
+      "end_time": 30.8,
+      "text": "I'm good."
+    },
+    {
+      "sentence_id": 15,
+      "start_time": 30.8,
+      "end_time": 31.36,
+      "text": "Thank you."
+    },
+    {
+      "sentence_id": 16,
+      "start_time": 31.44,
+      "end_time": 35.08,
+      "text": "I've been away for a few days in Worcestershire in the Malvern and I"
+    },
+    {
+      "sentence_id": 17,
+      "start_time": 35.08,
+      "end_time": 39.24,
+      "text": "spent some time with a friend and I went to Stratford-on-Avon Shakespeare's"
+    },
+    {
+      "sentence_id": 18,
+      "start_time": 39.24,
+      "end_time": 43.96,
+      "text": "birthplace to see not a Shakespeare play, but a modern play, which is funny."
+    },
+    {
+      "sentence_id": 19,
+      "start_time": 44.24,
+      "end_time": 44.6,
+      "text": "Very good."
+    },
+    {
+      "sentence_id": 20,
+      "start_time": 44.6,
+      "end_time": 45.4,
+      "text": "Sounds interesting."
+    },
+    {
+      "sentence_id": 21,
+      "start_time": 45.56,
+      "end_time": 47.76,
+      "text": "And recently you went on holiday."
+    },
+    {
+      "sentence_id": 22,
+      "start_time": 47.76,
+      "end_time": 48.2,
+      "text": "I did."
+    },
+    {
+      "sentence_id": 23,
+      "start_time": 48.2,
+      "end_time": 48.88,
+      "text": "Where did you go?"
+    },
+    {
+      "sentence_id": 24,
+      "start_time": 49.12,
+      "end_time": 52.6,
+      "text": "I went to Slovenia first time, which was really interesting."
+    },
+    {
+      "sentence_id": 25,
+      "start_time": 52.6,
+      "end_time": 56.2,
+      "text": "It's a tiny country in terms of comparing it with Britain, about the"
+    },
+    {
+      "sentence_id": 26,
+      "start_time": 56.24,
+      "end_time": 56.96,
+      "text": "size of Wales."
+    },
+    {
+      "sentence_id": 27,
+      "start_time": 56.96,
+      "end_time": 59.88,
+      "text": "It's only about 200 miles at the greatest length."
+    },
+    {
+      "sentence_id": 28,
+      "start_time": 59.88,
+      "end_time": 61.48,
+      "text": "I didn't know it was that small."
+    },
+    {
+      "sentence_id": 29,
+      "start_time": 61.48,
+      "end_time": 64.52,
+      "text": "New Jersey, comparing it with New Jersey is another date, I guess."
+    },
+    {
+      "sentence_id": 30,
+      "start_time": 64.52,
+      "end_time": 65.12,
+      "text": "Right, right."
+    },
+    {
+      "sentence_id": 31,
+      "start_time": 65.12,
+      "end_time": 69.56,
+      "text": "And it's very wooded, mountainous, green, green in two ways."
+    },
+    {
+      "sentence_id": 32,
+      "start_time": 69.56,
+      "end_time": 72.76,
+      "text": "So it's green because there are loads of pine tree, countryside, but"
+    },
+    {
+      "sentence_id": 33,
+      "start_time": 72.76,
+      "end_time": 74.6,
+      "text": "also environmentally conscious."
+    },
+    {
+      "sentence_id": 34,
+      "start_time": 74.6,
+      "end_time": 77.12,
+      "text": "So the capital, Lublyana, there's no lid."
+    },
+    {
+      "sentence_id": 35,
+      "start_time": 77.12,
+      "end_time": 77.92,
+      "text": "Sounds amazing."
+    },
+    {
+      "sentence_id": 36,
+      "start_time": 77.92,
+      "end_time": 79.12,
+      "text": "It is really beautiful."
+    },
+    {
+      "sentence_id": 37,
+      "start_time": 79.12,
+      "end_time": 80.08,
+      "text": "And what was the food like?"
+    },
+    {
+      "sentence_id": 38,
+      "start_time": 80.08,
+      "end_time": 82.36,
+      "text": "It was very cosmopolitan, actually."
+    },
+    {
+      "sentence_id": 39,
+      "start_time": 82.48,
+      "end_time": 85.6,
+      "text": "I think, I think traditionally I probably wouldn't have loved it."
+    },
+    {
+      "sentence_id": 40,
+      "start_time": 85.6,
+      "end_time": 88.28,
+      "text": "Quite heavy, manic food, and I don't eat meat."
+    },
+    {
+      "sentence_id": 41,
+      "start_time": 88.28,
+      "end_time": 91.32,
+      "text": "So, but because there's a lot of international influence, there's a lot"
+    },
+    {
+      "sentence_id": 42,
+      "start_time": 91.32,
+      "end_time": 94.96,
+      "text": "of good continental style cooks there in the capital."
+    },
+    {
+      "sentence_id": 43,
+      "start_time": 94.96,
+      "end_time": 98.96,
+      "text": "So now it's time for the next topic, which is family action, because"
+    },
+    {
+      "sentence_id": 44,
+      "start_time": 99.0,
+      "end_time": 101.16,
+      "text": "Carol, you are a family friend, right?"
+    },
+    {
+      "sentence_id": 45,
+      "start_time": 101.16,
+      "end_time": 103.48,
+      "text": "I know you through my parents."
+    },
+    {
+      "sentence_id": 46,
+      "start_time": 103.56,
+      "end_time": 107.56,
+      "text": "So do you remember the early days of getting to know our family?"
+    },
+    {
+      "sentence_id": 47,
+      "start_time": 107.64,
+      "end_time": 108.2,
+      "text": "I do, yes."
+    },
+    {
+      "sentence_id": 48,
+      "start_time": 108.24,
+      "end_time": 111.24,
+      "text": "I remember coming to one of Rachel's, it could have been her"
+    },
+    {
+      "sentence_id": 49,
+      "start_time": 111.28,
+      "end_time": 115.8,
+      "text": "first birthday party, or certainly under three in the back garden"
+    },
+    {
+      "sentence_id": 50,
+      "start_time": 115.8,
+      "end_time": 118.64,
+      "text": "of Conallan Avenue with your wider family there."
+    },
+    {
+      "sentence_id": 51,
+      "start_time": 118.64,
+      "end_time": 122.52,
+      "text": "So I remember Wendy's sister there and all the kids playing in the garden"
+    },
+    {
+      "sentence_id": 52,
+      "start_time": 122.52,
+      "end_time": 125.52,
+      "text": "and Wendy's effortless hospitality."
+    },
+    {
+      "sentence_id": 53,
+      "start_time": 125.52,
+      "end_time": 127.8,
+      "text": "My mum always used to say, Wendy's amazing, isn't she?"
+    },
+    {
+      "sentence_id": 54,
+      "start_time": 127.8,
+      "end_time": 129.28,
+      "text": "So relaxed, so relaxed."
+    },
+    {
+      "sentence_id": 55,
+      "start_time": 129.28,
+      "end_time": 132.48,
+      "text": "So my mum got to know your family through coming up here"
+    },
+    {
+      "sentence_id": 56,
+      "start_time": 132.48,
+      "end_time": 134.2,
+      "text": "at Christmas and spending the evening."
+    },
+    {
+      "sentence_id": 57,
+      "start_time": 134.2,
+      "end_time": 136.44,
+      "text": "So, yes, how did I get to know you?"
+    },
+    {
+      "sentence_id": 58,
+      "start_time": 136.44,
+      "end_time": 139.76,
+      "text": "So I got to know Ian Moore because we ran quite a lot of training."
+    },
+    {
+      "sentence_id": 59,
+      "start_time": 139.76,
+      "end_time": 141.84,
+      "text": "And then he offered me some work."
+    },
+    {
+      "sentence_id": 60,
+      "start_time": 141.84,
+      "end_time": 144.6,
+      "text": "When I wanted to leave my day, he offered me six weeks work."
+    },
+    {
+      "sentence_id": 61,
+      "start_time": 144.6,
+      "end_time": 146.48,
+      "text": "And that was my jumping off point."
+    },
+    {
+      "sentence_id": 62,
+      "start_time": 146.48,
+      "end_time": 148.36,
+      "text": "I decided, right, I'm going to go."
+    },
+    {
+      "sentence_id": 63,
+      "start_time": 148.36,
+      "end_time": 148.72,
+      "text": "Wow."
+    },
+    {
+      "sentence_id": 64,
+      "start_time": 148.72,
+      "end_time": 151.92,
+      "text": "And so then I did some work for him and we worked together on there."
+    },
+    {
+      "sentence_id": 65,
+      "start_time": 151.92,
+      "end_time": 154.64,
+      "text": "And with Wendy, I got to know she came to the women's group."
+    },
+    {
+      "sentence_id": 66,
+      "start_time": 154.88,
+      "end_time": 157.72,
+      "text": "I can't remember how often we met, but let's say once a month"
+    },
+    {
+      "sentence_id": 67,
+      "start_time": 157.72,
+      "end_time": 162.32,
+      "text": "we talked about deep personal stuff and we shared all our ups and downs."
+    },
+    {
+      "sentence_id": 68,
+      "start_time": 162.32,
+      "end_time": 164.56,
+      "text": "We shared our inner lives with each other."
+    },
+    {
+      "sentence_id": 69,
+      "start_time": 164.56,
+      "end_time": 167.68,
+      "text": "And Trish, who you also know, and I were running that group."
+    },
+    {
+      "sentence_id": 70,
+      "start_time": 167.68,
+      "end_time": 171.12,
+      "text": "And we used a book that was written by some experts,"
+    },
+    {
+      "sentence_id": 71,
+      "start_time": 171.12,
+      "end_time": 174.72,
+      "text": "women's developers and so we asked searching questions of each other."
+    },
+    {
+      "sentence_id": 72,
+      "start_time": 174.72,
+      "end_time": 178.24,
+      "text": "Yeah, I mean, just so everyone knows, we went on a lot of family,"
+    },
+    {
+      "sentence_id": 73,
+      "start_time": 178.24,
+      "end_time": 182.76,
+      "text": "joint family holidays and I have a lot of fond memories in France with you."
+    },
+    {
+      "sentence_id": 74,
+      "start_time": 182.76,
+      "end_time": 186.52,
+      "text": "You also liked French and obviously at Christmas time,"
+    },
+    {
+      "sentence_id": 75,
+      "start_time": 186.52,
+      "end_time": 189.04,
+      "text": "we'd have parties here and at our house."
+    },
+    {
+      "sentence_id": 76,
+      "start_time": 189.04,
+      "end_time": 190.56,
+      "text": "So, yeah, I also have a great time."
+    },
+    {
+      "sentence_id": 77,
+      "start_time": 190.56,
+      "end_time": 193.24,
+      "text": "Yeah, I mean, the holidays were incredible"
+    },
+    {
+      "sentence_id": 78,
+      "start_time": 193.24,
+      "end_time": 196.8,
+      "text": "because we've spent quite a lot of holidays either in Brittany in France"
+    },
+    {
+      "sentence_id": 79,
+      "start_time": 196.8,
+      "end_time": 201.24,
+      "text": "or on the Ile de Ré, that very gorgeous island cycling room."
+    },
+    {
+      "sentence_id": 80,
+      "start_time": 201.24,
+      "end_time": 204.56,
+      "text": "And Harry, my son, used to love talking to David,"
+    },
+    {
+      "sentence_id": 81,
+      "start_time": 204.56,
+      "end_time": 206.2,
+      "text": "seeing him play the guitar."
+    },
+    {
+      "sentence_id": 82,
+      "start_time": 206.2,
+      "end_time": 208.76,
+      "text": "I think it was a bit of a looked up to you in the early days,"
+    },
+    {
+      "sentence_id": 83,
+      "start_time": 208.76,
+      "end_time": 211.28,
+      "text": "I think, you know, when he was younger and you were older."
+    },
+    {
+      "sentence_id": 84,
+      "start_time": 211.28,
+      "end_time": 216.4,
+      "text": "And those holidays were such fun and they were also a lifeline for me"
+    },
+    {
+      "sentence_id": 85,
+      "start_time": 216.4,
+      "end_time": 219.92,
+      "text": "because they were a way of me having a holiday as a woman"
+    },
+    {
+      "sentence_id": 86,
+      "start_time": 219.92,
+      "end_time": 221.52,
+      "text": "who later became divorced."
+    },
+    {
+      "sentence_id": 87,
+      "start_time": 221.52,
+      "end_time": 226.0,
+      "text": "So when my marriage changed, I came on holiday with your family and my child."
+    },
+    {
+      "sentence_id": 88,
+      "start_time": 226.0,
+      "end_time": 230.6,
+      "text": "And we were really, really enveloped in that family environment."
+    },
+    {
+      "sentence_id": 89,
+      "start_time": 230.6,
+      "end_time": 233.32,
+      "text": "And I also got to know your grandma, you know,"
+    },
+    {
+      "sentence_id": 90,
+      "start_time": 233.32,
+      "end_time": 236.88,
+      "text": "and I've loved getting to know them, and my mum loved getting to know them."
+    },
+    {
+      "sentence_id": 91,
+      "start_time": 236.88,
+      "end_time": 239.6,
+      "text": "So we actually were on holiday in France."
+    },
+    {
+      "sentence_id": 92,
+      "start_time": 239.6,
+      "end_time": 241.92,
+      "text": "My mum, your grandparents and all of you,"
+    },
+    {
+      "sentence_id": 93,
+      "start_time": 241.92,
+      "end_time": 245.24,
+      "text": "I've got pictures of her bowling on the beach with Peter Grant."
+    },
+    {
+      "sentence_id": 94,
+      "start_time": 245.24,
+      "end_time": 247.12,
+      "text": "I do remember the holiday house in France."
+    },
+    {
+      "sentence_id": 95,
+      "start_time": 247.12,
+      "end_time": 251.28,
+      "text": "And the other thing I've been interested in is that also as you've grown up,"
+    },
+    {
+      "sentence_id": 96,
+      "start_time": 251.28,
+      "end_time": 253.8,
+      "text": "you know, I've got to know your nearest and dearest"
+    },
+    {
+      "sentence_id": 97,
+      "start_time": 253.8,
+      "end_time": 258.16,
+      "text": "and also helped certainly Emily and Rachel think about their work,"
+    },
+    {
+      "sentence_id": 98,
+      "start_time": 258.16,
+      "end_time": 259.96,
+      "text": "practice interviews and things."
+    },
+    {
+      "sentence_id": 99,
+      "start_time": 259.96,
+      "end_time": 263.4,
+      "text": "I've been very honoured as a family friend to do those things."
+    },
+    {
+      "sentence_id": 100,
+      "start_time": 263.4,
+      "end_time": 268.08,
+      "text": "You've helped all of us and you were also the celebrant at my wedding."
+    },
+    {
+      "sentence_id": 101,
+      "start_time": 268.08,
+      "end_time": 269.16,
+      "text": "How do you describe yourself?"
+    },
+    {
+      "sentence_id": 102,
+      "start_time": 269.16,
+      "end_time": 273.8,
+      "text": "Well, it's the person who takes care of the whole sort of ceremony."
+    },
+    {
+      "sentence_id": 103,
+      "start_time": 273.8,
+      "end_time": 278.8,
+      "text": "Although I'm not a vicar or a priest and I wasn't officially marrying you,"
+    },
+    {
+      "sentence_id": 104,
+      "start_time": 278.8,
+      "end_time": 282.32,
+      "text": "I was seeing to it that it went in the way that you and Jean wanted"
+    },
+    {
+      "sentence_id": 105,
+      "start_time": 282.32,
+      "end_time": 284.68,
+      "text": "and that it included everybody."
+    },
+    {
+      "sentence_id": 106,
+      "start_time": 284.68,
+      "end_time": 287.92,
+      "text": "And yeah, it was the most incredible thing to be asked."
+    },
+    {
+      "sentence_id": 107,
+      "start_time": 287.92,
+      "end_time": 290.68,
+      "text": "I was so honoured to be asked and I loved doing it."
+    },
+    {
+      "sentence_id": 108,
+      "start_time": 290.68,
+      "end_time": 293.04,
+      "text": "I nearly forgot to ask you to say something."
+    },
+    {
+      "sentence_id": 109,
+      "start_time": 293.04,
+      "end_time": 294.08,
+      "text": "What might I do?"
+    },
+    {
+      "sentence_id": 110,
+      "start_time": 294.08,
+      "end_time": 295.12,
+      "text": "Oh, yeah."
+    },
+    {
+      "sentence_id": 111,
+      "start_time": 295.12,
+      "end_time": 296.24,
+      "text": "The main bit."
+    },
+    {
+      "sentence_id": 112,
+      "start_time": 296.24,
+      "end_time": 297.36,
+      "text": "Yeah."
+    },
+    {
+      "sentence_id": 113,
+      "start_time": 297.36,
+      "end_time": 298.34,
+      "text": "It was a magical day, wasn't it?"
+    },
+    {
+      "sentence_id": 114,
+      "start_time": 298.34,
+      "end_time": 299.32,
+      "text": "It was."
+    },
+    {
+      "sentence_id": 115,
+      "start_time": 299.32,
+      "end_time": 300.3,
+      "text": "Very, very special."
+    },
+    {
+      "sentence_id": 116,
+      "start_time": 300.3,
+      "end_time": 301.28,
+      "text": "And I was there."
+    },
+    {
+      "sentence_id": 117,
+      "start_time": 301.28,
+      "end_time": 303.08,
+      "text": "So let's move on to travel."
+    },
+    {
+      "sentence_id": 118,
+      "start_time": 303.08,
+      "end_time": 305.64,
+      "text": "So you've travelled quite extensively, I would say."
+    },
+    {
+      "sentence_id": 119,
+      "start_time": 305.64,
+      "end_time": 308.88,
+      "text": "Is there a place that changed you instantly?"
+    },
+    {
+      "sentence_id": 120,
+      "start_time": 308.88,
+      "end_time": 309.92,
+      "text": "That's a good question."
+    },
+    {
+      "sentence_id": 121,
+      "start_time": 309.92,
+      "end_time": 311.68,
+      "text": "It's interesting because I'm going to talk about somewhere"
+    },
+    {
+      "sentence_id": 122,
+      "start_time": 311.68,
+      "end_time": 315.04,
+      "text": "that isn't that far away and it's Cornwall."
+    },
+    {
+      "sentence_id": 123,
+      "start_time": 315.04,
+      "end_time": 316.0,
+      "text": "Cornwall."
+    },
+    {
+      "sentence_id": 124,
+      "start_time": 316.0,
+      "end_time": 316.96,
+      "text": "Sounding house."
+    },
+    {
+      "sentence_id": 125,
+      "start_time": 316.96,
+      "end_time": 318.56,
+      "text": "Well, I think over time."
+    },
+    {
+      "sentence_id": 126,
+      "start_time": 318.56,
+      "end_time": 321.08,
+      "text": "I went to Cornwall first on my honeymoon husband."
+    },
+    {
+      "sentence_id": 127,
+      "start_time": 321.08,
+      "end_time": 323.8,
+      "text": "I went there because his family had lived there"
+    },
+    {
+      "sentence_id": 128,
+      "start_time": 323.8,
+      "end_time": 327.16,
+      "text": "when my mother-in-law's father was ill."
+    },
+    {
+      "sentence_id": 129,
+      "start_time": 327.16,
+      "end_time": 330.6,
+      "text": "Maybe he could recover better in that climate in the old days."
+    },
+    {
+      "sentence_id": 130,
+      "start_time": 330.6,
+      "end_time": 334.12,
+      "text": "And so there were lots of stories and pictures about Cornwall,"
+    },
+    {
+      "sentence_id": 131,
+      "start_time": 334.12,
+      "end_time": 335.08,
+      "text": "that part of Cornwall."
+    },
+    {
+      "sentence_id": 132,
+      "start_time": 335.08,
+      "end_time": 338.56,
+      "text": "I spent a week there and I fell in love with that part of the country"
+    },
+    {
+      "sentence_id": 133,
+      "start_time": 338.6,
+      "end_time": 342.24,
+      "text": "and I subsequently went back on holidays with Harry and Martin."
+    },
+    {
+      "sentence_id": 134,
+      "start_time": 342.24,
+      "end_time": 344.44,
+      "text": "And then also some really tough things happened."
+    },
+    {
+      "sentence_id": 135,
+      "start_time": 344.44,
+      "end_time": 347.92,
+      "text": "So my marriage ended and I was in Cornwall when it ended."
+    },
+    {
+      "sentence_id": 136,
+      "start_time": 347.92,
+      "end_time": 350.24,
+      "text": "So that really was tough."
+    },
+    {
+      "sentence_id": 137,
+      "start_time": 350.24,
+      "end_time": 352.04,
+      "text": "So going back to Cornwall after that"
+    },
+    {
+      "sentence_id": 138,
+      "start_time": 352.04,
+      "end_time": 354.4,
+      "text": "was really full of many memories that were difficult."
+    },
+    {
+      "sentence_id": 139,
+      "start_time": 354.4,
+      "end_time": 358.76,
+      "text": "And I felt I had to change my relationship to those memories"
+    },
+    {
+      "sentence_id": 140,
+      "start_time": 358.76,
+      "end_time": 362.12,
+      "text": "to be able to keep good memories despite the break in the marriage"
+    },
+    {
+      "sentence_id": 141,
+      "start_time": 362.12,
+      "end_time": 364.44,
+      "text": "and to reclaim Cornwall for myself."
+    },
+    {
+      "sentence_id": 142,
+      "start_time": 364.44,
+      "end_time": 367.2,
+      "text": "And so I went back quite a lot with Harry and with other friends."
+    },
+    {
+      "sentence_id": 143,
+      "start_time": 367.2,
+      "end_time": 371.36,
+      "text": "And I feel it's a place that I relate to in the next part"
+    },
+    {
+      "sentence_id": 144,
+      "start_time": 371.36,
+      "end_time": 373.32,
+      "text": "rather than always looking back to how it was."
+    },
+    {
+      "sentence_id": 145,
+      "start_time": 373.32,
+      "end_time": 375.2,
+      "text": "This picture, I love this picture"
+    },
+    {
+      "sentence_id": 146,
+      "start_time": 375.2,
+      "end_time": 377.96,
+      "text": "because the perspectives are all kind of odd, isn't it?"
+    },
+    {
+      "sentence_id": 147,
+      "start_time": 377.96,
+      "end_time": 381.68,
+      "text": "But it's a picture of St Ives I talked about elsewhere."
+    },
+    {
+      "sentence_id": 148,
+      "start_time": 381.68,
+      "end_time": 385.48,
+      "text": "And it's just a lovely kind of breezy spring day, I think."
+    },
+    {
+      "sentence_id": 149,
+      "start_time": 385.48,
+      "end_time": 387.72,
+      "text": "Looking out at the sea through a window."
+    },
+    {
+      "sentence_id": 150,
+      "start_time": 387.72,
+      "end_time": 388.88,
+      "text": "That's always nice, isn't it?"
+    },
+    {
+      "sentence_id": 151,
+      "start_time": 388.88,
+      "end_time": 389.88,
+      "text": "A shot through a window."
+    },
+    {
+      "sentence_id": 152,
+      "start_time": 389.88,
+      "end_time": 390.68,
+      "text": "I like that."
+    },
+    {
+      "sentence_id": 153,
+      "start_time": 390.68,
+      "end_time": 391.48,
+      "text": "I like that."
+    },
+    {
+      "sentence_id": 154,
+      "start_time": 391.48,
+      "end_time": 392.36,
+      "text": "Little boats on the sea."
+    },
+    {
+      "sentence_id": 155,
+      "start_time": 392.36,
+      "end_time": 394.8,
+      "text": "And it's sort of very naive in way looking."
+    },
+    {
+      "sentence_id": 156,
+      "start_time": 394.8,
+      "end_time": 396.32,
+      "text": "Very sort of odd perspective."
+    },
+    {
+      "sentence_id": 157,
+      "start_time": 396.36,
+      "end_time": 399.04,
+      "text": "Colourful, friendly, cheerful, yeah."
+    },
+    {
+      "sentence_id": 158,
+      "start_time": 399.04,
+      "end_time": 403.52,
+      "text": "And what's one country or moment from your travel that you will never..."
+    },
+    {
+      "sentence_id": 159,
+      "start_time": 403.52,
+      "end_time": 404.96,
+      "text": "You see Europe quite a lot."
+    },
+    {
+      "sentence_id": 160,
+      "start_time": 404.96,
+      "end_time": 408.28,
+      "text": "But memorably, Japan, India and Peru."
+    },
+    {
+      "sentence_id": 161,
+      "start_time": 408.28,
+      "end_time": 409.88,
+      "text": "No longer all trips."
+    },
+    {
+      "sentence_id": 162,
+      "start_time": 409.88,
+      "end_time": 411.24,
+      "text": "What will I never forget?"
+    },
+    {
+      "sentence_id": 163,
+      "start_time": 411.24,
+      "end_time": 413.44,
+      "text": "No, a moment doesn't have to be the moment, does it?"
+    },
+    {
+      "sentence_id": 164,
+      "start_time": 413.44,
+      "end_time": 414.8,
+      "text": "I think being in Japan,"
+    },
+    {
+      "sentence_id": 165,
+      "start_time": 414.8,
+      "end_time": 418.0,
+      "text": "Japan's kind of like top of my list for different places."
+    },
+    {
+      "sentence_id": 166,
+      "start_time": 418.0,
+      "end_time": 421.08,
+      "text": "It's such a mix of ancient and modern."
+    },
+    {
+      "sentence_id": 167,
+      "start_time": 421.08,
+      "end_time": 423.2,
+      "text": "And, you know, you've got..."
+    },
+    {
+      "sentence_id": 168,
+      "start_time": 423.2,
+      "end_time": 425.52,
+      "text": "So I remember, actually, I can remember this."
+    },
+    {
+      "sentence_id": 169,
+      "start_time": 425.56,
+      "end_time": 427.12,
+      "text": "Tell a little story, is that OK?"
+    },
+    {
+      "sentence_id": 170,
+      "start_time": 427.12,
+      "end_time": 430.16,
+      "text": "So, Gene, my friend, dear friend and I that you know,"
+    },
+    {
+      "sentence_id": 171,
+      "start_time": 430.16,
+      "end_time": 432.16,
+      "text": "we were travelling in Japan."
+    },
+    {
+      "sentence_id": 172,
+      "start_time": 432.16,
+      "end_time": 433.48,
+      "text": "And we were in the mountains."
+    },
+    {
+      "sentence_id": 173,
+      "start_time": 433.48,
+      "end_time": 436.08,
+      "text": "And we were booked into this hotel that we were told"
+    },
+    {
+      "sentence_id": 174,
+      "start_time": 436.08,
+      "end_time": 437.64,
+      "text": "the Emperor had stayed in this hotel."
+    },
+    {
+      "sentence_id": 175,
+      "start_time": 437.64,
+      "end_time": 439.44,
+      "text": "And it was a bit shabby these days."
+    },
+    {
+      "sentence_id": 176,
+      "start_time": 439.44,
+      "end_time": 440.52,
+      "text": "It was a bit run down."
+    },
+    {
+      "sentence_id": 177,
+      "start_time": 440.52,
+      "end_time": 442.12,
+      "text": "But the tour company said,"
+    },
+    {
+      "sentence_id": 178,
+      "start_time": 442.12,
+      "end_time": 443.36,
+      "text": "we think you'll really love it."
+    },
+    {
+      "sentence_id": 179,
+      "start_time": 443.36,
+      "end_time": 444.12,
+      "text": "We love it."
+    },
+    {
+      "sentence_id": 180,
+      "start_time": 444.12,
+      "end_time": 444.88,
+      "text": "We think we should go there."
+    },
+    {
+      "sentence_id": 181,
+      "start_time": 444.88,
+      "end_time": 445.56,
+      "text": "So we got there."
+    },
+    {
+      "sentence_id": 182,
+      "start_time": 445.56,
+      "end_time": 446.24,
+      "text": "We were tired."
+    },
+    {
+      "sentence_id": 183,
+      "start_time": 446.24,
+      "end_time": 447.04,
+      "text": "We were emotional."
+    },
+    {
+      "sentence_id": 184,
+      "start_time": 447.04,
+      "end_time": 447.84,
+      "text": "Gene wasn't well."
+    },
+    {
+      "sentence_id": 185,
+      "start_time": 447.84,
+      "end_time": 449.16,
+      "text": "And we walked into this place."
+    },
+    {
+      "sentence_id": 186,
+      "start_time": 449.16,
+      "end_time": 451.32,
+      "text": "And I thought, one, there was..."
+    },
+    {
+      "sentence_id": 187,
+      "start_time": 451.32,
+      "end_time": 453.96,
+      "text": "We were greeted with a big fabulous feast of food,"
+    },
+    {
+      "sentence_id": 188,
+      "start_time": 454.0,
+      "end_time": 456.24,
+      "text": "but we were too tired."
+    },
+    {
+      "sentence_id": 189,
+      "start_time": 456.24,
+      "end_time": 457.88,
+      "text": "And she was not well enough to enjoy."
+    },
+    {
+      "sentence_id": 190,
+      "start_time": 457.88,
+      "end_time": 458.72,
+      "text": "And I remember..."
+    },
+    {
+      "sentence_id": 191,
+      "start_time": 458.72,
+      "end_time": 459.56,
+      "text": "And this is a big mystery."
+    },
+    {
+      "sentence_id": 192,
+      "start_time": 459.56,
+      "end_time": 460.4,
+      "text": "You don't like that."
+    },
+    {
+      "sentence_id": 193,
+      "start_time": 460.4,
+      "end_time": 461.24,
+      "text": "We'll have to move on more quickly."
+    },
+    {
+      "sentence_id": 194,
+      "start_time": 461.24,
+      "end_time": 463.56,
+      "text": "Anyway, the next morning, when she was feeling better"
+    },
+    {
+      "sentence_id": 195,
+      "start_time": 463.56,
+      "end_time": 464.72,
+      "text": "and I was feeling refreshed,"
+    },
+    {
+      "sentence_id": 196,
+      "start_time": 464.72,
+      "end_time": 466.0,
+      "text": "we took a look around this place"
+    },
+    {
+      "sentence_id": 197,
+      "start_time": 466.0,
+      "end_time": 467.96,
+      "text": "and it had one of those onsen baths"
+    },
+    {
+      "sentence_id": 198,
+      "start_time": 467.96,
+      "end_time": 469.12,
+      "text": "where you can relax."
+    },
+    {
+      "sentence_id": 199,
+      "start_time": 469.12,
+      "end_time": 472.12,
+      "text": "And it was the women's turn to have one morning"
+    },
+    {
+      "sentence_id": 200,
+      "start_time": 472.12,
+      "end_time": 472.96,
+      "text": "to the men's bath."
+    },
+    {
+      "sentence_id": 201,
+      "start_time": 472.96,
+      "end_time": 475.84,
+      "text": "And it was set in the most beautiful Japanese garden."
+    },
+    {
+      "sentence_id": 202,
+      "start_time": 475.84,
+      "end_time": 477.44,
+      "text": "So you could sit in these baths,"
+    },
+    {
+      "sentence_id": 203,
+      "start_time": 477.44,
+      "end_time": 480.8,
+      "text": "looking out at these incredibly beautiful Japanese trees"
+    },
+    {
+      "sentence_id": 204,
+      "start_time": 480.8,
+      "end_time": 482.64,
+      "text": "in this sort of beautifully shaped garden,"
+    },
+    {
+      "sentence_id": 205,
+      "start_time": 482.68,
+      "end_time": 484.92,
+      "text": "not far from Mount Fuji."
+    },
+    {
+      "sentence_id": 206,
+      "start_time": 484.92,
+      "end_time": 485.76,
+      "text": "And sit there."
+    },
+    {
+      "sentence_id": 207,
+      "start_time": 485.76,
+      "end_time": 488.24,
+      "text": "And I just thought, what a difference 24 hours makes."
+    },
+    {
+      "sentence_id": 208,
+      "start_time": 488.24,
+      "end_time": 491.0,
+      "text": "Yesterday, I was tired and crab and bad tempered."
+    },
+    {
+      "sentence_id": 209,
+      "start_time": 491.0,
+      "end_time": 493.08,
+      "text": "And today, I said to myself,"
+    },
+    {
+      "sentence_id": 210,
+      "start_time": 493.08,
+      "end_time": 494.44,
+      "text": "go from one extreme to the other."
+    },
+    {
+      "sentence_id": 211,
+      "start_time": 494.44,
+      "end_time": 496.6,
+      "text": "This is a painting by Val Hudson,"
+    },
+    {
+      "sentence_id": 212,
+      "start_time": 496.6,
+      "end_time": 498.12,
+      "text": "who's a dear friend of mine."
+    },
+    {
+      "sentence_id": 213,
+      "start_time": 498.12,
+      "end_time": 501.76,
+      "text": "And kind of, I like the different textures in it."
+    },
+    {
+      "sentence_id": 214,
+      "start_time": 501.76,
+      "end_time": 502.68,
+      "text": "She rubs..."
+    },
+    {
+      "sentence_id": 215,
+      "start_time": 502.68,
+      "end_time": 503.64,
+      "text": "She puts paint on."
+    },
+    {
+      "sentence_id": 216,
+      "start_time": 503.64,
+      "end_time": 504.64,
+      "text": "She rubs wax on."
+    },
+    {
+      "sentence_id": 217,
+      "start_time": 504.64,
+      "end_time": 506.48,
+      "text": "And then she kind of takes some of the wax off"
+    },
+    {
+      "sentence_id": 218,
+      "start_time": 506.48,
+      "end_time": 508.08,
+      "text": "and get these different textures."
+    },
+    {
+      "sentence_id": 219,
+      "start_time": 508.08,
+      "end_time": 509.52,
+      "text": "I just love the kind of..."
+    },
+    {
+      "sentence_id": 220,
+      "start_time": 509.52,
+      "end_time": 511.52,
+      "text": "I think it's called Quiet Conversation."
+    },
+    {
+      "sentence_id": 221,
+      "start_time": 511.92,
+      "end_time": 514.2,
+      "text": "You get that sort of meditative feel."
+    },
+    {
+      "sentence_id": 222,
+      "start_time": 514.2,
+      "end_time": 517.64,
+      "text": "And you get drawn into it by the different colors."
+    },
+    {
+      "sentence_id": 223,
+      "start_time": 518.76,
+      "end_time": 521.12,
+      "text": "Just the depth of color that this involves me in."
+    },
+    {
+      "sentence_id": 224,
+      "start_time": 521.12,
+      "end_time": 522.4,
+      "text": "And in the morning, when I look at it,"
+    },
+    {
+      "sentence_id": 225,
+      "start_time": 522.4,
+      "end_time": 524.08,
+      "text": "I just feel a sense of relaxation."
+    },
+    {
+      "sentence_id": 226,
+      "start_time": 524.08,
+      "end_time": 526.8,
+      "text": "Tell me what it was like growing up in London."
+    },
+    {
+      "sentence_id": 227,
+      "start_time": 526.8,
+      "end_time": 527.92,
+      "text": "You grew up in London, right?"
+    },
+    {
+      "sentence_id": 228,
+      "start_time": 527.92,
+      "end_time": 529.76,
+      "text": "It was amazing growing up in London."
+    },
+    {
+      "sentence_id": 229,
+      "start_time": 529.76,
+      "end_time": 530.6,
+      "text": "Was it?"
+    },
+    {
+      "sentence_id": 230,
+      "start_time": 530.6,
+      "end_time": 531.44,
+      "text": "Yeah."
+    },
+    {
+      "sentence_id": 231,
+      "start_time": 531.44,
+      "end_time": 532.28,
+      "text": "So what did you like about it?"
+    },
+    {
+      "sentence_id": 232,
+      "start_time": 532.28,
+      "end_time": 533.28,
+      "text": "I loved..."
+    },
+    {
+      "sentence_id": 233,
+      "start_time": 533.28,
+      "end_time": 535.12,
+      "text": "I lived in Southeast London,"
+    },
+    {
+      "sentence_id": 234,
+      "start_time": 535.12,
+      "end_time": 538.52,
+      "text": "which is a very big green area called Blacklea."
+    },
+    {
+      "sentence_id": 235,
+      "start_time": 538.52,
+      "end_time": 540.12,
+      "text": "Very ancient heathland."
+    },
+    {
+      "sentence_id": 236,
+      "start_time": 540.28,
+      "end_time": 542.2,
+      "text": "It borders onto Greenwich Park,"
+    },
+    {
+      "sentence_id": 237,
+      "start_time": 542.2,
+      "end_time": 544.88,
+      "text": "which is also a very big space of green."
+    },
+    {
+      "sentence_id": 238,
+      "start_time": 544.88,
+      "end_time": 546.28,
+      "text": "Royal Greenwich Park."
+    },
+    {
+      "sentence_id": 239,
+      "start_time": 546.28,
+      "end_time": 547.3,
+      "text": "And it was a place where Henry A."
+    },
+    {
+      "sentence_id": 240,
+      "start_time": 547.3,
+      "end_time": 548.32,
+      "text": "Wallace,"
+    },
+    {
+      "sentence_id": 241,
+      "start_time": 548.32,
+      "end_time": 549.28,
+      "text": "in times gone by,"
+    },
+    {
+      "sentence_id": 242,
+      "start_time": 549.28,
+      "end_time": 553.2,
+      "text": "there's lots of history on both Blackheath and in Greenwich"
+    },
+    {
+      "sentence_id": 243,
+      "start_time": 553.2,
+      "end_time": 555.72,
+      "text": "and lots of greenery on the edge of London."
+    },
+    {
+      "sentence_id": 244,
+      "start_time": 555.72,
+      "end_time": 556.96,
+      "text": "So it's not cramped."
+    },
+    {
+      "sentence_id": 245,
+      "start_time": 556.96,
+      "end_time": 557.8,
+      "text": "It's not..."
+    },
+    {
+      "sentence_id": 246,
+      "start_time": 557.8,
+      "end_time": 558.64,
+      "text": "It's very spacious."
+    },
+    {
+      "sentence_id": 247,
+      "start_time": 558.64,
+      "end_time": 560.68,
+      "text": "And Blackheath Village, as it's called,"
+    },
+    {
+      "sentence_id": 248,
+      "start_time": 560.68,
+      "end_time": 561.84,
+      "text": "is an old village."
+    },
+    {
+      "sentence_id": 249,
+      "start_time": 561.84,
+      "end_time": 563.36,
+      "text": "And so it's not like..."
+    },
+    {
+      "sentence_id": 250,
+      "start_time": 563.36,
+      "end_time": 565.56,
+      "text": "It doesn't look like a classic old English village"
+    },
+    {
+      "sentence_id": 251,
+      "start_time": 565.56,
+      "end_time": 567.88,
+      "text": "in the country, but it was village-like."
+    },
+    {
+      "sentence_id": 252,
+      "start_time": 567.88,
+      "end_time": 570.0,
+      "text": "In the 1950s when I grew up there,"
+    },
+    {
+      "sentence_id": 253,
+      "start_time": 570.96,
+      "end_time": 575.04,
+      "text": "I lived on what we now call a social housing estate,"
+    },
+    {
+      "sentence_id": 254,
+      "start_time": 575.04,
+      "end_time": 578.0,
+      "text": "which was newly built along with a newly built school"
+    },
+    {
+      "sentence_id": 255,
+      "start_time": 578.0,
+      "end_time": 580.84,
+      "text": "that was very close to the heath to all the greenery."
+    },
+    {
+      "sentence_id": 256,
+      "start_time": 580.84,
+      "end_time": 583.8,
+      "text": "So what kind of commune was that social housing estate?"
+    },
+    {
+      "sentence_id": 257,
+      "start_time": 583.8,
+      "end_time": 585.32,
+      "text": "I would call that working club."
+    },
+    {
+      "sentence_id": 258,
+      "start_time": 585.32,
+      "end_time": 586.6,
+      "text": "And some from a work ground."
+    },
+    {
+      "sentence_id": 259,
+      "start_time": 586.6,
+      "end_time": 590.16,
+      "text": "And before my parents moved into that two-bedroom"
+    },
+    {
+      "sentence_id": 260,
+      "start_time": 590.16,
+      "end_time": 592.2,
+      "text": "apartment, we called it a flam."
+    },
+    {
+      "sentence_id": 261,
+      "start_time": 592.2,
+      "end_time": 594.08,
+      "text": "The housing estate was quite small."
+    },
+    {
+      "sentence_id": 262,
+      "start_time": 594.08,
+      "end_time": 595.72,
+      "text": "It wasn't a load of tower block."
+    },
+    {
+      "sentence_id": 263,
+      "start_time": 595.72,
+      "end_time": 598.0,
+      "text": "It was full of people who were..."
+    },
+    {
+      "sentence_id": 264,
+      "start_time": 598.0,
+      "end_time": 599.64,
+      "text": "There were some people who'd fled,"
+    },
+    {
+      "sentence_id": 265,
+      "start_time": 600.08,
+      "end_time": 602.08,
+      "text": "I think, in the war from places"
+    },
+    {
+      "sentence_id": 266,
+      "start_time": 602.08,
+      "end_time": 604.16,
+      "text": "where they were ostracized, Jewish people."
+    },
+    {
+      "sentence_id": 267,
+      "start_time": 604.16,
+      "end_time": 606.08,
+      "text": "There were lots of working-class people"
+    },
+    {
+      "sentence_id": 268,
+      "start_time": 606.08,
+      "end_time": 607.6,
+      "text": "who were getting their first home"
+    },
+    {
+      "sentence_id": 269,
+      "start_time": 607.6,
+      "end_time": 610.52,
+      "text": "with a good rent and a nice place to live."
+    },
+    {
+      "sentence_id": 270,
+      "start_time": 610.52,
+      "end_time": 612.36,
+      "text": "And they were purpose-built, so they had..."
+    },
+    {
+      "sentence_id": 271,
+      "start_time": 612.36,
+      "end_time": 614.2,
+      "text": "Often, you would be in, perhaps,"
+    },
+    {
+      "sentence_id": 272,
+      "start_time": 614.2,
+      "end_time": 616.04,
+      "text": "other things and sharing toilets"
+    },
+    {
+      "sentence_id": 273,
+      "start_time": 616.04,
+      "end_time": 617.68,
+      "text": "and whatever with other people."
+    },
+    {
+      "sentence_id": 274,
+      "start_time": 617.68,
+      "end_time": 619.84,
+      "text": "I didn't do that, but we lived with my grandma"
+    },
+    {
+      "sentence_id": 275,
+      "start_time": 619.84,
+      "end_time": 620.68,
+      "text": "when we moved there."
+    },
+    {
+      "sentence_id": 276,
+      "start_time": 620.68,
+      "end_time": 622.2,
+      "text": "But here, it was a purpose-built flat"
+    },
+    {
+      "sentence_id": 277,
+      "start_time": 622.2,
+      "end_time": 624.2,
+      "text": "with its own bathroom, with a balcony."
+    },
+    {
+      "sentence_id": 278,
+      "start_time": 624.2,
+      "end_time": 625.4,
+      "text": "It was a nice place to live."
+    },
+    {
+      "sentence_id": 279,
+      "start_time": 625.4,
+      "end_time": 627.84,
+      "text": "And Blackheath is quite a posh place."
+    },
+    {
+      "sentence_id": 280,
+      "start_time": 627.88,
+      "end_time": 630.12,
+      "text": "There's quite a lot of money in Blackheath."
+    },
+    {
+      "sentence_id": 281,
+      "start_time": 630.12,
+      "end_time": 630.96,
+      "text": "Now or..."
+    },
+    {
+      "sentence_id": 282,
+      "start_time": 630.96,
+      "end_time": 632.2,
+      "text": "Always, yeah."
+    },
+    {
+      "sentence_id": 283,
+      "start_time": 632.2,
+      "end_time": 636.56,
+      "text": "So there's some incredibly beautiful buildings,"
+    },
+    {
+      "sentence_id": 284,
+      "start_time": 636.56,
+      "end_time": 637.64,
+      "text": "houses that were built."
+    },
+    {
+      "sentence_id": 285,
+      "start_time": 637.64,
+      "end_time": 639.36,
+      "text": "So at the top of the roadway island,"
+    },
+    {
+      "sentence_id": 286,
+      "start_time": 639.36,
+      "end_time": 641.8,
+      "text": "there's a whole row of big Georgian-y out over."
+    },
+    {
+      "sentence_id": 287,
+      "start_time": 641.8,
+      "end_time": 643.04,
+      "text": "So there's a lot of money there,"
+    },
+    {
+      "sentence_id": 288,
+      "start_time": 643.04,
+      "end_time": 644.44,
+      "text": "and there always has been."
+    },
+    {
+      "sentence_id": 289,
+      "start_time": 644.44,
+      "end_time": 647.32,
+      "text": "So it was a place that you had a lot of people"
+    },
+    {
+      "sentence_id": 290,
+      "start_time": 647.32,
+      "end_time": 649.12,
+      "text": "who could afford nice things,"
+    },
+    {
+      "sentence_id": 291,
+      "start_time": 649.12,
+      "end_time": 651.12,
+      "text": "and Blackheath's shops reflected that."
+    },
+    {
+      "sentence_id": 292,
+      "start_time": 651.12,
+      "end_time": 654.04,
+      "text": "But equally, there were several council estates,"
+    },
+    {
+      "sentence_id": 293,
+      "start_time": 654.04,
+      "end_time": 656.32,
+      "text": "social housing estates, around the railway line."
+    },
+    {
+      "sentence_id": 294,
+      "start_time": 656.32,
+      "end_time": 659.52,
+      "text": "There was a railway line 20 minutes into central London."
+    },
+    {
+      "sentence_id": 295,
+      "start_time": 659.52,
+      "end_time": 663.24,
+      "text": "And the newly built school was a state school."
+    },
+    {
+      "sentence_id": 296,
+      "start_time": 663.24,
+      "end_time": 666.08,
+      "text": "And in Blackheath, well, near to Blackheath,"
+    },
+    {
+      "sentence_id": 297,
+      "start_time": 666.08,
+      "end_time": 668.28,
+      "text": "there were also schools that were public schools"
+    },
+    {
+      "sentence_id": 298,
+      "start_time": 668.28,
+      "end_time": 669.44,
+      "text": "where their children could go."
+    },
+    {
+      "sentence_id": 299,
+      "start_time": 669.44,
+      "end_time": 671.68,
+      "text": "So in Blackheath, you have a mixture,"
+    },
+    {
+      "sentence_id": 300,
+      "start_time": 671.68,
+      "end_time": 673.92,
+      "text": "as you do in most places in England,"
+    },
+    {
+      "sentence_id": 301,
+      "start_time": 673.92,
+      "end_time": 674.96,
+      "text": "a working-class, middle-class,"
+    },
+    {
+      "sentence_id": 302,
+      "start_time": 674.96,
+      "end_time": 676.88,
+      "text": "only class, I would call them."
+    },
+    {
+      "sentence_id": 303,
+      "start_time": 676.88,
+      "end_time": 679.92,
+      "text": "And a lot of people think class isn't a thing anymore."
+    },
+    {
+      "sentence_id": 304,
+      "start_time": 679.92,
+      "end_time": 680.76,
+      "text": "I think it's still there."
+    },
+    {
+      "sentence_id": 305,
+      "start_time": 680.76,
+      "end_time": 681.6,
+      "text": "I think it's changed."
+    },
+    {
+      "sentence_id": 306,
+      "start_time": 681.6,
+      "end_time": 682.44,
+      "text": "It's still..."
+    },
+    {
+      "sentence_id": 307,
+      "start_time": 682.44,
+      "end_time": 684.44,
+      "text": "So you grew up working class,"
+    },
+    {
+      "sentence_id": 308,
+      "start_time": 684.48,
+      "end_time": 686.52,
+      "text": "but you went to grammar, right?"
+    },
+    {
+      "sentence_id": 309,
+      "start_time": 686.52,
+      "end_time": 687.36,
+      "text": "I did."
+    },
+    {
+      "sentence_id": 310,
+      "start_time": 687.36,
+      "end_time": 689.12,
+      "text": "That's where you pass a test, the 11 plus,"
+    },
+    {
+      "sentence_id": 311,
+      "start_time": 689.12,
+      "end_time": 690.48,
+      "text": "and you get accepted to the school."
+    },
+    {
+      "sentence_id": 312,
+      "start_time": 690.48,
+      "end_time": 692.64,
+      "text": "And I heard, because your accent,"
+    },
+    {
+      "sentence_id": 313,
+      "start_time": 692.64,
+      "end_time": 694.08,
+      "text": "you know, it's quite unique."
+    },
+    {
+      "sentence_id": 314,
+      "start_time": 694.08,
+      "end_time": 695.2,
+      "text": "You had elocution, right?"
+    },
+    {
+      "sentence_id": 315,
+      "start_time": 695.2,
+      "end_time": 696.04,
+      "text": "Yeah."
+    },
+    {
+      "sentence_id": 316,
+      "start_time": 696.04,
+      "end_time": 696.88,
+      "text": "What was that like?"
+    },
+    {
+      "sentence_id": 317,
+      "start_time": 696.88,
+      "end_time": 698.56,
+      "text": "It's funny because they didn't call them"
+    },
+    {
+      "sentence_id": 318,
+      "start_time": 698.56,
+      "end_time": 699.84,
+      "text": "elocution classes."
+    },
+    {
+      "sentence_id": 319,
+      "start_time": 699.84,
+      "end_time": 702.84,
+      "text": "So the girls whose parents had aspirations"
+    },
+    {
+      "sentence_id": 320,
+      "start_time": 702.84,
+      "end_time": 704.48,
+      "text": "for them to talk properly,"
+    },
+    {
+      "sentence_id": 321,
+      "start_time": 704.48,
+      "end_time": 705.32,
+      "text": "you know, if you're..."
+    },
+    {
+      "sentence_id": 322,
+      "start_time": 705.32,
+      "end_time": 706.16,
+      "text": "Properly."
+    },
+    {
+      "sentence_id": 323,
+      "start_time": 706.16,
+      "end_time": 707.0,
+      "text": "Properly."
+    },
+    {
+      "sentence_id": 324,
+      "start_time": 707.0,
+      "end_time": 709.04,
+      "text": "So I'm actually a Cockney by birth,"
+    },
+    {
+      "sentence_id": 325,
+      "start_time": 709.04,
+      "end_time": 711.08,
+      "text": "because I was born within the Sound of Bobel."
+    },
+    {
+      "sentence_id": 326,
+      "start_time": 711.08,
+      "end_time": 713.48,
+      "text": "But most, nobody would think that I'm a Cockney,"
+    },
+    {
+      "sentence_id": 327,
+      "start_time": 713.48,
+      "end_time": 714.44,
+      "text": "that I speak."
+    },
+    {
+      "sentence_id": 328,
+      "start_time": 714.44,
+      "end_time": 716.8,
+      "text": "Well, I can talk like that if I wanna, right?"
+    },
+    {
+      "sentence_id": 329,
+      "start_time": 716.8,
+      "end_time": 720.0,
+      "text": "But my sister had a very different way of speaking to me"
+    },
+    {
+      "sentence_id": 330,
+      "start_time": 720.0,
+      "end_time": 721.24,
+      "text": "because of our school."
+    },
+    {
+      "sentence_id": 331,
+      "start_time": 721.24,
+      "end_time": 724.52,
+      "text": "We did have speech and drama lessons every Tuesday"
+    },
+    {
+      "sentence_id": 332,
+      "start_time": 724.52,
+      "end_time": 726.52,
+      "text": "throughout one of my years at school."
+    },
+    {
+      "sentence_id": 333,
+      "start_time": 726.52,
+      "end_time": 728.4,
+      "text": "And that meant a whole class of girls"
+    },
+    {
+      "sentence_id": 334,
+      "start_time": 728.4,
+      "end_time": 730.36,
+      "text": "had to stand on the stage one by one"
+    },
+    {
+      "sentence_id": 335,
+      "start_time": 730.36,
+      "end_time": 732.48,
+      "text": "and talk to the audience of the rest of the class,"
+    },
+    {
+      "sentence_id": 336,
+      "start_time": 732.48,
+      "end_time": 735.32,
+      "text": "project their voices to the back of the school hall"
+    },
+    {
+      "sentence_id": 337,
+      "start_time": 735.32,
+      "end_time": 736.92,
+      "text": "and say what you'd been..."
+    },
+    {
+      "sentence_id": 338,
+      "start_time": 736.92,
+      "end_time": 738.52,
+      "text": "Pick a subject and talk about it."
+    },
+    {
+      "sentence_id": 339,
+      "start_time": 738.52,
+      "end_time": 740.24,
+      "text": "Could be what you'd been doing that weekend."
+    },
+    {
+      "sentence_id": 340,
+      "start_time": 740.24,
+      "end_time": 742.48,
+      "text": "You had to talk for a certain amount of time."
+    },
+    {
+      "sentence_id": 341,
+      "start_time": 742.52,
+      "end_time": 743.72,
+      "text": "You had to stand well"
+    },
+    {
+      "sentence_id": 342,
+      "start_time": 743.72,
+      "end_time": 745.88,
+      "text": "and you had to give this kind of speech."
+    },
+    {
+      "sentence_id": 343,
+      "start_time": 745.88,
+      "end_time": 748.88,
+      "text": "We also had some book which trained our accent."
+    },
+    {
+      "sentence_id": 344,
+      "start_time": 748.88,
+      "end_time": 751.72,
+      "text": "So we set, we had books, I'm not kidding you,"
+    },
+    {
+      "sentence_id": 345,
+      "start_time": 751.72,
+      "end_time": 752.76,
+      "text": "which said things like,"
+    },
+    {
+      "sentence_id": 346,
+      "start_time": 752.76,
+      "end_time": 756.0,
+      "text": "the rain in Spain falls mainly on the plain."
+    },
+    {
+      "sentence_id": 347,
+      "start_time": 756.0,
+      "end_time": 758.76,
+      "text": "The rain in Spain"
+    },
+    {
+      "sentence_id": 348,
+      "start_time": 758.76,
+      "end_time": 761.28,
+      "text": "rains mainly in the rain."
+    },
+    {
+      "sentence_id": 349,
+      "start_time": 761.28,
+      "end_time": 762.12,
+      "text": "Classic line."
+    },
+    {
+      "sentence_id": 350,
+      "start_time": 762.12,
+      "end_time": 764.04,
+      "text": "The classic line, which is in Pygmalion,"
+    },
+    {
+      "sentence_id": 351,
+      "start_time": 764.04,
+      "end_time": 766.4,
+      "text": "talking about training a girl to talk properly."
+    },
+    {
+      "sentence_id": 352,
+      "start_time": 766.4,
+      "end_time": 768.12,
+      "text": "So there was this underlying sense"
+    },
+    {
+      "sentence_id": 353,
+      "start_time": 768.12,
+      "end_time": 770.84,
+      "text": "that they were doing, it was a good thing to be done."
+    },
+    {
+      "sentence_id": 354,
+      "start_time": 770.84,
+      "end_time": 772.2,
+      "text": "I didn't ever question it."
+    },
+    {
+      "sentence_id": 355,
+      "start_time": 772.2,
+      "end_time": 774.64,
+      "text": "On the other hand, what it leaves you with"
+    },
+    {
+      "sentence_id": 356,
+      "start_time": 774.64,
+      "end_time": 777.84,
+      "text": "is a little bit of a crazy mixed up kid around your identity"
+    },
+    {
+      "sentence_id": 357,
+      "start_time": 777.84,
+      "end_time": 780.96,
+      "text": "because I don't sound like my family sounds."
+    },
+    {
+      "sentence_id": 358,
+      "start_time": 780.96,
+      "end_time": 783.32,
+      "text": "And often when you sound like this,"
+    },
+    {
+      "sentence_id": 359,
+      "start_time": 783.32,
+      "end_time": 785.08,
+      "text": "people think you're stuck up or a snob"
+    },
+    {
+      "sentence_id": 360,
+      "start_time": 785.08,
+      "end_time": 786.24,
+      "text": "that you're looking down on,"
+    },
+    {
+      "sentence_id": 361,
+      "start_time": 786.24,
+      "end_time": 788.32,
+      "text": "that you're somehow not real in some way"
+    },
+    {
+      "sentence_id": 362,
+      "start_time": 788.32,
+      "end_time": 789.76,
+      "text": "because I've learned to talk like this."
+    },
+    {
+      "sentence_id": 363,
+      "start_time": 789.76,
+      "end_time": 792.08,
+      "text": "I think it's interesting putting it on, yeah."
+    },
+    {
+      "sentence_id": 364,
+      "start_time": 792.08,
+      "end_time": 794.56,
+      "text": "So of course, and of course we were taught to do that."
+    },
+    {
+      "sentence_id": 365,
+      "start_time": 794.56,
+      "end_time": 796.76,
+      "text": "So it wasn't our natural way of speaking"
+    },
+    {
+      "sentence_id": 366,
+      "start_time": 796.76,
+      "end_time": 797.92,
+      "text": "and all the girls had it,"
+    },
+    {
+      "sentence_id": 367,
+      "start_time": 797.92,
+      "end_time": 799.64,
+      "text": "but in some ways it stuck with me."
+    },
+    {
+      "sentence_id": 368,
+      "start_time": 799.64,
+      "end_time": 801.36,
+      "text": "I don't know why it stuck with me."
+    },
+    {
+      "sentence_id": 369,
+      "start_time": 801.36,
+      "end_time": 803.88,
+      "text": "And I think because I was interested in my education"
+    },
+    {
+      "sentence_id": 370,
+      "start_time": 803.88,
+      "end_time": 805.4,
+      "text": "and as I went to university,"
+    },
+    {
+      "sentence_id": 371,
+      "start_time": 805.4,
+      "end_time": 807.92,
+      "text": "I think you get under the word,"
+    },
+    {
+      "sentence_id": 372,
+      "start_time": 807.92,
+      "end_time": 809.68,
+      "text": "you kind of get messages really,"
+    },
+    {
+      "sentence_id": 373,
+      "start_time": 809.68,
+      "end_time": 812.16,
+      "text": "that in order to fit in and to get on,"
+    },
+    {
+      "sentence_id": 374,
+      "start_time": 812.16,
+      "end_time": 814.0,
+      "text": "there is something about the way that you speak."
+    },
+    {
+      "sentence_id": 375,
+      "start_time": 814.0,
+      "end_time": 815.0,
+      "text": "And certainly in the fifties,"
+    },
+    {
+      "sentence_id": 376,
+      "start_time": 815.0,
+      "end_time": 816.32,
+      "text": "when I was growing up in the sixties,"
+    },
+    {
+      "sentence_id": 377,
+      "start_time": 816.32,
+      "end_time": 818.64,
+      "text": "there weren't lots of different accents on telly,"
+    },
+    {
+      "sentence_id": 378,
+      "start_time": 818.64,
+      "end_time": 821.92,
+      "text": "on radio, very, very posh RP, received pronunciation."
+    },
+    {
+      "sentence_id": 379,
+      "start_time": 821.92,
+      "end_time": 823.32,
+      "text": "When I came to Sheffield,"
+    },
+    {
+      "sentence_id": 380,
+      "start_time": 823.32,
+      "end_time": 825.04,
+      "text": "I did stick out like a sore thumb."
+    },
+    {
+      "sentence_id": 381,
+      "start_time": 825.04,
+      "end_time": 827.12,
+      "text": "So you said when you came to Sheffield,"
+    },
+    {
+      "sentence_id": 382,
+      "start_time": 827.12,
+      "end_time": 828.96,
+      "text": "stuck out like a sore thumb,"
+    },
+    {
+      "sentence_id": 383,
+      "start_time": 828.96,
+      "end_time": 830.6,
+      "text": "great phrase to learn everyone."
+    },
+    {
+      "sentence_id": 384,
+      "start_time": 830.6,
+      "end_time": 831.8,
+      "text": "How did that feel?"
+    },
+    {
+      "sentence_id": 385,
+      "start_time": 831.8,
+      "end_time": 833.84,
+      "text": "Can you just tell me a little bit about that?"
+    },
+    {
+      "sentence_id": 386,
+      "start_time": 833.84,
+      "end_time": 838.32,
+      "text": "It felt, I mean, I was sort of used to that in a way."
+    },
+    {
+      "sentence_id": 387,
+      "start_time": 838.32,
+      "end_time": 841.08,
+      "text": "I wasn't actually, no, it was very noticeable"
+    },
+    {
+      "sentence_id": 388,
+      "start_time": 841.08,
+      "end_time": 843.92,
+      "text": "because Sheffield's a very working class city"
+    },
+    {
+      "sentence_id": 389,
+      "start_time": 843.92,
+      "end_time": 846.32,
+      "text": "and you're in Yorkshire and in Yorkshire."
+    },
+    {
+      "sentence_id": 390,
+      "start_time": 846.32,
+      "end_time": 848.48,
+      "text": "It's not just that you have the short A's"
+    },
+    {
+      "sentence_id": 391,
+      "start_time": 848.48,
+      "end_time": 850.04,
+      "text": "like bath and grab and pass,"
+    },
+    {
+      "sentence_id": 392,
+      "start_time": 850.04,
+      "end_time": 851.88,
+      "text": "but you also have quite a lot of ways"
+    },
+    {
+      "sentence_id": 393,
+      "start_time": 851.88,
+      "end_time": 854.2,
+      "text": "of saying things that are particular to Yorkshire."
+    },
+    {
+      "sentence_id": 394,
+      "start_time": 854.2,
+      "end_time": 855.04,
+      "text": "A lot of dialect words."
+    },
+    {
+      "sentence_id": 395,
+      "start_time": 855.04,
+      "end_time": 855.88,
+      "text": "A lot of dialect words."
+    },
+    {
+      "sentence_id": 396,
+      "start_time": 855.88,
+      "end_time": 857.8,
+      "text": "And I was working with,"
+    },
+    {
+      "sentence_id": 397,
+      "start_time": 857.8,
+      "end_time": 861.12,
+      "text": "I was going around and talking to 16 to 24 year olds"
+    },
+    {
+      "sentence_id": 398,
+      "start_time": 861.12,
+      "end_time": 863.24,
+      "text": "who were unemployed and often young men."
+    },
+    {
+      "sentence_id": 399,
+      "start_time": 863.24,
+      "end_time": 865.64,
+      "text": "And they, so there were a number of things there."
+    },
+    {
+      "sentence_id": 400,
+      "start_time": 865.64,
+      "end_time": 867.92,
+      "text": "They were often shy and embarrassed"
+    },
+    {
+      "sentence_id": 401,
+      "start_time": 867.92,
+      "end_time": 869.4,
+      "text": "and sort of looking at their boots"
+    },
+    {
+      "sentence_id": 402,
+      "start_time": 869.4,
+      "end_time": 871.48,
+      "text": "and not looking me in the eye."
+    },
+    {
+      "sentence_id": 403,
+      "start_time": 871.48,
+      "end_time": 873.84,
+      "text": "And also when they did talk,"
+    },
+    {
+      "sentence_id": 404,
+      "start_time": 873.84,
+      "end_time": 877.0,
+      "text": "they spoke quite quickly with this Yorkshire accent,"
+    },
+    {
+      "sentence_id": 405,
+      "start_time": 877.0,
+      "end_time": 878.24,
+      "text": "but also with the dialect."
+    },
+    {
+      "sentence_id": 406,
+      "start_time": 878.24,
+      "end_time": 879.56,
+      "text": "So you couldn't understand that."
+    },
+    {
+      "sentence_id": 407,
+      "start_time": 879.56,
+      "end_time": 880.6,
+      "text": "I could understand them"
+    },
+    {
+      "sentence_id": 408,
+      "start_time": 880.6,
+      "end_time": 882.48,
+      "text": "because I'd been an English teacher"
+    },
+    {
+      "sentence_id": 409,
+      "start_time": 882.48,
+      "end_time": 884.12,
+      "text": "and I was very interested in dialect."
+    },
+    {
+      "sentence_id": 410,
+      "start_time": 884.12,
+      "end_time": 887.0,
+      "text": "So I've got a good ear for that kind of thing."
+    },
+    {
+      "sentence_id": 411,
+      "start_time": 887.0,
+      "end_time": 890.64,
+      "text": "And I picked it up, but initially it was harder work."
+    },
+    {
+      "sentence_id": 412,
+      "start_time": 890.64,
+      "end_time": 893.56,
+      "text": "It's like learning English in a class"
+    },
+    {
+      "sentence_id": 413,
+      "start_time": 893.56,
+      "end_time": 894.72,
+      "text": "and then going to England"
+    },
+    {
+      "sentence_id": 414,
+      "start_time": 894.72,
+      "end_time": 896.48,
+      "text": "and to really listen to how it's spoken."
+    },
+    {
+      "sentence_id": 415,
+      "start_time": 896.48,
+      "end_time": 897.56,
+      "text": "And it was like that with them."
+    },
+    {
+      "sentence_id": 416,
+      "start_time": 897.56,
+      "end_time": 898.6,
+      "text": "So it took me a while."
+    },
+    {
+      "sentence_id": 417,
+      "start_time": 898.6,
+      "end_time": 901.48,
+      "text": "And then of course I was definitely not like them."
+    },
+    {
+      "sentence_id": 418,
+      "start_time": 901.48,
+      "end_time": 903.44,
+      "text": "So when you've got difference like that"
+    },
+    {
+      "sentence_id": 419,
+      "start_time": 903.44,
+      "end_time": 904.52,
+      "text": "and there are all those things"
+    },
+    {
+      "sentence_id": 420,
+      "start_time": 904.52,
+      "end_time": 906.72,
+      "text": "that people associate with how you talk."
+    },
+    {
+      "sentence_id": 421,
+      "start_time": 906.72,
+      "end_time": 907.68,
+      "text": "Like as I said before,"
+    },
+    {
+      "sentence_id": 422,
+      "start_time": 907.68,
+      "end_time": 909.68,
+      "text": "people think you're posh that you're stuck up,"
+    },
+    {
+      "sentence_id": 423,
+      "start_time": 909.68,
+      "end_time": 910.84,
+      "text": "better than they are."
+    },
+    {
+      "sentence_id": 424,
+      "start_time": 910.84,
+      "end_time": 912.44,
+      "text": "All those things that go with that"
+    },
+    {
+      "sentence_id": 425,
+      "start_time": 912.44,
+      "end_time": 914.28,
+      "text": "make the actual rapport building"
+    },
+    {
+      "sentence_id": 426,
+      "start_time": 914.28,
+      "end_time": 915.44,
+      "text": "and the relationship building"
+    },
+    {
+      "sentence_id": 427,
+      "start_time": 915.44,
+      "end_time": 917.16,
+      "text": "with someone you don't know quite hard."
+    },
+    {
+      "sentence_id": 428,
+      "start_time": 917.16,
+      "end_time": 919.24,
+      "text": "You've got to, you know,"
+    },
+    {
+      "sentence_id": 429,
+      "start_time": 919.24,
+      "end_time": 922.96,
+      "text": "I felt I've had to work quite hard building relationships"
+    },
+    {
+      "sentence_id": 430,
+      "start_time": 922.96,
+      "end_time": 924.52,
+      "text": "to see beneath, beyond that."
+    },
+    {
+      "sentence_id": 431,
+      "start_time": 924.52,
+      "end_time": 925.36,
+      "text": "Beyond the accent."
+    },
+    {
+      "sentence_id": 432,
+      "start_time": 925.36,
+      "end_time": 926.8,
+      "text": "The judgements, yeah, about the accent."
+    },
+    {
+      "sentence_id": 433,
+      "start_time": 926.8,
+      "end_time": 928.96,
+      "text": "You only have kind of like the identity,"
+    },
+    {
+      "sentence_id": 434,
+      "start_time": 928.96,
+      "end_time": 930.32,
+      "text": "you don't use the word crisis,"
+    },
+    {
+      "sentence_id": 435,
+      "start_time": 930.32,
+      "end_time": 931.28,
+      "text": "but that's the phrase."
+    },
+    {
+      "sentence_id": 436,
+      "start_time": 931.28,
+      "end_time": 934.12,
+      "text": "Identity crisis about your accent when you were young"
+    },
+    {
+      "sentence_id": 437,
+      "start_time": 934.12,
+      "end_time": 936.16,
+      "text": "or you had that throughout?"
+    },
+    {
+      "sentence_id": 438,
+      "start_time": 936.16,
+      "end_time": 938.12,
+      "text": "I didn't feel it was a crisis"
+    },
+    {
+      "sentence_id": 439,
+      "start_time": 938.12,
+      "end_time": 939.96,
+      "text": "because for me by then it was normal,"
+    },
+    {
+      "sentence_id": 440,
+      "start_time": 939.96,
+      "end_time": 942.88,
+      "text": "but it was a sense of feeling uncomfortable"
+    },
+    {
+      "sentence_id": 441,
+      "start_time": 942.88,
+      "end_time": 945.52,
+      "text": "in a new place where I didn't belong."
+    },
+    {
+      "sentence_id": 442,
+      "start_time": 945.52,
+      "end_time": 947.44,
+      "text": "And it's a bit like when you read a novel,"
+    },
+    {
+      "sentence_id": 443,
+      "start_time": 947.44,
+      "end_time": 949.92,
+      "text": "you know, and the stranger comes to town."
+    },
+    {
+      "sentence_id": 444,
+      "start_time": 949.92,
+      "end_time": 951.12,
+      "text": "It was a bit like that."
+    },
+    {
+      "sentence_id": 445,
+      "start_time": 951.12,
+      "end_time": 953.72,
+      "text": "And there were a lot of Southerners who came up"
+    },
+    {
+      "sentence_id": 446,
+      "start_time": 953.72,
+      "end_time": 954.88,
+      "text": "at the same time as I did."
+    },
+    {
+      "sentence_id": 447,
+      "start_time": 954.88,
+      "end_time": 956.36,
+      "text": "A bit of an exodus from London"
+    },
+    {
+      "sentence_id": 448,
+      "start_time": 956.36,
+      "end_time": 958.28,
+      "text": "because the government wanted to bring people"
+    },
+    {
+      "sentence_id": 449,
+      "start_time": 958.28,
+      "end_time": 959.76,
+      "text": "to Sheffield to do jobs,"
+    },
+    {
+      "sentence_id": 450,
+      "start_time": 959.76,
+      "end_time": 962.08,
+      "text": "to create jobs outside of London."
+    },
+    {
+      "sentence_id": 451,
+      "start_time": 962.08,
+      "end_time": 963.72,
+      "text": "And so there was some resentment"
+    },
+    {
+      "sentence_id": 452,
+      "start_time": 963.72,
+      "end_time": 965.32,
+      "text": "about the pushed house prices."
+    },
+    {
+      "sentence_id": 453,
+      "start_time": 965.32,
+      "end_time": 967.16,
+      "text": "It wasn't just how I talked,"
+    },
+    {
+      "sentence_id": 454,
+      "start_time": 967.16,
+      "end_time": 968.0,
+      "text": "it was kind of like,"
+    },
+    {
+      "sentence_id": 455,
+      "start_time": 968.0,
+      "end_time": 968.84,
+      "text": "oh, you're one of them."
+    },
+    {
+      "sentence_id": 456,
+      "start_time": 968.84,
+      "end_time": 970.76,
+      "text": "People from London who've stolen our house."
+    },
+    {
+      "sentence_id": 457,
+      "start_time": 970.76,
+      "end_time": 971.84,
+      "text": "So it was a whole thing."
+    },
+    {
+      "sentence_id": 458,
+      "start_time": 971.84,
+      "end_time": 973.8,
+      "text": "But I think, I mean, accent,"
+    },
+    {
+      "sentence_id": 459,
+      "start_time": 973.8,
+      "end_time": 975.8,
+      "text": "I'm grateful for what I've had."
+    },
+    {
+      "sentence_id": 460,
+      "start_time": 975.8,
+      "end_time": 976.64,
+      "text": "It has."
+    },
+    {
+      "sentence_id": 461,
+      "start_time": 976.64,
+      "end_time": 977.8,
+      "text": "In the time that I grew up,"
+    },
+    {
+      "sentence_id": 462,
+      "start_time": 977.8,
+      "end_time": 981.12,
+      "text": "there were advantages to not being judged"
+    },
+    {
+      "sentence_id": 463,
+      "start_time": 981.12,
+      "end_time": 982.48,
+      "text": "by working-class."
+    },
+    {
+      "sentence_id": 464,
+      "start_time": 982.48,
+      "end_time": 984.08,
+      "text": "When I went to university,"
+    },
+    {
+      "sentence_id": 465,
+      "start_time": 984.08,
+      "end_time": 985.96,
+      "text": "I think it helped me fit in there"
+    },
+    {
+      "sentence_id": 466,
+      "start_time": 985.96,
+      "end_time": 987.16,
+      "text": "in a way that, you know,"
+    },
+    {
+      "sentence_id": 467,
+      "start_time": 987.16,
+      "end_time": 989.24,
+      "text": "I didn't even realize I would need,"
+    },
+    {
+      "sentence_id": 468,
+      "start_time": 989.24,
+      "end_time": 990.8,
+      "text": "I had no idea that I would need to fit."
+    },
+    {
+      "sentence_id": 469,
+      "start_time": 990.8,
+      "end_time": 993.56,
+      "text": "Interesting because I'm from Sheffield,"
+    },
+    {
+      "sentence_id": 470,
+      "start_time": 993.56,
+      "end_time": 994.4,
+      "text": "born and bred in Sheffield,"
+    },
+    {
+      "sentence_id": 471,
+      "start_time": 994.4,
+      "end_time": 997.48,
+      "text": "and I don't really speak like other people from Sheffield."
+    },
+    {
+      "sentence_id": 472,
+      "start_time": 997.48,
+      "end_time": 999.92,
+      "text": "I've always had the problem with my identity."
+    },
+    {
+      "sentence_id": 473,
+      "start_time": 999.92,
+      "end_time": 1001.4,
+      "text": "So occasionally, if I go out,"
+    },
+    {
+      "sentence_id": 474,
+      "start_time": 1001.4,
+      "end_time": 1003.6,
+      "text": "or speak with a broader accent,"
+    },
+    {
+      "sentence_id": 475,
+      "start_time": 1003.6,
+      "end_time": 1005.64,
+      "text": "I will change my accent."
+    },
+    {
+      "sentence_id": 476,
+      "start_time": 1005.64,
+      "end_time": 1008.32,
+      "text": "It's difficult to know what my accent really is"
+    },
+    {
+      "sentence_id": 477,
+      "start_time": 1008.32,
+      "end_time": 1011.44,
+      "text": "because it's always depending on who I'm with."
+    },
+    {
+      "sentence_id": 478,
+      "start_time": 1011.44,
+      "end_time": 1012.92,
+      "text": "Yeah, I think that's natural."
+    },
+    {
+      "sentence_id": 479,
+      "start_time": 1013.88,
+      "end_time": 1015.04,
+      "text": "When I go home,"
+    },
+    {
+      "sentence_id": 480,
+      "start_time": 1015.04,
+      "end_time": 1016.32,
+      "text": "I still say home for London,"
+    },
+    {
+      "sentence_id": 481,
+      "start_time": 1016.32,
+      "end_time": 1018.36,
+      "text": "if I'm in a taxi with a taxi driver,"
+    },
+    {
+      "sentence_id": 482,
+      "start_time": 1018.36,
+      "end_time": 1020.6,
+      "text": "I will end up sounding not broad-cockneyed,"
+    },
+    {
+      "sentence_id": 483,
+      "start_time": 1020.6,
+      "end_time": 1023.0,
+      "text": "but I will enjoy getting away."
+    },
+    {
+      "sentence_id": 484,
+      "start_time": 1023.0,
+      "end_time": 1025.28,
+      "text": "It's a part of report building, isn't it?"
+    },
+    {
+      "sentence_id": 485,
+      "start_time": 1025.28,
+      "end_time": 1027.28,
+      "text": "You kind of follow the pace of somebody."
+    },
+    {
+      "sentence_id": 486,
+      "start_time": 1027.28,
+      "end_time": 1029.24,
+      "text": "So there's quite a clipped pace in London,"
+    },
+    {
+      "sentence_id": 487,
+      "start_time": 1029.28,
+      "end_time": 1031.76,
+      "text": "quite quick speaking, and staccato,"
+    },
+    {
+      "sentence_id": 488,
+      "start_time": 1031.76,
+      "end_time": 1033.96,
+      "text": "and you do the glottal stop, you know."
+    },
+    {
+      "sentence_id": 489,
+      "start_time": 1033.96,
+      "end_time": 1035.76,
+      "text": "So there are things that I do."
+    },
+    {
+      "sentence_id": 490,
+      "start_time": 1035.76,
+      "end_time": 1037.68,
+      "text": "Don't you just explain glottal stop, like bottle?"
+    },
+    {
+      "sentence_id": 491,
+      "start_time": 1037.68,
+      "end_time": 1038.52,
+      "text": "Yeah, bottle."
+    },
+    {
+      "sentence_id": 492,
+      "start_time": 1038.52,
+      "end_time": 1039.96,
+      "text": "So you don't say bottle,"
+    },
+    {
+      "sentence_id": 493,
+      "start_time": 1039.96,
+      "end_time": 1042.6,
+      "text": "which you would say if you were trying to talk properly"
+    },
+    {
+      "sentence_id": 494,
+      "start_time": 1042.6,
+      "end_time": 1043.44,
+      "text": "in inverted commas,"
+    },
+    {
+      "sentence_id": 495,
+      "start_time": 1043.44,
+      "end_time": 1045.24,
+      "text": "you say bottle, or uh-uh."
+    },
+    {
+      "sentence_id": 496,
+      "start_time": 1045.24,
+      "end_time": 1047.04,
+      "text": "Gotta do that, bottle of water."
+    },
+    {
+      "sentence_id": 497,
+      "start_time": 1047.04,
+      "end_time": 1049.64,
+      "text": "So you say your T's at the back of your throat,"
+    },
+    {
+      "sentence_id": 498,
+      "start_time": 1049.64,
+      "end_time": 1052.08,
+      "text": "not with your tongue behind your T, bottle."
+    },
+    {
+      "sentence_id": 499,
+      "start_time": 1052.08,
+      "end_time": 1054.16,
+      "text": "Your accent is quite unique."
+    },
+    {
+      "sentence_id": 500,
+      "start_time": 1054.16,
+      "end_time": 1057.76,
+      "text": "Do people ever comment, even now, I wonder,"
+    },
+    {
+      "sentence_id": 501,
+      "start_time": 1057.76,
+      "end_time": 1059.08,
+      "text": "do people comment on it now?"
+    },
+    {
+      "sentence_id": 502,
+      "start_time": 1059.92,
+      "end_time": 1062.28,
+      "text": "Yes, a taxi driver commented on it the other day."
+    },
+    {
+      "sentence_id": 503,
+      "start_time": 1062.28,
+      "end_time": 1064.44,
+      "text": "He said to me, you're not from around here, are you?"
+    },
+    {
+      "sentence_id": 504,
+      "start_time": 1064.44,
+      "end_time": 1065.28,
+      "text": "Where did you grow up?"
+    },
+    {
+      "sentence_id": 505,
+      "start_time": 1065.28,
+      "end_time": 1067.24,
+      "text": "And so, and actually, it's interesting."
+    },
+    {
+      "sentence_id": 506,
+      "start_time": 1067.24,
+      "end_time": 1068.56,
+      "text": "How did that make you feel?"
+    },
+    {
+      "sentence_id": 507,
+      "start_time": 1068.56,
+      "end_time": 1069.8,
+      "text": "So I thought, oh, actually,"
+    },
+    {
+      "sentence_id": 508,
+      "start_time": 1069.8,
+      "end_time": 1072.28,
+      "text": "nobody's asked me that recently,"
+    },
+    {
+      "sentence_id": 509,
+      "start_time": 1072.28,
+      "end_time": 1074.52,
+      "text": "so I was happy to talk about it."
+    },
+    {
+      "sentence_id": 510,
+      "start_time": 1074.52,
+      "end_time": 1076.92,
+      "text": "He was a nice guy, I didn't take any offense,"
+    },
+    {
+      "sentence_id": 511,
+      "start_time": 1076.92,
+      "end_time": 1078.96,
+      "text": "and I think it was just genuine curiosity."
+    },
+    {
+      "sentence_id": 512,
+      "start_time": 1078.96,
+      "end_time": 1080.6,
+      "text": "It's interesting, because you say my accent's"
+    },
+    {
+      "sentence_id": 513,
+      "start_time": 1080.6,
+      "end_time": 1082.08,
+      "text": "quite unique, in a way,"
+    },
+    {
+      "sentence_id": 514,
+      "start_time": 1082.08,
+      "end_time": 1084.32,
+      "text": "what the training that I got at school"
+    },
+    {
+      "sentence_id": 515,
+      "start_time": 1084.32,
+      "end_time": 1086.32,
+      "text": "to talk in a particular way was to make you"
+    },
+    {
+      "sentence_id": 516,
+      "start_time": 1086.32,
+      "end_time": 1088.4,
+      "text": "like everybody else who spoke that way."
+    },
+    {
+      "sentence_id": 517,
+      "start_time": 1088.4,
+      "end_time": 1089.24,
+      "text": "Right."
+    },
+    {
+      "sentence_id": 518,
+      "start_time": 1089.24,
+      "end_time": 1090.08,
+      "text": "Alfie."
+    },
+    {
+      "sentence_id": 519,
+      "start_time": 1090.08,
+      "end_time": 1091.32,
+      "text": "Yeah, I received pronunciation."
+    },
+    {
+      "sentence_id": 520,
+      "start_time": 1091.32,
+      "end_time": 1093.28,
+      "text": "So it's interesting that you hear it as unique,"
+    },
+    {
+      "sentence_id": 521,
+      "start_time": 1093.28,
+      "end_time": 1094.32,
+      "text": "so what do you hear?"
+    },
+    {
+      "sentence_id": 522,
+      "start_time": 1094.32,
+      "end_time": 1097.56,
+      "text": "So what I mean is, it's unique for the area."
+    },
+    {
+      "sentence_id": 523,
+      "start_time": 1097.56,
+      "end_time": 1099.76,
+      "text": "When I was a kid, you had this vibe feeling"
+    },
+    {
+      "sentence_id": 524,
+      "start_time": 1099.76,
+      "end_time": 1102.2,
+      "text": "of being a teacher, because of the way you spoke."
+    },
+    {
+      "sentence_id": 525,
+      "start_time": 1102.2,
+      "end_time": 1104.64,
+      "text": "I kind of always admired the way you spoke."
+    },
+    {
+      "sentence_id": 526,
+      "start_time": 1104.64,
+      "end_time": 1106.56,
+      "text": "Yeah, I guess it's a mixture of things, isn't it?"
+    },
+    {
+      "sentence_id": 527,
+      "start_time": 1106.56,
+      "end_time": 1108.24,
+      "text": "It's like how you pronounce the words,"
+    },
+    {
+      "sentence_id": 528,
+      "start_time": 1108.24,
+      "end_time": 1109.92,
+      "text": "but also there are other differences"
+    },
+    {
+      "sentence_id": 529,
+      "start_time": 1109.92,
+      "end_time": 1111.56,
+      "text": "in the way that we speak."
+    },
+    {
+      "sentence_id": 530,
+      "start_time": 1111.56,
+      "end_time": 1112.68,
+      "text": "But it's not just your accent,"
+    },
+    {
+      "sentence_id": 531,
+      "start_time": 1112.68,
+      "end_time": 1114.44,
+      "text": "you're also quite, I think this podcast"
+    },
+    {
+      "sentence_id": 532,
+      "start_time": 1114.44,
+      "end_time": 1116.8,
+      "text": "will become an advanced English podcast."
+    },
+    {
+      "sentence_id": 533,
+      "start_time": 1117.76,
+      "end_time": 1120.16,
+      "text": "It might be quite difficult for some people."
+    },
+    {
+      "sentence_id": 534,
+      "start_time": 1120.16,
+      "end_time": 1121.32,
+      "text": "Sorry, everybody."
+    },
+    {
+      "sentence_id": 535,
+      "start_time": 1121.32,
+      "end_time": 1122.56,
+      "text": "No, no, no, but it's good."
+    },
+    {
+      "sentence_id": 536,
+      "start_time": 1122.56,
+      "end_time": 1124.44,
+      "text": "The words you're using are amazing."
+    },
+    {
+      "sentence_id": 537,
+      "start_time": 1124.44,
+      "end_time": 1125.56,
+      "text": "Some of the phrases you're using."
+    },
+    {
+      "sentence_id": 538,
+      "start_time": 1125.56,
+      "end_time": 1128.36,
+      "text": "As a lifelong English teacher,"
+    },
+    {
+      "sentence_id": 539,
+      "start_time": 1128.36,
+      "end_time": 1131.56,
+      "text": "I'm always listening not only to people's accents,"
+    },
+    {
+      "sentence_id": 540,
+      "start_time": 1131.56,
+      "end_time": 1134.16,
+      "text": "but also to their word choices,"
+    },
+    {
+      "sentence_id": 541,
+      "start_time": 1134.16,
+      "end_time": 1136.44,
+      "text": "their phrase, their idiosyncrasies."
+    },
+    {
+      "sentence_id": 542,
+      "start_time": 1136.44,
+      "end_time": 1138.96,
+      "text": "Some people have specific words"
+    },
+    {
+      "sentence_id": 543,
+      "start_time": 1138.96,
+      "end_time": 1141.56,
+      "text": "that only they say or they use."
+    },
+    {
+      "sentence_id": 544,
+      "start_time": 1141.56,
+      "end_time": 1143.56,
+      "text": "I just think it's absolutely fascinating."
+    },
+    {
+      "sentence_id": 545,
+      "start_time": 1143.56,
+      "end_time": 1145.4,
+      "text": "Yeah, I mean, it's lovely to hear you."
+    },
+    {
+      "sentence_id": 546,
+      "start_time": 1145.44,
+      "end_time": 1148.04,
+      "text": "I'm interested in what you hear and what they say."
+    },
+    {
+      "sentence_id": 547,
+      "start_time": 1148.04,
+      "end_time": 1151.16,
+      "text": "I'm interested in that too, as an ex-English teacher,"
+    },
+    {
+      "sentence_id": 548,
+      "start_time": 1151.16,
+      "end_time": 1153.84,
+      "text": "not teaching how to learn the language,"
+    },
+    {
+      "sentence_id": 549,
+      "start_time": 1153.84,
+      "end_time": 1155.84,
+      "text": "teaching language and literature to young."
+    },
+    {
+      "sentence_id": 550,
+      "start_time": 1155.84,
+      "end_time": 1158.64,
+      "text": "And because my degree was in that,"
+    },
+    {
+      "sentence_id": 551,
+      "start_time": 1158.64,
+      "end_time": 1160.52,
+      "text": "because I taught in that for five years,"
+    },
+    {
+      "sentence_id": 552,
+      "start_time": 1160.52,
+      "end_time": 1163.0,
+      "text": "because I've always read and studied literature,"
+    },
+    {
+      "sentence_id": 553,
+      "start_time": 1163.0,
+      "end_time": 1164.2,
+      "text": "I love words."
+    },
+    {
+      "sentence_id": 554,
+      "start_time": 1164.2,
+      "end_time": 1166.04,
+      "text": "And you kind of pick them up,"
+    },
+    {
+      "sentence_id": 555,
+      "start_time": 1166.04,
+      "end_time": 1167.68,
+      "text": "you don't know you've got them."
+    },
+    {
+      "sentence_id": 556,
+      "start_time": 1167.68,
+      "end_time": 1169.32,
+      "text": "And when people do tell me,"
+    },
+    {
+      "sentence_id": 557,
+      "start_time": 1169.32,
+      "end_time": 1171.28,
+      "text": "I'm articulate is what they say."
+    },
+    {
+      "sentence_id": 558,
+      "start_time": 1171.28,
+      "end_time": 1173.04,
+      "text": "And I don't know where that comes from."
+    },
+    {
+      "sentence_id": 559,
+      "start_time": 1173.04,
+      "end_time": 1174.44,
+      "text": "I just have that."
+    },
+    {
+      "sentence_id": 560,
+      "start_time": 1174.48,
+      "end_time": 1175.32,
+      "text": "I've just learned."
+    },
+    {
+      "sentence_id": 561,
+      "start_time": 1175.32,
+      "end_time": 1177.12,
+      "text": "Well, you have a natural instinct"
+    },
+    {
+      "sentence_id": 562,
+      "start_time": 1177.12,
+      "end_time": 1181.04,
+      "text": "to choose more specific words if you describe."
+    },
+    {
+      "sentence_id": 563,
+      "start_time": 1181.04,
+      "end_time": 1183.0,
+      "text": "And that's what I love, you know."
+    },
+    {
+      "sentence_id": 564,
+      "start_time": 1183.0,
+      "end_time": 1184.72,
+      "text": "I've got loads of them in my pocket."
+    },
+    {
+      "sentence_id": 565,
+      "start_time": 1184.72,
+      "end_time": 1186.56,
+      "text": "So I like to use as many of them."
+    },
+    {
+      "sentence_id": 566,
+      "start_time": 1186.56,
+      "end_time": 1187.8,
+      "text": "I don't do it consciously."
+    },
+    {
+      "sentence_id": 567,
+      "start_time": 1187.8,
+      "end_time": 1188.96,
+      "text": "I don't do it consciously."
+    },
+    {
+      "sentence_id": 568,
+      "start_time": 1188.96,
+      "end_time": 1190.16,
+      "text": "I just love words."
+    },
+    {
+      "sentence_id": 569,
+      "start_time": 1190.16,
+      "end_time": 1191.68,
+      "text": "Yeah, absolutely."
+    },
+    {
+      "sentence_id": 570,
+      "start_time": 1191.68,
+      "end_time": 1193.08,
+      "text": "And you're a big fan of Shakespeare."
+    },
+    {
+      "sentence_id": 571,
+      "start_time": 1193.08,
+      "end_time": 1193.92,
+      "text": "I am."
+    },
+    {
+      "sentence_id": 572,
+      "start_time": 1193.92,
+      "end_time": 1196.08,
+      "text": "And of course you write, you're a avid reader."
+    },
+    {
+      "sentence_id": 573,
+      "start_time": 1196.08,
+      "end_time": 1198.88,
+      "text": "Do you think Acts still says something about plan?"
+    },
+    {
+      "sentence_id": 574,
+      "start_time": 1198.88,
+      "end_time": 1199.72,
+      "text": "Yeah, I do."
+    },
+    {
+      "sentence_id": 575,
+      "start_time": 1199.72,
+      "end_time": 1202.36,
+      "text": "So Harry, my son who's born in Sheffield,"
+    },
+    {
+      "sentence_id": 576,
+      "start_time": 1202.36,
+      "end_time": 1204.28,
+      "text": "a Yorkshireman, he's got short A's,"
+    },
+    {
+      "sentence_id": 577,
+      "start_time": 1205.12,
+      "end_time": 1208.16,
+      "text": "but he talks well, like you do, in inverting."
+    },
+    {
+      "sentence_id": 578,
+      "start_time": 1208.16,
+      "end_time": 1210.56,
+      "text": "We say well, so there's a judgment in there, isn't there?"
+    },
+    {
+      "sentence_id": 579,
+      "start_time": 1210.56,
+      "end_time": 1213.32,
+      "text": "It tells you that language is related to plan."
+    },
+    {
+      "sentence_id": 580,
+      "start_time": 1213.32,
+      "end_time": 1216.4,
+      "text": "However, his friends who've gone to boarding school"
+    },
+    {
+      "sentence_id": 581,
+      "start_time": 1216.4,
+      "end_time": 1219.32,
+      "text": "and who have got very RP accents, let's say,"
+    },
+    {
+      "sentence_id": 582,
+      "start_time": 1219.32,
+      "end_time": 1222.04,
+      "text": "some of those friends, I can't say for certain,"
+    },
+    {
+      "sentence_id": 583,
+      "start_time": 1222.04,
+      "end_time": 1223.8,
+      "text": "but one story that he's told me"
+    },
+    {
+      "sentence_id": 584,
+      "start_time": 1223.8,
+      "end_time": 1224.96,
+      "text": "is that people say to him,"
+    },
+    {
+      "sentence_id": 585,
+      "start_time": 1224.96,
+      "end_time": 1227.08,
+      "text": "your accent's really strong, Harry."
+    },
+    {
+      "sentence_id": 586,
+      "start_time": 1227.08,
+      "end_time": 1228.32,
+      "text": "And it's because of the vowel,"
+    },
+    {
+      "sentence_id": 587,
+      "start_time": 1228.32,
+      "end_time": 1229.56,
+      "text": "because of the vowel sounds."
+    },
+    {
+      "sentence_id": 588,
+      "start_time": 1229.56,
+      "end_time": 1231.64,
+      "text": "And in that is a judgment."
+    },
+    {
+      "sentence_id": 589,
+      "start_time": 1231.68,
+      "end_time": 1234.4,
+      "text": "So I think we can kid ourselves."
+    },
+    {
+      "sentence_id": 590,
+      "start_time": 1234.4,
+      "end_time": 1235.96,
+      "text": "So I think there's lots of things about class"
+    },
+    {
+      "sentence_id": 591,
+      "start_time": 1235.96,
+      "end_time": 1236.8,
+      "text": "that have changed."
+    },
+    {
+      "sentence_id": 592,
+      "start_time": 1236.8,
+      "end_time": 1238.4,
+      "text": "So education's become more available"
+    },
+    {
+      "sentence_id": 593,
+      "start_time": 1238.4,
+      "end_time": 1239.96,
+      "text": "irrespective of your class."
+    },
+    {
+      "sentence_id": 594,
+      "start_time": 1239.96,
+      "end_time": 1241.48,
+      "text": "Jobs have become more available."
+    },
+    {
+      "sentence_id": 595,
+      "start_time": 1241.48,
+      "end_time": 1244.04,
+      "text": "We see more representation from different classes"
+    },
+    {
+      "sentence_id": 596,
+      "start_time": 1244.04,
+      "end_time": 1246.0,
+      "text": "on TV and on the radio."
+    },
+    {
+      "sentence_id": 597,
+      "start_time": 1246.0,
+      "end_time": 1249.24,
+      "text": "Nonetheless, people are still often interested"
+    },
+    {
+      "sentence_id": 598,
+      "start_time": 1249.24,
+      "end_time": 1250.44,
+      "text": "in your background."
+    },
+    {
+      "sentence_id": 599,
+      "start_time": 1250.44,
+      "end_time": 1252.64,
+      "text": "And voice is one of the quickest ways"
+    },
+    {
+      "sentence_id": 600,
+      "start_time": 1252.64,
+      "end_time": 1254.36,
+      "text": "that you start to get a sense of it."
+    },
+    {
+      "sentence_id": 601,
+      "start_time": 1254.36,
+      "end_time": 1256.8,
+      "text": "Yeah, it's interesting because I don't think"
+    },
+    {
+      "sentence_id": 602,
+      "start_time": 1256.8,
+      "end_time": 1258.76,
+      "text": "I can ever say far-off."
+    },
+    {
+      "sentence_id": 603,
+      "start_time": 1258.76,
+      "end_time": 1260.4,
+      "text": "It has to be bad."
+    },
+    {
+      "sentence_id": 604,
+      "start_time": 1260.4,
+      "end_time": 1262.04,
+      "text": "I can't change it and I never will."
+    },
+    {
+      "sentence_id": 605,
+      "start_time": 1262.04,
+      "end_time": 1263.2,
+      "text": "You shouldn't have to."
+    },
+    {
+      "sentence_id": 606,
+      "start_time": 1263.2,
+      "end_time": 1265.04,
+      "text": "But my you, so like,"
+    },
+    {
+      "sentence_id": 607,
+      "start_time": 1265.04,
+      "end_time": 1268.24,
+      "text": "I started saying cup rather than cook."
+    },
+    {
+      "sentence_id": 608,
+      "start_time": 1268.24,
+      "end_time": 1269.44,
+      "text": "I haven't started at that."
+    },
+    {
+      "sentence_id": 609,
+      "start_time": 1269.44,
+      "end_time": 1271.0,
+      "text": "I mean, that started a long time."
+    },
+    {
+      "sentence_id": 610,
+      "start_time": 1271.0,
+      "end_time": 1273.76,
+      "text": "That did change in my accent, I noticed."
+    },
+    {
+      "sentence_id": 611,
+      "start_time": 1273.76,
+      "end_time": 1276.64,
+      "text": "But yeah, accent definitely does say something."
+    },
+    {
+      "sentence_id": 612,
+      "start_time": 1276.64,
+      "end_time": 1277.6,
+      "text": "Do you like that?"
+    },
+    {
+      "sentence_id": 613,
+      "start_time": 1277.6,
+      "end_time": 1280.0,
+      "text": "I think if it was free of judgment"
+    },
+    {
+      "sentence_id": 614,
+      "start_time": 1280.0,
+      "end_time": 1282.28,
+      "text": "and kind of assumptions about,"
+    },
+    {
+      "sentence_id": 615,
+      "start_time": 1282.28,
+      "end_time": 1284.4,
+      "text": "it's where people go to next,"
+    },
+    {
+      "sentence_id": 616,
+      "start_time": 1284.4,
+      "end_time": 1286.72,
+      "text": "you talk like this, therefore, dot, dot, dot,"
+    },
+    {
+      "sentence_id": 617,
+      "start_time": 1286.72,
+      "end_time": 1287.56,
+      "text": "it means this."
+    },
+    {
+      "sentence_id": 618,
+      "start_time": 1287.56,
+      "end_time": 1289.64,
+      "text": "So if it was more about, wow, that's different,"
+    },
+    {
+      "sentence_id": 619,
+      "start_time": 1289.64,
+      "end_time": 1290.96,
+      "text": "that's varied, that's rich,"
+    },
+    {
+      "sentence_id": 620,
+      "start_time": 1290.96,
+      "end_time": 1292.96,
+      "text": "you know, how did you get to speak like that?"
+    },
+    {
+      "sentence_id": 621,
+      "start_time": 1292.96,
+      "end_time": 1295.16,
+      "text": "But it's not, it's kind of like there is a sense"
+    },
+    {
+      "sentence_id": 622,
+      "start_time": 1295.16,
+      "end_time": 1297.56,
+      "text": "that, you know, there's something missing"
+    },
+    {
+      "sentence_id": 623,
+      "start_time": 1297.56,
+      "end_time": 1300.24,
+      "text": "or there's a lack or there's a shortfall."
+    },
+    {
+      "sentence_id": 624,
+      "start_time": 1300.24,
+      "end_time": 1302.6,
+      "text": "So I think it's because of the next step,"
+    },
+    {
+      "sentence_id": 625,
+      "start_time": 1302.6,
+      "end_time": 1304.24,
+      "text": "the meaning that we attach to that"
+    },
+    {
+      "sentence_id": 626,
+      "start_time": 1304.24,
+      "end_time": 1305.96,
+      "text": "or that some people attach to that."
+    },
+    {
+      "sentence_id": 627,
+      "start_time": 1305.96,
+      "end_time": 1308.08,
+      "text": "I think there's less meaning attached to that."
+    },
+    {
+      "sentence_id": 628,
+      "start_time": 1308.08,
+      "end_time": 1309.64,
+      "text": "Sometimes the way that you speak,"
+    },
+    {
+      "sentence_id": 629,
+      "start_time": 1309.64,
+      "end_time": 1311.68,
+      "text": "people assume that you're not as bright"
+    },
+    {
+      "sentence_id": 630,
+      "start_time": 1311.68,
+      "end_time": 1312.8,
+      "text": "if you speak a certain way."
+    },
+    {
+      "sentence_id": 631,
+      "start_time": 1312.8,
+      "end_time": 1315.64,
+      "text": "People see that voice is another way to sort of sort."
+    },
+    {
+      "sentence_id": 632,
+      "start_time": 1315.64,
+      "end_time": 1317.12,
+      "text": "Do you sound like me or not?"
+    },
+    {
+      "sentence_id": 633,
+      "start_time": 1317.12,
+      "end_time": 1317.96,
+      "text": "You don't sound like me."
+    },
+    {
+      "sentence_id": 634,
+      "start_time": 1318.0,
+      "end_time": 1319.24,
+      "text": "It can be a conclusion that people go,"
+    },
+    {
+      "sentence_id": 635,
+      "start_time": 1319.24,
+      "end_time": 1320.4,
+      "text": "so can I trust you?"
+    },
+    {
+      "sentence_id": 636,
+      "start_time": 1320.4,
+      "end_time": 1321.44,
+      "text": "Do I like you?"
+    },
+    {
+      "sentence_id": 637,
+      "start_time": 1321.44,
+      "end_time": 1323.6,
+      "text": "All those things, it's not the voice itself,"
+    },
+    {
+      "sentence_id": 638,
+      "start_time": 1323.6,
+      "end_time": 1326.04,
+      "text": "it's what people infer from how you talk."
+    },
+    {
+      "sentence_id": 639,
+      "start_time": 1326.04,
+      "end_time": 1327.92,
+      "text": "And often those things are not good"
+    },
+    {
+      "sentence_id": 640,
+      "start_time": 1327.92,
+      "end_time": 1330.12,
+      "text": "or they are good if you talk in a certain way."
+    },
+    {
+      "sentence_id": 641,
+      "start_time": 1330.12,
+      "end_time": 1330.96,
+      "text": "She's one of us."
+    },
+    {
+      "sentence_id": 642,
+      "start_time": 1330.96,
+      "end_time": 1333.48,
+      "text": "People like our praise that we sort of talk like."
+    },
+    {
+      "sentence_id": 643,
+      "start_time": 1333.48,
+      "end_time": 1334.32,
+      "text": "Oh yeah, yeah."
+    },
+    {
+      "sentence_id": 644,
+      "start_time": 1334.32,
+      "end_time": 1335.16,
+      "text": "Is she a person?"
+    },
+    {
+      "sentence_id": 645,
+      "start_time": 1335.16,
+      "end_time": 1336.0,
+      "text": "Is she PLU?"
+    },
+    {
+      "sentence_id": 646,
+      "start_time": 1336.0,
+      "end_time": 1337.36,
+      "text": "Ha, ha, ha, ha, ha, ha."
+    },
+    {
+      "sentence_id": 647,
+      "start_time": 1337.36,
+      "end_time": 1338.2,
+      "text": "Really?"
+    },
+    {
+      "sentence_id": 648,
+      "start_time": 1338.2,
+      "end_time": 1339.04,
+      "text": "Oh, goodness me."
+    },
+    {
+      "sentence_id": 649,
+      "start_time": 1339.04,
+      "end_time": 1340.4,
+      "text": "Do you ever feel pressure sound"
+    },
+    {
+      "sentence_id": 650,
+      "start_time": 1340.4,
+      "end_time": 1342.8,
+      "text": "or a certain way in school or work?"
+    },
+    {
+      "sentence_id": 651,
+      "start_time": 1342.8,
+      "end_time": 1345.2,
+      "text": "I don't remember feeling any pressure at school."
+    },
+    {
+      "sentence_id": 652,
+      "start_time": 1345.2,
+      "end_time": 1347.4,
+      "text": "I think I just didn't, I didn't question it."
+    },
+    {
+      "sentence_id": 653,
+      "start_time": 1347.4,
+      "end_time": 1349.72,
+      "text": "I just did the classes."
+    },
+    {
+      "sentence_id": 654,
+      "start_time": 1349.72,
+      "end_time": 1351.04,
+      "text": "But I don't think I did."
+    },
+    {
+      "sentence_id": 655,
+      "start_time": 1351.04,
+      "end_time": 1353.6,
+      "text": "I was schooled by then, that's how I spoke."
+    },
+    {
+      "sentence_id": 656,
+      "start_time": 1353.6,
+      "end_time": 1356.76,
+      "text": "I mean, there's a way of talking light and professional,"
+    },
+    {
+      "sentence_id": 657,
+      "start_time": 1356.76,
+      "end_time": 1358.72,
+      "text": "isn't there, as well as the accent that you've got."
+    },
+    {
+      "sentence_id": 658,
+      "start_time": 1358.72,
+      "end_time": 1361.16,
+      "text": "So you have to kind of tune into those things"
+    },
+    {
+      "sentence_id": 659,
+      "start_time": 1361.16,
+      "end_time": 1363.8,
+      "text": "and know, you know, I worked in a theater box office"
+    },
+    {
+      "sentence_id": 660,
+      "start_time": 1363.8,
+      "end_time": 1367.44,
+      "text": "and you know, you have to give service"
+    },
+    {
+      "sentence_id": 661,
+      "start_time": 1367.44,
+      "end_time": 1368.92,
+      "text": "and work in a particular way."
+    },
+    {
+      "sentence_id": 662,
+      "start_time": 1368.92,
+      "end_time": 1371.36,
+      "text": "My sort of Saturday job to earn some pocket money."
+    },
+    {
+      "sentence_id": 663,
+      "start_time": 1371.36,
+      "end_time": 1373.64,
+      "text": "So pick those things up about this is what it means"
+    },
+    {
+      "sentence_id": 664,
+      "start_time": 1373.64,
+      "end_time": 1376.12,
+      "text": "to be in hospitality or in service to others."
+    },
+    {
+      "sentence_id": 665,
+      "start_time": 1376.12,
+      "end_time": 1378.72,
+      "text": "So you've got to behave in a certain way"
+    },
+    {
+      "sentence_id": 666,
+      "start_time": 1378.72,
+      "end_time": 1379.56,
+      "text": "in how you talk."
+    },
+    {
+      "sentence_id": 667,
+      "start_time": 1379.56,
+      "end_time": 1381.0,
+      "text": "You don't say, yeah, you want."
+    },
+    {
+      "sentence_id": 668,
+      "start_time": 1381.0,
+      "end_time": 1382.28,
+      "text": "You know, say, good evening, sir."
+    },
+    {
+      "sentence_id": 669,
+      "start_time": 1382.28,
+      "end_time": 1383.32,
+      "text": "How can I help you?"
+    },
+    {
+      "sentence_id": 670,
+      "start_time": 1383.32,
+      "end_time": 1384.36,
+      "text": "So interesting."
+    },
+    {
+      "sentence_id": 671,
+      "start_time": 1384.36,
+      "end_time": 1387.0,
+      "text": "My mom's first job was working in the market,"
+    },
+    {
+      "sentence_id": 672,
+      "start_time": 1387.0,
+      "end_time": 1387.92,
+      "text": "the vegetable market."
+    },
+    {
+      "sentence_id": 673,
+      "start_time": 1387.92,
+      "end_time": 1390.08,
+      "text": "She also had to speak in a certain way,"
+    },
+    {
+      "sentence_id": 674,
+      "start_time": 1390.08,
+      "end_time": 1392.68,
+      "text": "have good banter, and very kind of the same,"
+    },
+    {
+      "sentence_id": 675,
+      "start_time": 1392.68,
+      "end_time": 1393.52,
+      "text": "but opposite."
+    },
+    {
+      "sentence_id": 676,
+      "start_time": 1393.52,
+      "end_time": 1395.52,
+      "text": "So there were expectations of how you should speak."
+    },
+    {
+      "sentence_id": 677,
+      "start_time": 1395.52,
+      "end_time": 1398.08,
+      "text": "Like if she's trying to speak very properly."
+    },
+    {
+      "sentence_id": 678,
+      "start_time": 1398.08,
+      "end_time": 1399.08,
+      "text": "I'd have given her a wide berth."
+    },
+    {
+      "sentence_id": 679,
+      "start_time": 1399.08,
+      "end_time": 1401.36,
+      "text": "I mean, it's emotionally intelligent."
+    },
+    {
+      "sentence_id": 680,
+      "start_time": 1401.36,
+      "end_time": 1403.44,
+      "text": "You adjust your language in the same way"
+    },
+    {
+      "sentence_id": 681,
+      "start_time": 1403.44,
+      "end_time": 1404.6,
+      "text": "that you speak a different language"
+    },
+    {
+      "sentence_id": 682,
+      "start_time": 1404.6,
+      "end_time": 1405.44,
+      "text": "in a different country."
+    },
+    {
+      "sentence_id": 683,
+      "start_time": 1405.48,
+      "end_time": 1407.92,
+      "text": "I like that in environments, isn't it?"
+    },
+    {
+      "sentence_id": 684,
+      "start_time": 1407.92,
+      "end_time": 1409.72,
+      "text": "There's a certain way of vocabulary,"
+    },
+    {
+      "sentence_id": 685,
+      "start_time": 1409.72,
+      "end_time": 1412.0,
+      "text": "a dialect for different jobs, even."
+    },
+    {
+      "sentence_id": 686,
+      "start_time": 1412.0,
+      "end_time": 1414.4,
+      "text": "So it is time for the last set,"
+    },
+    {
+      "sentence_id": 687,
+      "start_time": 1414.4,
+      "end_time": 1419.08,
+      "text": "which is the reflective and what I call challenge."
+    },
+    {
+      "sentence_id": 688,
+      "start_time": 1419.08,
+      "end_time": 1421.16,
+      "text": "So take your time."
+    },
+    {
+      "sentence_id": 689,
+      "start_time": 1421.16,
+      "end_time": 1423.92,
+      "text": "Don't feel pressured to answer right away."
+    },
+    {
+      "sentence_id": 690,
+      "start_time": 1423.92,
+      "end_time": 1426.28,
+      "text": "So the first question is,"
+    },
+    {
+      "sentence_id": 691,
+      "start_time": 1426.28,
+      "end_time": 1427.8,
+      "text": "what's one thing you learned"
+    },
+    {
+      "sentence_id": 692,
+      "start_time": 1427.8,
+      "end_time": 1431.08,
+      "text": "that you wish more people understood?"
+    },
+    {
+      "sentence_id": 693,
+      "start_time": 1431.08,
+      "end_time": 1431.92,
+      "text": "Good question."
+    },
+    {
+      "sentence_id": 694,
+      "start_time": 1431.92,
+      "end_time": 1432.76,
+      "text": "I don't know."
+    },
+    {
+      "sentence_id": 695,
+      "start_time": 1432.76,
+      "end_time": 1435.28,
+      "text": "I think I'm not a very patient person."
+    },
+    {
+      "sentence_id": 696,
+      "start_time": 1436.12,
+      "end_time": 1438.16,
+      "text": "I think the importance of patience is really valuable."
+    },
+    {
+      "sentence_id": 697,
+      "start_time": 1438.16,
+      "end_time": 1440.56,
+      "text": "So giving time to others."
+    },
+    {
+      "sentence_id": 698,
+      "start_time": 1440.56,
+      "end_time": 1442.24,
+      "text": "Sticking on the roads, for example,"
+    },
+    {
+      "sentence_id": 699,
+      "start_time": 1442.24,
+      "end_time": 1443.44,
+      "text": "that kind of courtesy."
+    },
+    {
+      "sentence_id": 700,
+      "start_time": 1443.44,
+      "end_time": 1445.48,
+      "text": "But I think patience and courtesy, yeah."
+    },
+    {
+      "sentence_id": 701,
+      "start_time": 1445.48,
+      "end_time": 1448.4,
+      "text": "Patience, and there's something about in the NHS,"
+    },
+    {
+      "sentence_id": 702,
+      "start_time": 1448.4,
+      "end_time": 1449.8,
+      "text": "there's this word civility,"
+    },
+    {
+      "sentence_id": 703,
+      "start_time": 1449.8,
+      "end_time": 1451.36,
+      "text": "and there's been a lot of research"
+    },
+    {
+      "sentence_id": 704,
+      "start_time": 1451.36,
+      "end_time": 1453.16,
+      "text": "that civility saves lives,"
+    },
+    {
+      "sentence_id": 705,
+      "start_time": 1453.16,
+      "end_time": 1454.72,
+      "text": "that when you talk to each other well,"
+    },
+    {
+      "sentence_id": 706,
+      "start_time": 1454.72,
+      "end_time": 1456.48,
+      "text": "and kindly and politely,"
+    },
+    {
+      "sentence_id": 707,
+      "start_time": 1456.48,
+      "end_time": 1457.8,
+      "text": "and patience, it saves lives."
+    },
+    {
+      "sentence_id": 708,
+      "start_time": 1457.8,
+      "end_time": 1460.68,
+      "text": "I'm a big fan of kindness, politeness, and passion."
+    },
+    {
+      "sentence_id": 709,
+      "start_time": 1460.68,
+      "end_time": 1462.44,
+      "text": "Yeah, they all fit together, don't they?"
+    },
+    {
+      "sentence_id": 710,
+      "start_time": 1462.44,
+      "end_time": 1467.28,
+      "text": "Next, has your idea of happiness gained as an older?"
+    },
+    {
+      "sentence_id": 711,
+      "start_time": 1467.28,
+      "end_time": 1468.44,
+      "text": "Yeah, I think it has."
+    },
+    {
+      "sentence_id": 712,
+      "start_time": 1468.44,
+      "end_time": 1470.44,
+      "text": "I think I've been lucky"
+    },
+    {
+      "sentence_id": 713,
+      "start_time": 1470.44,
+      "end_time": 1473.04,
+      "text": "to have had a lot of good things in my life,"
+    },
+    {
+      "sentence_id": 714,
+      "start_time": 1473.04,
+      "end_time": 1475.68,
+      "text": "and experiences particularly."
+    },
+    {
+      "sentence_id": 715,
+      "start_time": 1475.68,
+      "end_time": 1477.84,
+      "text": "And I've earned reasonably well,"
+    },
+    {
+      "sentence_id": 716,
+      "start_time": 1477.84,
+      "end_time": 1480.28,
+      "text": "and I've been able to support myself"
+    },
+    {
+      "sentence_id": 717,
+      "start_time": 1480.28,
+      "end_time": 1481.96,
+      "text": "and have the things that I wanted."
+    },
+    {
+      "sentence_id": 718,
+      "start_time": 1481.96,
+      "end_time": 1483.36,
+      "text": "So I suppose in many ways,"
+    },
+    {
+      "sentence_id": 719,
+      "start_time": 1483.36,
+      "end_time": 1485.48,
+      "text": "I've been able to satisfy a lot of the things"
+    },
+    {
+      "sentence_id": 720,
+      "start_time": 1485.48,
+      "end_time": 1486.68,
+      "text": "that I might have yearned for,"
+    },
+    {
+      "sentence_id": 721,
+      "start_time": 1486.68,
+      "end_time": 1489.4,
+      "text": "and that in itself is a kind of happiness, isn't it?"
+    },
+    {
+      "sentence_id": 722,
+      "start_time": 1489.4,
+      "end_time": 1492.04,
+      "text": "But I also realise the value of simplicity"
+    },
+    {
+      "sentence_id": 723,
+      "start_time": 1492.2,
+      "end_time": 1494.08,
+      "text": "and how important that is to me,"
+    },
+    {
+      "sentence_id": 724,
+      "start_time": 1494.08,
+      "end_time": 1497.64,
+      "text": "and how, yeah, I think having time to really savour things"
+    },
+    {
+      "sentence_id": 725,
+      "start_time": 1497.64,
+      "end_time": 1500.32,
+      "text": "and take pleasure in small things really matters."
+    },
+    {
+      "sentence_id": 726,
+      "start_time": 1500.32,
+      "end_time": 1502.12,
+      "text": "Good food with friends,"
+    },
+    {
+      "sentence_id": 727,
+      "start_time": 1502.12,
+      "end_time": 1503.64,
+      "text": "done a lot of that with your family,"
+    },
+    {
+      "sentence_id": 728,
+      "start_time": 1503.64,
+      "end_time": 1505.08,
+      "text": "really important, small pleasure."
+    },
+    {
+      "sentence_id": 729,
+      "start_time": 1505.08,
+      "end_time": 1506.68,
+      "text": "Even average is great too, right?"
+    },
+    {
+      "sentence_id": 730,
+      "start_time": 1506.68,
+      "end_time": 1508.44,
+      "text": "Exactly, ordinary food."
+    },
+    {
+      "sentence_id": 731,
+      "start_time": 1508.44,
+      "end_time": 1509.68,
+      "text": "Bread and cheese and wine."
+    },
+    {
+      "sentence_id": 732,
+      "start_time": 1509.68,
+      "end_time": 1510.6,
+      "text": "Exactly."
+    },
+    {
+      "sentence_id": 733,
+      "start_time": 1510.6,
+      "end_time": 1511.44,
+      "text": "Who was it that said that?"
+    },
+    {
+      "sentence_id": 734,
+      "start_time": 1511.44,
+      "end_time": 1514.72,
+      "text": "Properties, all I need is just cheese and wine,"
+    },
+    {
+      "sentence_id": 735,
+      "start_time": 1514.72,
+      "end_time": 1516.56,
+      "text": "bread, cheese, wine, and some friends."
+    },
+    {
+      "sentence_id": 736,
+      "start_time": 1516.56,
+      "end_time": 1517.4,
+      "text": "Great."
+    },
+    {
+      "sentence_id": 737,
+      "start_time": 1517.4,
+      "end_time": 1518.64,
+      "text": "I don't know what the quotas are."
+    },
+    {
+      "sentence_id": 738,
+      "start_time": 1518.64,
+      "end_time": 1519.48,
+      "text": "I'll try and find out."
+    },
+    {
+      "sentence_id": 739,
+      "start_time": 1519.48,
+      "end_time": 1522.6,
+      "text": "The next is, if you could talk to your younger self,"
+    },
+    {
+      "sentence_id": 740,
+      "start_time": 1522.6,
+      "end_time": 1523.44,
+      "text": "what would-"
+    },
+    {
+      "sentence_id": 741,
+      "start_time": 1523.44,
+      "end_time": 1524.8,
+      "text": "Trust your instincts more."
+    },
+    {
+      "sentence_id": 742,
+      "start_time": 1524.8,
+      "end_time": 1525.64,
+      "text": "Trust your-"
+    },
+    {
+      "sentence_id": 743,
+      "start_time": 1525.64,
+      "end_time": 1527.04,
+      "text": "Would you like to elaborate?"
+    },
+    {
+      "sentence_id": 744,
+      "start_time": 1527.04,
+      "end_time": 1529.72,
+      "text": "Yeah, I think there are times when you have a sense"
+    },
+    {
+      "sentence_id": 745,
+      "start_time": 1529.72,
+      "end_time": 1531.8,
+      "text": "that something is right for you,"
+    },
+    {
+      "sentence_id": 746,
+      "start_time": 1531.8,
+      "end_time": 1533.24,
+      "text": "and I think there have been times"
+    },
+    {
+      "sentence_id": 747,
+      "start_time": 1533.24,
+      "end_time": 1534.36,
+      "text": "when I've really acted on that,"
+    },
+    {
+      "sentence_id": 748,
+      "start_time": 1534.36,
+      "end_time": 1536.76,
+      "text": "even when I was younger, saying no to something."
+    },
+    {
+      "sentence_id": 749,
+      "start_time": 1536.76,
+      "end_time": 1538.2,
+      "text": "I didn't know why I was saying no to it,"
+    },
+    {
+      "sentence_id": 750,
+      "start_time": 1538.2,
+      "end_time": 1539.8,
+      "text": "but I think it was a good no."
+    },
+    {
+      "sentence_id": 751,
+      "start_time": 1539.8,
+      "end_time": 1543.52,
+      "text": "Equally, I think if you have a concern about something"
+    },
+    {
+      "sentence_id": 752,
+      "start_time": 1543.52,
+      "end_time": 1545.88,
+      "text": "that you brush aside, that keeps reappearing,"
+    },
+    {
+      "sentence_id": 753,
+      "start_time": 1545.88,
+      "end_time": 1547.48,
+      "text": "then your instinct is telling you something,"
+    },
+    {
+      "sentence_id": 754,
+      "start_time": 1547.48,
+      "end_time": 1548.32,
+      "text": "and I've done that."
+    },
+    {
+      "sentence_id": 755,
+      "start_time": 1548.56,
+      "end_time": 1549.48,
+      "text": "I mean, I wish I hadn't."
+    },
+    {
+      "sentence_id": 756,
+      "start_time": 1549.48,
+      "end_time": 1551.28,
+      "text": "I did it, that was how it was,"
+    },
+    {
+      "sentence_id": 757,
+      "start_time": 1551.28,
+      "end_time": 1553.28,
+      "text": "and I think I could have done something sooner."
+    },
+    {
+      "sentence_id": 758,
+      "start_time": 1553.28,
+      "end_time": 1554.96,
+      "text": "My instinct was telling me sooner"
+    },
+    {
+      "sentence_id": 759,
+      "start_time": 1554.96,
+      "end_time": 1555.8,
+      "text": "to wake up and do it."
+    },
+    {
+      "sentence_id": 760,
+      "start_time": 1555.8,
+      "end_time": 1558.16,
+      "text": "Trust your instincts, and I like the bit,"
+    },
+    {
+      "sentence_id": 761,
+      "start_time": 1558.16,
+      "end_time": 1559.48,
+      "text": "but learn to say no."
+    },
+    {
+      "sentence_id": 762,
+      "start_time": 1559.48,
+      "end_time": 1561.04,
+      "text": "Being able to say no,"
+    },
+    {
+      "sentence_id": 763,
+      "start_time": 1561.04,
+      "end_time": 1562.4,
+      "text": "for some people, is very difficult."
+    },
+    {
+      "sentence_id": 764,
+      "start_time": 1562.4,
+      "end_time": 1563.24,
+      "text": "It is difficult."
+    },
+    {
+      "sentence_id": 765,
+      "start_time": 1563.24,
+      "end_time": 1564.4,
+      "text": "Kind of a fun one."
+    },
+    {
+      "sentence_id": 766,
+      "start_time": 1564.4,
+      "end_time": 1566.36,
+      "text": "If you could keep one book,"
+    },
+    {
+      "sentence_id": 767,
+      "start_time": 1566.36,
+      "end_time": 1568.0,
+      "text": "what would it be, and why?"
+    },
+    {
+      "sentence_id": 768,
+      "start_time": 1568.0,
+      "end_time": 1568.84,
+      "text": "Oh, gosh."
+    },
+    {
+      "sentence_id": 769,
+      "start_time": 1568.84,
+      "end_time": 1570.64,
+      "text": "If you could only keep one book, how about that?"
+    },
+    {
+      "sentence_id": 770,
+      "start_time": 1570.64,
+      "end_time": 1571.84,
+      "text": "Only keep one book."
+    },
+    {
+      "sentence_id": 771,
+      "start_time": 1571.84,
+      "end_time": 1573.32,
+      "text": "If I could only keep one book, I don't know."
+    },
+    {
+      "sentence_id": 772,
+      "start_time": 1573.32,
+      "end_time": 1575.36,
+      "text": "I mean, I don't know if it would be this one."
+    },
+    {
+      "sentence_id": 773,
+      "start_time": 1575.36,
+      "end_time": 1576.56,
+      "text": "I'd have to look on my bookshelf,"
+    },
+    {
+      "sentence_id": 774,
+      "start_time": 1576.56,
+      "end_time": 1577.76,
+      "text": "and I've got rid of loads of books."
+    },
+    {
+      "sentence_id": 775,
+      "start_time": 1577.76,
+      "end_time": 1579.48,
+      "text": "It'd probably be a Jane Austen novel."
+    },
+    {
+      "sentence_id": 776,
+      "start_time": 1579.48,
+      "end_time": 1580.92,
+      "text": "It might be Pride and Prejudice,"
+    },
+    {
+      "sentence_id": 777,
+      "start_time": 1580.92,
+      "end_time": 1582.04,
+      "text": "which is quite funny,"
+    },
+    {
+      "sentence_id": 778,
+      "start_time": 1582.04,
+      "end_time": 1583.92,
+      "text": "and it might be Persuasion,"
+    },
+    {
+      "sentence_id": 779,
+      "start_time": 1583.92,
+      "end_time": 1585.96,
+      "text": "which has got a bit more sadness in it,"
+    },
+    {
+      "sentence_id": 780,
+      "start_time": 1585.96,
+      "end_time": 1588.04,
+      "text": "but it's also a happy ending."
+    },
+    {
+      "sentence_id": 781,
+      "start_time": 1588.04,
+      "end_time": 1591.92,
+      "text": "And the last question of this entire part,"
+    },
+    {
+      "sentence_id": 782,
+      "start_time": 1591.92,
+      "end_time": 1595.4,
+      "text": "a very important one, is what does good life mean?"
+    },
+    {
+      "sentence_id": 783,
+      "start_time": 1595.4,
+      "end_time": 1597.2,
+      "text": "Well, it's sort of a bit like whatever it was,"
+    },
+    {
+      "sentence_id": 784,
+      "start_time": 1597.2,
+      "end_time": 1599.0,
+      "text": "whoever it was, if it was Socrates."
+    },
+    {
+      "sentence_id": 785,
+      "start_time": 1599.0,
+      "end_time": 1600.8,
+      "text": "So I think a good life, for me,"
+    },
+    {
+      "sentence_id": 786,
+      "start_time": 1600.8,
+      "end_time": 1602.32,
+      "text": "means being healthy,"
+    },
+    {
+      "sentence_id": 787,
+      "start_time": 1602.32,
+      "end_time": 1604.96,
+      "text": "and doing things with people you love,"
+    },
+    {
+      "sentence_id": 788,
+      "start_time": 1604.96,
+      "end_time": 1606.04,
+      "text": "and eating you love,"
+    },
+    {
+      "sentence_id": 789,
+      "start_time": 1606.04,
+      "end_time": 1608.24,
+      "text": "and treating your family."
+    },
+    {
+      "sentence_id": 790,
+      "start_time": 1608.24,
+      "end_time": 1609.56,
+      "text": "Staying connected to my family."
+    },
+    {
+      "sentence_id": 791,
+      "start_time": 1609.56,
+      "end_time": 1611.24,
+      "text": "I mean, I haven't talked a lot about my family,"
+    },
+    {
+      "sentence_id": 792,
+      "start_time": 1611.24,
+      "end_time": 1612.52,
+      "text": "but Harry, my immediate family,"
+    },
+    {
+      "sentence_id": 793,
+      "start_time": 1612.52,
+      "end_time": 1613.88,
+      "text": "my extended family in London,"
+    },
+    {
+      "sentence_id": 794,
+      "start_time": 1613.88,
+      "end_time": 1614.96,
+      "text": "very, very important to me."
+    },
+    {
+      "sentence_id": 795,
+      "start_time": 1614.96,
+      "end_time": 1616.84,
+      "text": "Family and friends is a good life."
+    },
+    {
+      "sentence_id": 796,
+      "start_time": 1616.84,
+      "end_time": 1618.72,
+      "text": "Having family and friends and connection,"
+    },
+    {
+      "sentence_id": 797,
+      "start_time": 1618.72,
+      "end_time": 1621.4,
+      "text": "and creativity, and nice food and drinks."
+    },
+    {
+      "sentence_id": 798,
+      "start_time": 1621.4,
+      "end_time": 1622.24,
+      "text": "Absolutely."
+    },
+    {
+      "sentence_id": 799,
+      "start_time": 1622.24,
+      "end_time": 1623.28,
+      "text": "Carol, it's been a pleasure."
+    },
+    {
+      "sentence_id": 800,
+      "start_time": 1623.28,
+      "end_time": 1624.6,
+      "text": "Thank you so much for doing this."
+    },
+    {
+      "sentence_id": 801,
+      "start_time": 1624.6,
+      "end_time": 1625.52,
+      "text": "You're still here."
+    },
+    {
+      "sentence_id": 802,
+      "start_time": 1625.52,
+      "end_time": 1627.2,
+      "text": "Thank you so much for watching."
+    },
+    {
+      "sentence_id": 803,
+      "start_time": 1627.2,
+      "end_time": 1628.12,
+      "text": "Thank you."
+    },
+    {
+      "sentence_id": 804,
+      "start_time": 1628.12,
+      "end_time": 1630.72,
+      "text": "Remember to get the PDF comments"
+    },
+    {
+      "sentence_id": 805,
+      "start_time": 1630.72,
+      "end_time": 1632.84,
+      "text": "so you can follow this podcast."
+    },
+    {
+      "sentence_id": 806,
+      "start_time": 1632.84,
+      "end_time": 1634.88,
+      "text": "It will really help your language."
+    },
+    {
+      "sentence_id": 807,
+      "start_time": 1634.88,
+      "end_time": 1636.32,
+      "text": "So thanks a lot, everyone."
+    },
+    {
+      "sentence_id": 808,
+      "start_time": 1636.32,
+      "end_time": 1637.16,
+      "text": "Bye-bye."
+    },
+    {
+      "sentence_id": 809,
+      "start_time": 1637.16,
+      "end_time": 1638.0,
+      "text": "Thank you everybody."
+    }
+  ]
+}

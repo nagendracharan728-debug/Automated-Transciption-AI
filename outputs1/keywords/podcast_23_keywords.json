@@ -1,0 +1,156 @@
+[
+  {
+    "start_time": 0.0,
+    "end_time": 66.08,
+    "keywords": [
+      "mother",
+      "parents",
+      "mom",
+      "family",
+      "father"
+    ]
+  },
+  {
+    "start_time": 66.08,
+    "end_time": 75.82,
+    "keywords": [
+      "advantages",
+      "neighborhood",
+      "adults",
+      "money",
+      "live"
+    ]
+  },
+  {
+    "start_time": 75.82,
+    "end_time": 167.04,
+    "keywords": [
+      "education",
+      "careers",
+      "school",
+      "life",
+      "learn"
+    ]
+  },
+  {
+    "start_time": 167.04,
+    "end_time": 196.72,
+    "keywords": [
+      "quitting",
+      "quit",
+      "cutting",
+      "school",
+      "cut"
+    ]
+  },
+  {
+    "start_time": 196.72,
+    "end_time": 230.08,
+    "keywords": [
+      "education",
+      "extracurricular",
+      "destiny",
+      "write",
+      "goals"
+    ]
+  },
+  {
+    "start_time": 230.08,
+    "end_time": 262.88,
+    "keywords": [
+      "succeed",
+      "commit",
+      "work",
+      "success",
+      "homework"
+    ]
+  },
+  {
+    "start_time": 262.88,
+    "end_time": 278.32,
+    "keywords": [
+      "potter",
+      "jordan",
+      "published",
+      "harry",
+      "wrote"
+    ]
+  },
+  {
+    "start_time": 278.32,
+    "end_time": 307.04,
+    "keywords": [
+      "succeed",
+      "troublemaker",
+      "failures",
+      "failed",
+      "succeeded"
+    ]
+  },
+  {
+    "start_time": 307.04,
+    "end_time": 315.6,
+    "keywords": [
+      "sing",
+      "practice",
+      "athlete",
+      "sport",
+      "play"
+    ]
+  },
+  {
+    "start_time": 315.6,
+    "end_time": 335.92,
+    "keywords": [
+      "math",
+      "learn",
+      "weakness",
+      "strength",
+      "pay"
+    ]
+  },
+  {
+    "start_time": 335.92,
+    "end_time": 342.56,
+    "keywords": [
+      "grandparent",
+      "counselor",
+      "coach",
+      "goal",
+      "adult"
+    ]
+  },
+  {
+    "start_time": 342.56,
+    "end_time": 381.12,
+    "keywords": [
+      "depression",
+      "discouraged",
+      "quit",
+      "revolution",
+      "america"
+    ]
+  },
+  {
+    "start_time": 381.12,
+    "end_time": 386.24,
+    "keywords": [
+      "families",
+      "saying",
+      "100",
+      "50",
+      "years"
+    ]
+  },
+  {
+    "start_time": 386.24,
+    "end_time": 407.6,
+    "keywords": [
+      "classrooms",
+      "teachers",
+      "education",
+      "proud",
+      "expect"
+    ]
+  }
+]

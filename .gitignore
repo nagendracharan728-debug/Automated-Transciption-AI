@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+env/
+.env
+# AI/ML models
+*.pt
+*.bin
+*.h5
+models/
+
+# Audio files
+*.wav
+*.mp3
+
+# Cache
+.cache/
+*.pkl

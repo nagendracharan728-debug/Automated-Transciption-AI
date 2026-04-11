@@ -1,0 +1,51 @@
+[
+  {
+    "episode": "podcast_01",
+    "mean_similarity": 0.2594753996022093,
+    "std_similarity": 0.0772647714579539,
+    "min_similarity": 0.06902460530400276,
+    "max_similarity": 0.5129801750183106
+  },
+  {
+    "episode": "podcast_08",
+    "mean_similarity": 0.30017924487333875,
+    "std_similarity": 0.08797343898047828,
+    "min_similarity": 0.10105805397033692,
+    "max_similarity": 0.5815922021865845
+  },
+  {
+    "episode": "podcast_20",
+    "mean_similarity": 0.25750158546016794,
+    "std_similarity": 0.07688968396331364,
+    "min_similarity": 0.07904559783637524,
+    "max_similarity": 0.5695540189743042
+  },
+  {
+    "episode": "podcast_21",
+    "mean_similarity": 0.26365359628576707,
+    "std_similarity": 0.09054932610584078,
+    "min_similarity": 0.02745884470641613,
+    "max_similarity": 0.6149190485477448
+  },
+  {
+    "episode": "podcast_22",
+    "mean_similarity": 0.268064005013602,
+    "std_similarity": 0.13979494170303983,
+    "min_similarity": 0.08395883738994599,
+    "max_similarity": 1.0000001192092896
+  },
+  {
+    "episode": "podcast_23",
+    "mean_similarity": 0.27076101053765494,
+    "std_similarity": 0.08083349302518093,
+    "min_similarity": 0.12370746284723283,
+    "max_similarity": 0.45202676951885223
+  },
+  {
+    "episode": "podcast_9",
+    "mean_similarity": 0.21597064686052153,
+    "std_similarity": 0.06648573004760623,
+    "min_similarity": 0.09160941317677498,
+    "max_similarity": 0.3904133796691895
+  }
+]

@@ -1,0 +1,140 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="live-container">
+  <h1>🎙 Real-Time Audio Transcription</h1>
+
+  <input type="file" id="audio-file" accept="audio/*">
+
+  <!-- Upload Status -->
+  <p id="upload-status" style="color:yellow;"></p>
+
+  <!-- ✅ AUDIO PLAYER -->
+  <audio id="audio-player" controls style="width:100%; margin-top:10px;"></audio>
+
+  <div>
+    <button id="play-btn">Play</button>
+    <button id="pause-btn">Pause</button>
+    <button id="stop-btn">Stop</button>
+  </div>
+
+  <div id="waveform"></div>
+
+  <h3>Live Captions:</h3>
+  <div id="captions" style="background:black;color:white;padding:10px;height:120px;overflow-y:auto;"></div>
+</div>
+
+<!-- ✅ Socket -->
+<script src="https://cdn.socket.io/4.0.1/socket.io.min.js"></script>
+<script src="https://unpkg.com/wavesurfer.js"></script>
+
+<script>
+const socket = io();
+
+let wavesurfer = WaveSurfer.create({
+    container: '#waveform',
+    height: 100
+});
+
+let audioPlayer = document.getElementById("audio-player");
+
+let captions = [];
+let audioFileName = null;
+let isUploaded = false;
+let isTranscriptionStarted = false;
+
+// ---------------- UPLOAD ----------------
+document.getElementById("audio-file").addEventListener("change", function () {
+    let file = this.files[0];
+    if (!file) return;
+
+    let formData = new FormData();
+    formData.append("podcast", file);
+
+    let xhr = new XMLHttpRequest();
+
+    xhr.upload.onprogress = function (e) {
+        if (e.lengthComputable) {
+            let percent = Math.round((e.loaded / e.total) * 100);
+            document.getElementById("upload-status").innerText =
+                "Uploading: " + percent + "%";
+        }
+    };
+
+    xhr.onload = function () {
+        let res = JSON.parse(xhr.responseText);
+
+        if (res.filename) {
+    audioFileName = res.filename;
+    isUploaded = true;
+
+    captions = res.captions;   // 🔥 VERY IMPORTANT LINE
+
+    let url = URL.createObjectURL(file);
+
+    audioPlayer.src = url;
+    wavesurfer.load(url);
+
+    document.getElementById("upload-status").innerText =
+        "✅ Upload + captions ready. Click Play.";
+} else {
+            alert("❌ Upload failed");
+        }
+    };
+
+    xhr.onerror = function () {
+        alert("❌ Upload error");
+    };
+
+    xhr.open("POST", "/upload_audio");
+    xhr.send(formData);
+});
+
+// ---------------- PLAY ----------------
+document.getElementById("play-btn").onclick = () => {
+
+    if (!isUploaded) {
+        alert("⚠️ Upload audio first!");
+        return;
+    }
+
+    audioPlayer.play();
+    wavesurfer.play();
+};
+
+// ---------------- PAUSE ----------------
+document.getElementById("pause-btn").onclick = () => {
+    audioPlayer.pause();
+    wavesurfer.pause();
+};
+
+// ---------------- STOP ----------------
+document.getElementById("stop-btn").onclick = () => {
+    audioPlayer.pause();
+    audioPlayer.currentTime = 0;
+
+    wavesurfer.stop();
+
+    document.getElementById("captions").innerText = "";
+};
+
+// ---------------- RECEIVE CAPTIONS ----------------
+
+
+// ---------------- SYNC CAPTIONS ----------------
+audioPlayer.ontimeupdate = () => {
+
+    let currentTime = audioPlayer.currentTime;
+
+    let current = captions.find(
+        c => currentTime >= c.start && currentTime <= c.end
+    );
+
+    if (current) {
+        document.getElementById("captions").innerText = current.text;
+    }
+};
+
+</script>
+
+{% endblock %}

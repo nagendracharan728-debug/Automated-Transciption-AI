@@ -1,0 +1,1043 @@
+{
+  "episode_id": "podcast_9",
+  "all_configurations": [
+    {
+      "block_size": 3,
+      "k_value": 0.8,
+      "number_of_segments": 15,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 40.8,
+          "text": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. I don't want you to fail and I know you don't want to fail either. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Reason number five. Your podcast is too broad. Podcasts are too broad, which means it covers a wide range of topics generally speaking not succeed. Now there are exceptions, of course, and if you started in the early days, well, you could podcast really about anything and do well because you were first to market. But today, imagine starting a fitness podcast and competing against all the existing fitness podcasts around. Well, your audio is just going to get there in order to succeed today as a brand new podcaster. You need to start small.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasts",
+            "podcasters",
+            "podcaster",
+            "audio"
+          ],
+          "summary": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 40.8,
+          "end_time": 48.28,
+          "text": "Now, it might sound counterintuitive because by niching down, you're leaving people out, leaving people out. You could show up more fully those who your podcast is meant for.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "niching",
+            "leaving",
+            "counterintuitive",
+            "sound"
+          ],
+          "summary": "Now, it might sound counterintuitive because by niching down"
+        },
+        {
+          "segment_id": 3,
+          "start_time": 48.28,
+          "end_time": 88.32,
+          "text": "Case in point, what are my students actually? His name is Phil Lichenberger. He started a podcast called Scanner School and this is about those radio scanners where he's for emergency lines or whatever, a very specific niche within the electronic space. Well, within six months, he was able to build a raving fan base. Even after 24 episodes here, he sent this message in one of our Facebook groups. He said, I just had to come here. It's funny feeling to realize that you've created super fans, listeners who follow me on Facebook, Twitter, now YouTube. They come on air contests are there for almost every Facebook live. He'll be fine for six months already. He's getting those things. Really cool is because Phil is establishing a name for himself in a particular area. Many company that wants to be in front of that audience knows that he is the guy I go to.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "students",
+            "radio",
+            "podcast",
+            "listeners",
+            "audience"
+          ],
+          "summary": "Case in point, what are my students actually? His name is Phil Lichenberger. He started a podcast called Scanner School. Within six months, he was able to build a raving fan base. Even after 24 episodes here, he sent this message in one of our Facebook groups."
+        },
+        {
+          "segment_id": 4,
+          "start_time": 88.32,
+          "end_time": 93.72,
+          "text": "In overtime, if you wanted to, you can then expand with the base of the audience that you've already built. Start to broad.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "overtime",
+            "audience",
+            "expand",
+            "broad",
+            "base"
+          ],
+          "summary": "In overtime, if you wanted to, you can then expand"
+        },
+        {
+          "segment_id": 5,
+          "start_time": 93.72,
+          "end_time": 128.72,
+          "text": "Tusu will have a very good, the truth is some of those episodes that you create may hit. Now imagine if all your episodes were about that particular topic, that hit, how much of a name you could make for yourself in that space, and how much more quickly you could build loyal fans, connect with companies, and build a business. Riches are the niches. Next reason, number four. You compare yourself to other, and the comparison game is very, very dangerous. It's totally cool and actually encouraged to look at others for inspiration and motivation. However, if you look at them and say, oh, why not me, or well, they started much later than me and they're already doing better. They have more subscribers, they have more emails, they have more follow whatever the",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "tusu",
+            "subscribers",
+            "riches",
+            "episodes",
+            "inspiration"
+          ],
+          "summary": "Tusu will have a very good, the truth is some of those episodes that you create may hit. Now imagine if all your episodes were about that particular topic, that hit, how much of a name you could make for yourself. Riches are the niches."
+        },
+        {
+          "segment_id": 6,
+          "start_time": 128.72,
+          "end_time": 179.52,
+          "text": "case may be. Doesn't nothing posit. It is so common to see podcasters give up because they see another podcaster who they feel is doing better. And so they think, well, why should I even be here in the first place? The comparison game that you need to play with yourself is podcaster is you versus you, yes, you versus how you and your show were last week. You versus how you and your show were last month or last year. That is how you can make the improvements. That is how you can motivate yourself and gamify the situation. One common comparison newbie podcasters make often is, oh, there's somebody else already in that space. And I'm starting from scratch, I have no business, no context, no following, no emails, no nothing. How am I going to succeed? Well, you actually have a huge advantage. That you can actually craft the experience beginning. The fact that you can actually tailor messages and specificodes to a pitiful, and you can fill in the gaps that everybody else has sort of missed within the space. And finally, you can come up better or different, make some noise. For example, take Sophie Walker, she's another one of my students.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcaster",
+            "podcasters",
+            "motivate",
+            "beginning",
+            "succeed"
+          ],
+          "summary": "The comparison game that you need to play with yourself is podcaster is you versus you. You versus how you and your show were last month or last year. That is how you can motivate yourself and gamify the situation. For example, take Sophie Walker, she's another one of my students."
+        },
+        {
+          "segment_id": 7,
+          "start_time": 179.52,
+          "end_time": 220.6,
+          "text": "She started a podcast interviewing moms who were pregnant or had just given birth, help other moms. Not her mom. Well, check this out here. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000 and not only that over time. She had the number one podcast in Australia and the kids and family section and she continues to blow us away with her numbers. What's really cool now in Australia is that a lot of organizations use her podcast or continuation credits, super, super inspirational. And if you want to listen to a full interview that I did with Sophie in her journey and how she got started, I'll link to it in the discreet reason, number three, you don't market yourself or your podcast, you believe that it built it, you will come. It's actually he will come.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "sophie",
+            "interviewing",
+            "interview",
+            "mom"
+          ],
+          "summary": "She started a podcast interviewing moms who were pregnant or had just given birth, help other moms. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000."
+        },
+        {
+          "segment_id": 8,
+          "start_time": 220.6,
+          "end_time": 224.56,
+          "text": "Not they will look it up. I promise you. It's a mandelo effect thing and it's driving me nuts, but it's not there.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "effect",
+            "mandelo",
+            "thing",
+            "look",
+            "promise"
+          ],
+          "summary": "Not they will look it up. It's a mandelo"
+        },
+        {
+          "segment_id": 9,
+          "start_time": 224.56,
+          "end_time": 240.44,
+          "text": "But that's what we think. That's what many podcasts are. And you can't do that. Just having the podcast alone. Not going to build. However, you can fast forward your podcast growth by doing a few things that I've based on. One of my earlier tips, if you niche down a bit, you will actually spread faster because people like to hang us like that to show for somebody they're going to share too.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasts",
+            "niche",
+            "growth",
+            "spread"
+          ],
+          "summary": "But that's what we think. That's what many podcasts are. And you can't do that. Just having the podcast alone. Not going to build. However"
+        },
+        {
+          "segment_id": 10,
+          "start_time": 240.44,
+          "end_time": 283.4,
+          "text": "Get very clear with your messaging. When your mission, your beliefs, your message is clear, your ideas, much easier for other people. Connect with them and really them to others. Number three, actively go out there and start building relationships. Not just try to find a list, just to come on your podcast, but try to be friend, other people who have podcasts or other blog. Number four, the best thing you can do with relation to that is be a guest on another podcast. Not only are people hearing your voice, but you're getting endorsed from the other hosts are already very easy to subscribe to your podcast. And number five, when it comes to market, great stuff that's worth talking, right? All right. Reason number two, you haven't defined what a successful podcast really means. A lot of people who start podcasting just because other people do that and you don't have something to measure. Tell whether or not it's actually working or not, continue to do something in your consistent like you should be.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasting",
+            "podcast",
+            "podcasts",
+            "blog",
+            "subscribe"
+          ],
+          "summary": "Get very clear with your messaging. When your mission, your beliefs, your message is clear, your ideas, much easier for other people. Connect with them and really them to others. Number four, the best thing you can do with relation to that is be a guest on another podcast."
+        },
+        {
+          "segment_id": 11,
+          "start_time": 283.4,
+          "end_time": 292.52,
+          "text": "Well, the truth is, eventually you're going to get to the point where you're just going to go, well, why am I, when you can define your why success becomes a lot easier to grasp? Maybe it's a certain dollar amount that you want to make after time.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "success",
+            "dollar",
+            "grasp",
+            "going",
+            "easier"
+          ],
+          "summary": "When you can define your why success becomes a lot easier to grasp. Maybe it's a certain dollar amount"
+        },
+        {
+          "segment_id": 12,
+          "start_time": 292.52,
+          "end_time": 399.94,
+          "text": "Or better yet, it's a certain number of lives you want to change. The biggest thing related to this is to remember that every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. Pretty good opportunity to be able to share your message to connect, build some customers in relationships, actual, actual success stories from what it is that you must first define what success with podcasting means to you. Then you give yourself a certain number of months or years to make that have a show up. You show up consistently. You don't show up consistently, whether that's weekly or every other week like I did when I first started. There's no chance for a person to really gravitate toward your show and have their life. Therefore, have you become a part of their lives? Podcast listener or habitual listening audience. You become a part of their daily life. Unless you're consistently showing, you're going to insert somebody else into that playlist because you're not showing out there. When you can remember your watch, showing up, there's a lot easier, your reasons to do so become a lot. The number one reason why podcasters face is because they give up for the uptick begins. So many people seem to just quit before inflection points happen. Imagine all the people of quit who, if they've only went a couple of months, would have gotten that, hockey stick curve, they've been licking for this whole massive number of subscribers to their email list and potential business, but no to them, the macro level when it comes to podcasting. Yes, you do have to be a bit patient. The micro, a lot of these things that we talked about to market yourself, to stay consistent, to give yourself the best chance to get to that point where that uptick can occur. Give it time. In this world now, we all want results. Right away. This is why most of these podcasters quit and fail. But when you show up and you're consistent, you also figure out what you can do to market your so many doors open up, so many opportunities that you can't even imagine it can be life to review and your listeners. And so, again, if you've just started your show or you're about to, you took part in a picture pod earlier this year, or you're starting your podcast because you found me on YouTube. Your friend told you about it, whatever the reason is.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasting",
+            "podcast",
+            "podcasters",
+            "listeners",
+            "listening"
+          ],
+          "summary": "Every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. Give it time. In this world now, we all want results. Right away. This is why most of these podcasters quit and fail. But when you show up and you're consistent, you also figure out what you can do to market your so many doors open up, so many opportunities that you can't even imagine it can be life to review and your listeners."
+        },
+        {
+          "segment_id": 13,
+          "start_time": 399.94,
+          "end_time": 405.1,
+          "text": "Don't let any of these five reasons are people out there in this world who are ready to listen to you. Of course, I'm here and I'm ready.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "listen",
+            "reasons",
+            "ready",
+            "course",
+            "world"
+          ],
+          "summary": "Don't let any of these five reasons are people out there"
+        },
+        {
+          "segment_id": 14,
+          "start_time": 405.1,
+          "end_time": 419.06,
+          "text": "Some information below in the description to help you run excited because it's not just about putting your podcast up, it's about getting found too, which is what I do. It's the marketing side of it. That's why. Marketing and the content and whatever you say on the mic doesn't matter if you're just going to let any of these things don't let them stop.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "mic",
+            "marketing",
+            "excited",
+            "stop"
+          ],
+          "summary": "Some information below in the description to help you run excited because it's not just about putting your podcast up, it's about getting found too."
+        },
+        {
+          "segment_id": 15,
+          "start_time": 419.06,
+          "end_time": 423.66,
+          "text": "Click on this video right here. This is what YouTube is telling you is the next video you should watch. Yeah, thanks.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "video",
+            "youtube",
+            "watch",
+            "thanks",
+            "click"
+          ],
+          "summary": "Click on the video right here. This is what YouTube is"
+        }
+      ]
+    },
+    {
+      "block_size": 3,
+      "k_value": 1.0,
+      "number_of_segments": 12,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 40.8,
+          "text": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. I don't want you to fail and I know you don't want to fail either. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Reason number five. Your podcast is too broad. Podcasts are too broad, which means it covers a wide range of topics generally speaking not succeed. Now there are exceptions, of course, and if you started in the early days, well, you could podcast really about anything and do well because you were first to market. But today, imagine starting a fitness podcast and competing against all the existing fitness podcasts around. Well, your audio is just going to get there in order to succeed today as a brand new podcaster. You need to start small.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasts",
+            "podcasters",
+            "podcaster",
+            "audio"
+          ],
+          "summary": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 40.8,
+          "end_time": 48.28,
+          "text": "Now, it might sound counterintuitive because by niching down, you're leaving people out, leaving people out. You could show up more fully those who your podcast is meant for.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "niching",
+            "leaving",
+            "counterintuitive",
+            "sound"
+          ],
+          "summary": "Now, it might sound counterintuitive because by niching down"
+        },
+        {
+          "segment_id": 3,
+          "start_time": 48.28,
+          "end_time": 88.32,
+          "text": "Case in point, what are my students actually? His name is Phil Lichenberger. He started a podcast called Scanner School and this is about those radio scanners where he's for emergency lines or whatever, a very specific niche within the electronic space. Well, within six months, he was able to build a raving fan base. Even after 24 episodes here, he sent this message in one of our Facebook groups. He said, I just had to come here. It's funny feeling to realize that you've created super fans, listeners who follow me on Facebook, Twitter, now YouTube. They come on air contests are there for almost every Facebook live. He'll be fine for six months already. He's getting those things. Really cool is because Phil is establishing a name for himself in a particular area. Many company that wants to be in front of that audience knows that he is the guy I go to.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "students",
+            "radio",
+            "podcast",
+            "listeners",
+            "audience"
+          ],
+          "summary": "Case in point, what are my students actually? His name is Phil Lichenberger. He started a podcast called Scanner School. Within six months, he was able to build a raving fan base. Even after 24 episodes here, he sent this message in one of our Facebook groups."
+        },
+        {
+          "segment_id": 4,
+          "start_time": 88.32,
+          "end_time": 93.72,
+          "text": "In overtime, if you wanted to, you can then expand with the base of the audience that you've already built. Start to broad.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "overtime",
+            "audience",
+            "expand",
+            "broad",
+            "base"
+          ],
+          "summary": "In overtime, if you wanted to, you can then expand"
+        },
+        {
+          "segment_id": 5,
+          "start_time": 93.72,
+          "end_time": 179.52,
+          "text": "Tusu will have a very good, the truth is some of those episodes that you create may hit. Now imagine if all your episodes were about that particular topic, that hit, how much of a name you could make for yourself in that space, and how much more quickly you could build loyal fans, connect with companies, and build a business. Riches are the niches. Next reason, number four. You compare yourself to other, and the comparison game is very, very dangerous. It's totally cool and actually encouraged to look at others for inspiration and motivation. However, if you look at them and say, oh, why not me, or well, they started much later than me and they're already doing better. They have more subscribers, they have more emails, they have more follow whatever the case may be. Doesn't nothing posit. It is so common to see podcasters give up because they see another podcaster who they feel is doing better. And so they think, well, why should I even be here in the first place? The comparison game that you need to play with yourself is podcaster is you versus you, yes, you versus how you and your show were last week. You versus how you and your show were last month or last year. That is how you can make the improvements. That is how you can motivate yourself and gamify the situation. One common comparison newbie podcasters make often is, oh, there's somebody else already in that space. And I'm starting from scratch, I have no business, no context, no following, no emails, no nothing. How am I going to succeed? Well, you actually have a huge advantage. That you can actually craft the experience beginning. The fact that you can actually tailor messages and specificodes to a pitiful, and you can fill in the gaps that everybody else has sort of missed within the space. And finally, you can come up better or different, make some noise. For example, take Sophie Walker, she's another one of my students.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasters",
+            "podcaster",
+            "subscribers",
+            "tusu",
+            "episodes"
+          ],
+          "summary": "Tusu will have a very good, the truth is some of those episodes that you create may hit. Now imagine if all your episodes were about that particular topic, that hit, how much of a name you could make for yourself in that space. Riches are the niches. Next reason, number four. You compare yourself to other, and the comparison game is very, very dangerous. It is so common to see podcasters give up because they see another podcaster who they feel is doing better."
+        },
+        {
+          "segment_id": 6,
+          "start_time": 179.52,
+          "end_time": 220.6,
+          "text": "She started a podcast interviewing moms who were pregnant or had just given birth, help other moms. Not her mom. Well, check this out here. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000 and not only that over time. She had the number one podcast in Australia and the kids and family section and she continues to blow us away with her numbers. What's really cool now in Australia is that a lot of organizations use her podcast or continuation credits, super, super inspirational. And if you want to listen to a full interview that I did with Sophie in her journey and how she got started, I'll link to it in the discreet reason, number three, you don't market yourself or your podcast, you believe that it built it, you will come. It's actually he will come.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "sophie",
+            "interviewing",
+            "interview",
+            "mom"
+          ],
+          "summary": "She started a podcast interviewing moms who were pregnant or had just given birth, help other moms. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000."
+        },
+        {
+          "segment_id": 7,
+          "start_time": 220.6,
+          "end_time": 224.56,
+          "text": "Not they will look it up. I promise you. It's a mandelo effect thing and it's driving me nuts, but it's not there.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "effect",
+            "mandelo",
+            "thing",
+            "look",
+            "promise"
+          ],
+          "summary": "Not they will look it up. It's a mandelo"
+        },
+        {
+          "segment_id": 8,
+          "start_time": 224.56,
+          "end_time": 240.44,
+          "text": "But that's what we think. That's what many podcasts are. And you can't do that. Just having the podcast alone. Not going to build. However, you can fast forward your podcast growth by doing a few things that I've based on. One of my earlier tips, if you niche down a bit, you will actually spread faster because people like to hang us like that to show for somebody they're going to share too.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasts",
+            "niche",
+            "growth",
+            "spread"
+          ],
+          "summary": "But that's what we think. That's what many podcasts are. And you can't do that. Just having the podcast alone. Not going to build. However"
+        },
+        {
+          "segment_id": 9,
+          "start_time": 240.44,
+          "end_time": 399.94,
+          "text": "Get very clear with your messaging. When your mission, your beliefs, your message is clear, your ideas, much easier for other people. Connect with them and really them to others. Number three, actively go out there and start building relationships. Not just try to find a list, just to come on your podcast, but try to be friend, other people who have podcasts or other blog. Number four, the best thing you can do with relation to that is be a guest on another podcast. Not only are people hearing your voice, but you're getting endorsed from the other hosts are already very easy to subscribe to your podcast. And number five, when it comes to market, great stuff that's worth talking, right? All right. Reason number two, you haven't defined what a successful podcast really means. A lot of people who start podcasting just because other people do that and you don't have something to measure. Tell whether or not it's actually working or not, continue to do something in your consistent like you should be. Well, the truth is, eventually you're going to get to the point where you're just going to go, well, why am I, when you can define your why success becomes a lot easier to grasp? Maybe it's a certain dollar amount that you want to make after time. Or better yet, it's a certain number of lives you want to change. The biggest thing related to this is to remember that every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. Pretty good opportunity to be able to share your message to connect, build some customers in relationships, actual, actual success stories from what it is that you must first define what success with podcasting means to you. Then you give yourself a certain number of months or years to make that have a show up. You show up consistently. You don't show up consistently, whether that's weekly or every other week like I did when I first started. There's no chance for a person to really gravitate toward your show and have their life. Therefore, have you become a part of their lives? Podcast listener or habitual listening audience. You become a part of their daily life. Unless you're consistently showing, you're going to insert somebody else into that playlist because you're not showing out there. When you can remember your watch, showing up, there's a lot easier, your reasons to do so become a lot. The number one reason why podcasters face is because they give up for the uptick begins. So many people seem to just quit before inflection points happen. Imagine all the people of quit who, if they've only went a couple of months, would have gotten that, hockey stick curve, they've been licking for this whole massive number of subscribers to their email list and potential business, but no to them, the macro level when it comes to podcasting. Yes, you do have to be a bit patient. The micro, a lot of these things that we talked about to market yourself, to stay consistent, to give yourself the best chance to get to that point where that uptick can occur. Give it time. In this world now, we all want results. Right away. This is why most of these podcasters quit and fail. But when you show up and you're consistent, you also figure out what you can do to market your so many doors open up, so many opportunities that you can't even imagine it can be life to review and your listeners. And so, again, if you've just started your show or you're about to, you took part in a picture pod earlier this year, or you're starting your podcast because you found me on YouTube. Your friend told you about it, whatever the reason is.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasting",
+            "podcast",
+            "podcasters",
+            "podcasts",
+            "listening"
+          ],
+          "summary": "Get very clear with your messaging. When your mission, your beliefs, your message is clear, your ideas, much easier for other people. Connect with them and really them to others. Number three, actively go out there and start building relationships. Not just try to find a list, just to come on your podcast, but try to be friend, other people who have podcasts or other blog. Number four, the best thing you can do with relation to that is be a guest on another podcast. Not only are people hearing your voice, but you're getting endorsed from the other hosts are already very easy to subscribe to your podcast. And number five, when it comes to market, great stuff that's worth talking, right? All right. All right, you haven't defined what a successful podcast really means."
+        },
+        {
+          "segment_id": 10,
+          "start_time": 399.94,
+          "end_time": 405.1,
+          "text": "Don't let any of these five reasons are people out there in this world who are ready to listen to you. Of course, I'm here and I'm ready.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "listen",
+            "reasons",
+            "ready",
+            "course",
+            "world"
+          ],
+          "summary": "Don't let any of these five reasons are people out there"
+        },
+        {
+          "segment_id": 11,
+          "start_time": 405.1,
+          "end_time": 419.06,
+          "text": "Some information below in the description to help you run excited because it's not just about putting your podcast up, it's about getting found too, which is what I do. It's the marketing side of it. That's why. Marketing and the content and whatever you say on the mic doesn't matter if you're just going to let any of these things don't let them stop.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "mic",
+            "marketing",
+            "excited",
+            "stop"
+          ],
+          "summary": "Some information below in the description to help you run excited because it's not just about putting your podcast up, it's about getting found too."
+        },
+        {
+          "segment_id": 12,
+          "start_time": 419.06,
+          "end_time": 423.66,
+          "text": "Click on this video right here. This is what YouTube is telling you is the next video you should watch. Yeah, thanks.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "video",
+            "youtube",
+            "watch",
+            "thanks",
+            "click"
+          ],
+          "summary": "Click on the video right here. This is what YouTube is"
+        }
+      ]
+    },
+    {
+      "block_size": 3,
+      "k_value": 1.2,
+      "number_of_segments": 5,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 40.8,
+          "text": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. I don't want you to fail and I know you don't want to fail either. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Reason number five. Your podcast is too broad. Podcasts are too broad, which means it covers a wide range of topics generally speaking not succeed. Now there are exceptions, of course, and if you started in the early days, well, you could podcast really about anything and do well because you were first to market. But today, imagine starting a fitness podcast and competing against all the existing fitness podcasts around. Well, your audio is just going to get there in order to succeed today as a brand new podcaster. You need to start small.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasts",
+            "podcasters",
+            "podcaster",
+            "audio"
+          ],
+          "summary": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 40.8,
+          "end_time": 48.28,
+          "text": "Now, it might sound counterintuitive because by niching down, you're leaving people out, leaving people out. You could show up more fully those who your podcast is meant for.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "niching",
+            "leaving",
+            "counterintuitive",
+            "sound"
+          ],
+          "summary": "Now, it might sound counterintuitive because by niching down"
+        },
+        {
+          "segment_id": 3,
+          "start_time": 48.28,
+          "end_time": 220.6,
+          "text": "Case in point, what are my students actually? His name is Phil Lichenberger. He started a podcast called Scanner School and this is about those radio scanners where he's for emergency lines or whatever, a very specific niche within the electronic space. Well, within six months, he was able to build a raving fan base. Even after 24 episodes here, he sent this message in one of our Facebook groups. He said, I just had to come here. It's funny feeling to realize that you've created super fans, listeners who follow me on Facebook, Twitter, now YouTube. They come on air contests are there for almost every Facebook live. He'll be fine for six months already. He's getting those things. Really cool is because Phil is establishing a name for himself in a particular area. Many company that wants to be in front of that audience knows that he is the guy I go to. In overtime, if you wanted to, you can then expand with the base of the audience that you've already built. Start to broad. Tusu will have a very good, the truth is some of those episodes that you create may hit. Now imagine if all your episodes were about that particular topic, that hit, how much of a name you could make for yourself in that space, and how much more quickly you could build loyal fans, connect with companies, and build a business. Riches are the niches. Next reason, number four. You compare yourself to other, and the comparison game is very, very dangerous. It's totally cool and actually encouraged to look at others for inspiration and motivation. However, if you look at them and say, oh, why not me, or well, they started much later than me and they're already doing better. They have more subscribers, they have more emails, they have more follow whatever the case may be. Doesn't nothing posit. It is so common to see podcasters give up because they see another podcaster who they feel is doing better. And so they think, well, why should I even be here in the first place? The comparison game that you need to play with yourself is podcaster is you versus you, yes, you versus how you and your show were last week. You versus how you and your show were last month or last year. That is how you can make the improvements. That is how you can motivate yourself and gamify the situation. One common comparison newbie podcasters make often is, oh, there's somebody else already in that space. And I'm starting from scratch, I have no business, no context, no following, no emails, no nothing. How am I going to succeed? Well, you actually have a huge advantage. That you can actually craft the experience beginning. The fact that you can actually tailor messages and specificodes to a pitiful, and you can fill in the gaps that everybody else has sort of missed within the space. And finally, you can come up better or different, make some noise. For example, take Sophie Walker, she's another one of my students. She started a podcast interviewing moms who were pregnant or had just given birth, help other moms. Not her mom. Well, check this out here. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000 and not only that over time. She had the number one podcast in Australia and the kids and family section and she continues to blow us away with her numbers. What's really cool now in Australia is that a lot of organizations use her podcast or continuation credits, super, super inspirational. And if you want to listen to a full interview that I did with Sophie in her journey and how she got started, I'll link to it in the discreet reason, number three, you don't market yourself or your podcast, you believe that it built it, you will come. It's actually he will come.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasters",
+            "students",
+            "episodes",
+            "podcaster"
+          ],
+          "summary": "The comparison game is very, very dangerous. It is so common to see podcasters give up because they see another podcaster who they feel is doing better. The comparison game that you need to play with yourself is podcaster is you versus you. You versus how you and your show were last month or last year. That is how you can motivate yourself and gamify the situation. And finally, you can come up better or different, make some noise. For example, take Sophie Walker, she's another one of my students. She started a podcast interviewing moms who were pregnant or had just given birth, help other moms. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000 and not only that over time."
+        },
+        {
+          "segment_id": 4,
+          "start_time": 220.6,
+          "end_time": 224.56,
+          "text": "Not they will look it up. I promise you. It's a mandelo effect thing and it's driving me nuts, but it's not there.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "effect",
+            "mandelo",
+            "thing",
+            "look",
+            "promise"
+          ],
+          "summary": "Not they will look it up. It's a mandelo"
+        },
+        {
+          "segment_id": 5,
+          "start_time": 224.56,
+          "end_time": 423.66,
+          "text": "But that's what we think. That's what many podcasts are. And you can't do that. Just having the podcast alone. Not going to build. However, you can fast forward your podcast growth by doing a few things that I've based on. One of my earlier tips, if you niche down a bit, you will actually spread faster because people like to hang us like that to show for somebody they're going to share too. Get very clear with your messaging. When your mission, your beliefs, your message is clear, your ideas, much easier for other people. Connect with them and really them to others. Number three, actively go out there and start building relationships. Not just try to find a list, just to come on your podcast, but try to be friend, other people who have podcasts or other blog. Number four, the best thing you can do with relation to that is be a guest on another podcast. Not only are people hearing your voice, but you're getting endorsed from the other hosts are already very easy to subscribe to your podcast. And number five, when it comes to market, great stuff that's worth talking, right? All right. Reason number two, you haven't defined what a successful podcast really means. A lot of people who start podcasting just because other people do that and you don't have something to measure. Tell whether or not it's actually working or not, continue to do something in your consistent like you should be. Well, the truth is, eventually you're going to get to the point where you're just going to go, well, why am I, when you can define your why success becomes a lot easier to grasp? Maybe it's a certain dollar amount that you want to make after time. Or better yet, it's a certain number of lives you want to change. The biggest thing related to this is to remember that every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. Pretty good opportunity to be able to share your message to connect, build some customers in relationships, actual, actual success stories from what it is that you must first define what success with podcasting means to you. Then you give yourself a certain number of months or years to make that have a show up. You show up consistently. You don't show up consistently, whether that's weekly or every other week like I did when I first started. There's no chance for a person to really gravitate toward your show and have their life. Therefore, have you become a part of their lives? Podcast listener or habitual listening audience. You become a part of their daily life. Unless you're consistently showing, you're going to insert somebody else into that playlist because you're not showing out there. When you can remember your watch, showing up, there's a lot easier, your reasons to do so become a lot. The number one reason why podcasters face is because they give up for the uptick begins. So many people seem to just quit before inflection points happen. Imagine all the people of quit who, if they've only went a couple of months, would have gotten that, hockey stick curve, they've been licking for this whole massive number of subscribers to their email list and potential business, but no to them, the macro level when it comes to podcasting. Yes, you do have to be a bit patient. The micro, a lot of these things that we talked about to market yourself, to stay consistent, to give yourself the best chance to get to that point where that uptick can occur. Give it time. In this world now, we all want results. Right away. This is why most of these podcasters quit and fail. But when you show up and you're consistent, you also figure out what you can do to market your so many doors open up, so many opportunities that you can't even imagine it can be life to review and your listeners. And so, again, if you've just started your show or you're about to, you took part in a picture pod earlier this year, or you're starting your podcast because you found me on YouTube. Your friend told you about it, whatever the reason is. Don't let any of these five reasons are people out there in this world who are ready to listen to you. Of course, I'm here and I'm ready. Some information below in the description to help you run excited because it's not just about putting your podcast up, it's about getting found too, which is what I do. It's the marketing side of it. That's why. Marketing and the content and whatever you say on the mic doesn't matter if you're just going to let any of these things don't let them stop. Click on this video right here. This is what YouTube is telling you is the next video you should watch. Yeah, thanks.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasting",
+            "podcasters",
+            "podcast",
+            "podcasts",
+            "blog"
+          ],
+          "summary": "Many podcasters give up before inflection points happen. Give it time. Every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. Don't let any of these five reasons are people are ready to listen to your podcast. Some information below to help you run your podcast in a way that's not just about putting your podcast up, but getting excited about it too. Click here to watch the next video. Click on this video to watch this video on YouTube. Click the next image to watch it on this YouTube video on the next page. The next video is what YouTube is telling you is what you should watch on this right here. The third video is about the marketing side of it, which is what I do too. It's about the content and whatever you say on the mic and the way you say it, it doesn't matter if you're just going to say whatever you want to say, it's worth talking about. The fourth and final video is a look at how to market yourself."
+        }
+      ]
+    },
+    {
+      "block_size": 5,
+      "k_value": 0.8,
+      "number_of_segments": 7,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 92.72,
+          "text": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. I don't want you to fail and I know you don't want to fail either. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Reason number five. Your podcast is too broad. Podcasts are too broad, which means it covers a wide range of topics generally speaking not succeed. Now there are exceptions, of course, and if you started in the early days, well, you could podcast really about anything and do well because you were first to market. But today, imagine starting a fitness podcast and competing against all the existing fitness podcasts around. Well, your audio is just going to get there in order to succeed today as a brand new podcaster. You need to start small. Now, it might sound counterintuitive because by niching down, you're leaving people out, leaving people out. You could show up more fully those who your podcast is meant for. Case in point, what are my students actually? His name is Phil Lichenberger. He started a podcast called Scanner School and this is about those radio scanners where he's for emergency lines or whatever, a very specific niche within the electronic space. Well, within six months, he was able to build a raving fan base. Even after 24 episodes here, he sent this message in one of our Facebook groups. He said, I just had to come here. It's funny feeling to realize that you've created super fans, listeners who follow me on Facebook, Twitter, now YouTube. They come on air contests are there for almost every Facebook live. He'll be fine for six months already. He's getting those things. Really cool is because Phil is establishing a name for himself in a particular area. Many company that wants to be in front of that audience knows that he is the guy I go to. In overtime, if you wanted to, you can then expand with the base of the audience that you've already built.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasters",
+            "podcasts",
+            "podcaster",
+            "listeners"
+          ],
+          "summary": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Reason number five. Your podcast is too broad, which means it covers a wide range of topics generally speaking not succeed."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 92.72,
+          "end_time": 105.16,
+          "text": "Start to broad. Tusu will have a very good, the truth is some of those episodes that you create may hit. Now imagine if all your episodes were about that particular topic, that hit, how much of a name you could make for yourself in that space, and how much more quickly you could",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "episodes",
+            "tusu",
+            "topic",
+            "broad",
+            "start"
+          ],
+          "summary": "Start to broad. Tusu will have a very good, the truth is some of those episodes that you create"
+        },
+        {
+          "segment_id": 3,
+          "start_time": 105.16,
+          "end_time": 157.76,
+          "text": "build loyal fans, connect with companies, and build a business. Riches are the niches. Next reason, number four. You compare yourself to other, and the comparison game is very, very dangerous. It's totally cool and actually encouraged to look at others for inspiration and motivation. However, if you look at them and say, oh, why not me, or well, they started much later than me and they're already doing better. They have more subscribers, they have more emails, they have more follow whatever the case may be. Doesn't nothing posit. It is so common to see podcasters give up because they see another podcaster who they feel is doing better. And so they think, well, why should I even be here in the first place? The comparison game that you need to play with yourself is podcaster is you versus you, yes, you versus how you and your show were last week. You versus how you and your show were last month or last year. That is how you can make the improvements. That is how you can motivate yourself and gamify the situation. One common comparison newbie podcasters make often is, oh, there's somebody else already in that space.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasters",
+            "podcaster",
+            "motivate",
+            "subscribers",
+            "motivation"
+          ],
+          "summary": "build loyal fans, connect with companies, and build a business. Riches are the niches. You compare yourself to other, and the comparison game is very, very dangerous. It is so common to see podcasters give up because they see another podcaster who they feel is doing better."
+        },
+        {
+          "segment_id": 4,
+          "start_time": 157.76,
+          "end_time": 183.58,
+          "text": "And I'm starting from scratch, I have no business, no context, no following, no emails, no nothing. How am I going to succeed? Well, you actually have a huge advantage. That you can actually craft the experience beginning. The fact that you can actually tailor messages and specificodes to a pitiful, and you can fill in the gaps that everybody else has sort of missed within the space. And finally, you can come up better or different, make some noise. For example, take Sophie Walker, she's another one of my students. She started a podcast interviewing moms who were pregnant or had just given birth, help",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "interviewing",
+            "beginning",
+            "succeed",
+            "experience",
+            "starting"
+          ],
+          "summary": "And I'm starting from scratch, I have no business, no context, no following, no emails, no nothing. How am I going to succeed? Well, you actually have a huge advantage. That you can actually craft the experience beginning."
+        },
+        {
+          "segment_id": 5,
+          "start_time": 183.58,
+          "end_time": 237.1,
+          "text": "other moms. Not her mom. Well, check this out here. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000 and not only that over time. She had the number one podcast in Australia and the kids and family section and she continues to blow us away with her numbers. What's really cool now in Australia is that a lot of organizations use her podcast or continuation credits, super, super inspirational. And if you want to listen to a full interview that I did with Sophie in her journey and how she got started, I'll link to it in the discreet reason, number three, you don't market yourself or your podcast, you believe that it built it, you will come. It's actually he will come. Not they will look it up. I promise you. It's a mandelo effect thing and it's driving me nuts, but it's not there. But that's what we think. That's what many podcasts are. And you can't do that. Just having the podcast alone. Not going to build. However, you can fast forward your podcast growth by doing a few things that I've based on. One of my earlier tips, if you niche down a bit, you will actually spread faster because",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasts",
+            "mom",
+            "moms",
+            "interview"
+          ],
+          "summary": "other moms. Not her mom. Well, check this out here. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000 and not only that over time. She had the number one podcast in Australia and the kids and family section."
+        },
+        {
+          "segment_id": 6,
+          "start_time": 237.1,
+          "end_time": 419.06,
+          "text": "people like to hang us like that to show for somebody they're going to share too. Get very clear with your messaging. When your mission, your beliefs, your message is clear, your ideas, much easier for other people. Connect with them and really them to others. Number three, actively go out there and start building relationships. Not just try to find a list, just to come on your podcast, but try to be friend, other people who have podcasts or other blog. Number four, the best thing you can do with relation to that is be a guest on another podcast. Not only are people hearing your voice, but you're getting endorsed from the other hosts are already very easy to subscribe to your podcast. And number five, when it comes to market, great stuff that's worth talking, right? All right. Reason number two, you haven't defined what a successful podcast really means. A lot of people who start podcasting just because other people do that and you don't have something to measure. Tell whether or not it's actually working or not, continue to do something in your consistent like you should be. Well, the truth is, eventually you're going to get to the point where you're just going to go, well, why am I, when you can define your why success becomes a lot easier to grasp? Maybe it's a certain dollar amount that you want to make after time. Or better yet, it's a certain number of lives you want to change. The biggest thing related to this is to remember that every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. Pretty good opportunity to be able to share your message to connect, build some customers in relationships, actual, actual success stories from what it is that you must first define what success with podcasting means to you. Then you give yourself a certain number of months or years to make that have a show up. You show up consistently. You don't show up consistently, whether that's weekly or every other week like I did when I first started. There's no chance for a person to really gravitate toward your show and have their life. Therefore, have you become a part of their lives? Podcast listener or habitual listening audience. You become a part of their daily life. Unless you're consistently showing, you're going to insert somebody else into that playlist because you're not showing out there. When you can remember your watch, showing up, there's a lot easier, your reasons to do so become a lot. The number one reason why podcasters face is because they give up for the uptick begins. So many people seem to just quit before inflection points happen. Imagine all the people of quit who, if they've only went a couple of months, would have gotten that, hockey stick curve, they've been licking for this whole massive number of subscribers to their email list and potential business, but no to them, the macro level when it comes to podcasting. Yes, you do have to be a bit patient. The micro, a lot of these things that we talked about to market yourself, to stay consistent, to give yourself the best chance to get to that point where that uptick can occur. Give it time. In this world now, we all want results. Right away. This is why most of these podcasters quit and fail. But when you show up and you're consistent, you also figure out what you can do to market your so many doors open up, so many opportunities that you can't even imagine it can be life to review and your listeners. And so, again, if you've just started your show or you're about to, you took part in a picture pod earlier this year, or you're starting your podcast because you found me on YouTube. Your friend told you about it, whatever the reason is. Don't let any of these five reasons are people out there in this world who are ready to listen to you. Of course, I'm here and I'm ready. Some information below in the description to help you run excited because it's not just about putting your podcast up, it's about getting found too, which is what I do. It's the marketing side of it. That's why. Marketing and the content and whatever you say on the mic doesn't matter if you're just going to let any of these things don't let them stop.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasting",
+            "podcasters",
+            "podcast",
+            "podcasts",
+            "listeners"
+          ],
+          "summary": "The number one reason why podcasters face is because they give up for the uptick begins. The biggest thing related to this is to remember that every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. Give it time. In this world now, we all want results. Right away. This is why most of these podcasters quit and fail. But when you show up and you're consistent, you also figure out what you can do to market your so many doors open up, so many opportunities that you can't even imagine it can be life to review and your listeners. Don't let any of these five reasons are people out there in this world who are ready to listen to you. Of course, I'm here and I'm ready. Some information below in the description to help you run excited because it's not just about putting your podcast up. It's the marketing side of it."
+        },
+        {
+          "segment_id": 7,
+          "start_time": 419.06,
+          "end_time": 423.66,
+          "text": "Click on this video right here. This is what YouTube is telling you is the next video you should watch. Yeah, thanks.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "video",
+            "youtube",
+            "watch",
+            "thanks",
+            "click"
+          ],
+          "summary": "Click on the video right here. This is what YouTube is"
+        }
+      ]
+    },
+    {
+      "block_size": 5,
+      "k_value": 1.0,
+      "number_of_segments": 7,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 92.72,
+          "text": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. I don't want you to fail and I know you don't want to fail either. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Reason number five. Your podcast is too broad. Podcasts are too broad, which means it covers a wide range of topics generally speaking not succeed. Now there are exceptions, of course, and if you started in the early days, well, you could podcast really about anything and do well because you were first to market. But today, imagine starting a fitness podcast and competing against all the existing fitness podcasts around. Well, your audio is just going to get there in order to succeed today as a brand new podcaster. You need to start small. Now, it might sound counterintuitive because by niching down, you're leaving people out, leaving people out. You could show up more fully those who your podcast is meant for. Case in point, what are my students actually? His name is Phil Lichenberger. He started a podcast called Scanner School and this is about those radio scanners where he's for emergency lines or whatever, a very specific niche within the electronic space. Well, within six months, he was able to build a raving fan base. Even after 24 episodes here, he sent this message in one of our Facebook groups. He said, I just had to come here. It's funny feeling to realize that you've created super fans, listeners who follow me on Facebook, Twitter, now YouTube. They come on air contests are there for almost every Facebook live. He'll be fine for six months already. He's getting those things. Really cool is because Phil is establishing a name for himself in a particular area. Many company that wants to be in front of that audience knows that he is the guy I go to. In overtime, if you wanted to, you can then expand with the base of the audience that you've already built.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasters",
+            "podcasts",
+            "podcaster",
+            "listeners"
+          ],
+          "summary": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Reason number five. Your podcast is too broad, which means it covers a wide range of topics generally speaking not succeed."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 92.72,
+          "end_time": 105.16,
+          "text": "Start to broad. Tusu will have a very good, the truth is some of those episodes that you create may hit. Now imagine if all your episodes were about that particular topic, that hit, how much of a name you could make for yourself in that space, and how much more quickly you could",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "episodes",
+            "tusu",
+            "topic",
+            "broad",
+            "start"
+          ],
+          "summary": "Start to broad. Tusu will have a very good, the truth is some of those episodes that you create"
+        },
+        {
+          "segment_id": 3,
+          "start_time": 105.16,
+          "end_time": 157.76,
+          "text": "build loyal fans, connect with companies, and build a business. Riches are the niches. Next reason, number four. You compare yourself to other, and the comparison game is very, very dangerous. It's totally cool and actually encouraged to look at others for inspiration and motivation. However, if you look at them and say, oh, why not me, or well, they started much later than me and they're already doing better. They have more subscribers, they have more emails, they have more follow whatever the case may be. Doesn't nothing posit. It is so common to see podcasters give up because they see another podcaster who they feel is doing better. And so they think, well, why should I even be here in the first place? The comparison game that you need to play with yourself is podcaster is you versus you, yes, you versus how you and your show were last week. You versus how you and your show were last month or last year. That is how you can make the improvements. That is how you can motivate yourself and gamify the situation. One common comparison newbie podcasters make often is, oh, there's somebody else already in that space.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasters",
+            "podcaster",
+            "motivate",
+            "subscribers",
+            "motivation"
+          ],
+          "summary": "build loyal fans, connect with companies, and build a business. Riches are the niches. You compare yourself to other, and the comparison game is very, very dangerous. It is so common to see podcasters give up because they see another podcaster who they feel is doing better."
+        },
+        {
+          "segment_id": 4,
+          "start_time": 157.76,
+          "end_time": 183.58,
+          "text": "And I'm starting from scratch, I have no business, no context, no following, no emails, no nothing. How am I going to succeed? Well, you actually have a huge advantage. That you can actually craft the experience beginning. The fact that you can actually tailor messages and specificodes to a pitiful, and you can fill in the gaps that everybody else has sort of missed within the space. And finally, you can come up better or different, make some noise. For example, take Sophie Walker, she's another one of my students. She started a podcast interviewing moms who were pregnant or had just given birth, help",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "interviewing",
+            "beginning",
+            "succeed",
+            "experience",
+            "starting"
+          ],
+          "summary": "And I'm starting from scratch, I have no business, no context, no following, no emails, no nothing. How am I going to succeed? Well, you actually have a huge advantage. That you can actually craft the experience beginning."
+        },
+        {
+          "segment_id": 5,
+          "start_time": 183.58,
+          "end_time": 237.1,
+          "text": "other moms. Not her mom. Well, check this out here. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000 and not only that over time. She had the number one podcast in Australia and the kids and family section and she continues to blow us away with her numbers. What's really cool now in Australia is that a lot of organizations use her podcast or continuation credits, super, super inspirational. And if you want to listen to a full interview that I did with Sophie in her journey and how she got started, I'll link to it in the discreet reason, number three, you don't market yourself or your podcast, you believe that it built it, you will come. It's actually he will come. Not they will look it up. I promise you. It's a mandelo effect thing and it's driving me nuts, but it's not there. But that's what we think. That's what many podcasts are. And you can't do that. Just having the podcast alone. Not going to build. However, you can fast forward your podcast growth by doing a few things that I've based on. One of my earlier tips, if you niche down a bit, you will actually spread faster because",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasts",
+            "mom",
+            "moms",
+            "interview"
+          ],
+          "summary": "other moms. Not her mom. Well, check this out here. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000 and not only that over time. She had the number one podcast in Australia and the kids and family section."
+        },
+        {
+          "segment_id": 6,
+          "start_time": 237.1,
+          "end_time": 419.06,
+          "text": "people like to hang us like that to show for somebody they're going to share too. Get very clear with your messaging. When your mission, your beliefs, your message is clear, your ideas, much easier for other people. Connect with them and really them to others. Number three, actively go out there and start building relationships. Not just try to find a list, just to come on your podcast, but try to be friend, other people who have podcasts or other blog. Number four, the best thing you can do with relation to that is be a guest on another podcast. Not only are people hearing your voice, but you're getting endorsed from the other hosts are already very easy to subscribe to your podcast. And number five, when it comes to market, great stuff that's worth talking, right? All right. Reason number two, you haven't defined what a successful podcast really means. A lot of people who start podcasting just because other people do that and you don't have something to measure. Tell whether or not it's actually working or not, continue to do something in your consistent like you should be. Well, the truth is, eventually you're going to get to the point where you're just going to go, well, why am I, when you can define your why success becomes a lot easier to grasp? Maybe it's a certain dollar amount that you want to make after time. Or better yet, it's a certain number of lives you want to change. The biggest thing related to this is to remember that every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. Pretty good opportunity to be able to share your message to connect, build some customers in relationships, actual, actual success stories from what it is that you must first define what success with podcasting means to you. Then you give yourself a certain number of months or years to make that have a show up. You show up consistently. You don't show up consistently, whether that's weekly or every other week like I did when I first started. There's no chance for a person to really gravitate toward your show and have their life. Therefore, have you become a part of their lives? Podcast listener or habitual listening audience. You become a part of their daily life. Unless you're consistently showing, you're going to insert somebody else into that playlist because you're not showing out there. When you can remember your watch, showing up, there's a lot easier, your reasons to do so become a lot. The number one reason why podcasters face is because they give up for the uptick begins. So many people seem to just quit before inflection points happen. Imagine all the people of quit who, if they've only went a couple of months, would have gotten that, hockey stick curve, they've been licking for this whole massive number of subscribers to their email list and potential business, but no to them, the macro level when it comes to podcasting. Yes, you do have to be a bit patient. The micro, a lot of these things that we talked about to market yourself, to stay consistent, to give yourself the best chance to get to that point where that uptick can occur. Give it time. In this world now, we all want results. Right away. This is why most of these podcasters quit and fail. But when you show up and you're consistent, you also figure out what you can do to market your so many doors open up, so many opportunities that you can't even imagine it can be life to review and your listeners. And so, again, if you've just started your show or you're about to, you took part in a picture pod earlier this year, or you're starting your podcast because you found me on YouTube. Your friend told you about it, whatever the reason is. Don't let any of these five reasons are people out there in this world who are ready to listen to you. Of course, I'm here and I'm ready. Some information below in the description to help you run excited because it's not just about putting your podcast up, it's about getting found too, which is what I do. It's the marketing side of it. That's why. Marketing and the content and whatever you say on the mic doesn't matter if you're just going to let any of these things don't let them stop.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasting",
+            "podcasters",
+            "podcast",
+            "podcasts",
+            "listeners"
+          ],
+          "summary": "The number one reason why podcasters face is because they give up for the uptick begins. The biggest thing related to this is to remember that every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. Give it time. In this world now, we all want results. Right away. This is why most of these podcasters quit and fail. But when you show up and you're consistent, you also figure out what you can do to market your so many doors open up, so many opportunities that you can't even imagine it can be life to review and your listeners. Don't let any of these five reasons are people out there in this world who are ready to listen to you. Of course, I'm here and I'm ready. Some information below in the description to help you run excited because it's not just about putting your podcast up. It's the marketing side of it."
+        },
+        {
+          "segment_id": 7,
+          "start_time": 419.06,
+          "end_time": 423.66,
+          "text": "Click on this video right here. This is what YouTube is telling you is the next video you should watch. Yeah, thanks.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "video",
+            "youtube",
+            "watch",
+            "thanks",
+            "click"
+          ],
+          "summary": "Click on the video right here. This is what YouTube is"
+        }
+      ]
+    },
+    {
+      "block_size": 5,
+      "k_value": 1.2,
+      "number_of_segments": 6,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 92.72,
+          "text": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. I don't want you to fail and I know you don't want to fail either. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Reason number five. Your podcast is too broad. Podcasts are too broad, which means it covers a wide range of topics generally speaking not succeed. Now there are exceptions, of course, and if you started in the early days, well, you could podcast really about anything and do well because you were first to market. But today, imagine starting a fitness podcast and competing against all the existing fitness podcasts around. Well, your audio is just going to get there in order to succeed today as a brand new podcaster. You need to start small. Now, it might sound counterintuitive because by niching down, you're leaving people out, leaving people out. You could show up more fully those who your podcast is meant for. Case in point, what are my students actually? His name is Phil Lichenberger. He started a podcast called Scanner School and this is about those radio scanners where he's for emergency lines or whatever, a very specific niche within the electronic space. Well, within six months, he was able to build a raving fan base. Even after 24 episodes here, he sent this message in one of our Facebook groups. He said, I just had to come here. It's funny feeling to realize that you've created super fans, listeners who follow me on Facebook, Twitter, now YouTube. They come on air contests are there for almost every Facebook live. He'll be fine for six months already. He's getting those things. Really cool is because Phil is establishing a name for himself in a particular area. Many company that wants to be in front of that audience knows that he is the guy I go to. In overtime, if you wanted to, you can then expand with the base of the audience that you've already built.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasters",
+            "podcasts",
+            "podcaster",
+            "listeners"
+          ],
+          "summary": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Reason number five. Your podcast is too broad, which means it covers a wide range of topics generally speaking not succeed."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 92.72,
+          "end_time": 105.16,
+          "text": "Start to broad. Tusu will have a very good, the truth is some of those episodes that you create may hit. Now imagine if all your episodes were about that particular topic, that hit, how much of a name you could make for yourself in that space, and how much more quickly you could",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "episodes",
+            "tusu",
+            "topic",
+            "broad",
+            "start"
+          ],
+          "summary": "Start to broad. Tusu will have a very good, the truth is some of those episodes that you create"
+        },
+        {
+          "segment_id": 3,
+          "start_time": 105.16,
+          "end_time": 157.76,
+          "text": "build loyal fans, connect with companies, and build a business. Riches are the niches. Next reason, number four. You compare yourself to other, and the comparison game is very, very dangerous. It's totally cool and actually encouraged to look at others for inspiration and motivation. However, if you look at them and say, oh, why not me, or well, they started much later than me and they're already doing better. They have more subscribers, they have more emails, they have more follow whatever the case may be. Doesn't nothing posit. It is so common to see podcasters give up because they see another podcaster who they feel is doing better. And so they think, well, why should I even be here in the first place? The comparison game that you need to play with yourself is podcaster is you versus you, yes, you versus how you and your show were last week. You versus how you and your show were last month or last year. That is how you can make the improvements. That is how you can motivate yourself and gamify the situation. One common comparison newbie podcasters make often is, oh, there's somebody else already in that space.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasters",
+            "podcaster",
+            "motivate",
+            "subscribers",
+            "motivation"
+          ],
+          "summary": "build loyal fans, connect with companies, and build a business. Riches are the niches. You compare yourself to other, and the comparison game is very, very dangerous. It is so common to see podcasters give up because they see another podcaster who they feel is doing better."
+        },
+        {
+          "segment_id": 4,
+          "start_time": 157.76,
+          "end_time": 183.58,
+          "text": "And I'm starting from scratch, I have no business, no context, no following, no emails, no nothing. How am I going to succeed? Well, you actually have a huge advantage. That you can actually craft the experience beginning. The fact that you can actually tailor messages and specificodes to a pitiful, and you can fill in the gaps that everybody else has sort of missed within the space. And finally, you can come up better or different, make some noise. For example, take Sophie Walker, she's another one of my students. She started a podcast interviewing moms who were pregnant or had just given birth, help",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "interviewing",
+            "beginning",
+            "succeed",
+            "experience",
+            "starting"
+          ],
+          "summary": "And I'm starting from scratch, I have no business, no context, no following, no emails, no nothing. How am I going to succeed? Well, you actually have a huge advantage. That you can actually craft the experience beginning."
+        },
+        {
+          "segment_id": 5,
+          "start_time": 183.58,
+          "end_time": 419.06,
+          "text": "other moms. Not her mom. Well, check this out here. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000 and not only that over time. She had the number one podcast in Australia and the kids and family section and she continues to blow us away with her numbers. What's really cool now in Australia is that a lot of organizations use her podcast or continuation credits, super, super inspirational. And if you want to listen to a full interview that I did with Sophie in her journey and how she got started, I'll link to it in the discreet reason, number three, you don't market yourself or your podcast, you believe that it built it, you will come. It's actually he will come. Not they will look it up. I promise you. It's a mandelo effect thing and it's driving me nuts, but it's not there. But that's what we think. That's what many podcasts are. And you can't do that. Just having the podcast alone. Not going to build. However, you can fast forward your podcast growth by doing a few things that I've based on. One of my earlier tips, if you niche down a bit, you will actually spread faster because people like to hang us like that to show for somebody they're going to share too. Get very clear with your messaging. When your mission, your beliefs, your message is clear, your ideas, much easier for other people. Connect with them and really them to others. Number three, actively go out there and start building relationships. Not just try to find a list, just to come on your podcast, but try to be friend, other people who have podcasts or other blog. Number four, the best thing you can do with relation to that is be a guest on another podcast. Not only are people hearing your voice, but you're getting endorsed from the other hosts are already very easy to subscribe to your podcast. And number five, when it comes to market, great stuff that's worth talking, right? All right. Reason number two, you haven't defined what a successful podcast really means. A lot of people who start podcasting just because other people do that and you don't have something to measure. Tell whether or not it's actually working or not, continue to do something in your consistent like you should be. Well, the truth is, eventually you're going to get to the point where you're just going to go, well, why am I, when you can define your why success becomes a lot easier to grasp? Maybe it's a certain dollar amount that you want to make after time. Or better yet, it's a certain number of lives you want to change. The biggest thing related to this is to remember that every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. Pretty good opportunity to be able to share your message to connect, build some customers in relationships, actual, actual success stories from what it is that you must first define what success with podcasting means to you. Then you give yourself a certain number of months or years to make that have a show up. You show up consistently. You don't show up consistently, whether that's weekly or every other week like I did when I first started. There's no chance for a person to really gravitate toward your show and have their life. Therefore, have you become a part of their lives? Podcast listener or habitual listening audience. You become a part of their daily life. Unless you're consistently showing, you're going to insert somebody else into that playlist because you're not showing out there. When you can remember your watch, showing up, there's a lot easier, your reasons to do so become a lot. The number one reason why podcasters face is because they give up for the uptick begins. So many people seem to just quit before inflection points happen. Imagine all the people of quit who, if they've only went a couple of months, would have gotten that, hockey stick curve, they've been licking for this whole massive number of subscribers to their email list and potential business, but no to them, the macro level when it comes to podcasting. Yes, you do have to be a bit patient. The micro, a lot of these things that we talked about to market yourself, to stay consistent, to give yourself the best chance to get to that point where that uptick can occur. Give it time. In this world now, we all want results. Right away. This is why most of these podcasters quit and fail. But when you show up and you're consistent, you also figure out what you can do to market your so many doors open up, so many opportunities that you can't even imagine it can be life to review and your listeners. And so, again, if you've just started your show or you're about to, you took part in a picture pod earlier this year, or you're starting your podcast because you found me on YouTube. Your friend told you about it, whatever the reason is. Don't let any of these five reasons are people out there in this world who are ready to listen to you. Of course, I'm here and I'm ready. Some information below in the description to help you run excited because it's not just about putting your podcast up, it's about getting found too, which is what I do. It's the marketing side of it. That's why. Marketing and the content and whatever you say on the mic doesn't matter if you're just going to let any of these things don't let them stop.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasting",
+            "podcast",
+            "podcasts",
+            "podcasters",
+            "listening"
+          ],
+          "summary": "The number one reason why podcasters face is because they give up for the uptick begins. Get very clear with your messaging. When your mission, your beliefs, your message is clear, your ideas, much easier for other people. Connect with them and really them to others. Number four, the best thing you can do with relation to that is be a guest on another podcast. And number five, when it comes to market, great stuff that's worth talking, right? All right. You've just started your show or you're just about to show up. And so, if you've just show up and you're consistent, you're also about to figure out what you want to do with your life. In this world now, we all want results. Right away. This is why most of these podcasters fail. But when you show up, you don't fail. You're not going to build. And you're going to get to the point where you're like, well, why am I?"
+        },
+        {
+          "segment_id": 6,
+          "start_time": 419.06,
+          "end_time": 423.66,
+          "text": "Click on this video right here. This is what YouTube is telling you is the next video you should watch. Yeah, thanks.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "video",
+            "youtube",
+            "watch",
+            "thanks",
+            "click"
+          ],
+          "summary": "Click on the video right here. This is what YouTube is"
+        }
+      ]
+    },
+    {
+      "block_size": 8,
+      "k_value": 0.8,
+      "number_of_segments": 7,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 68.72,
+          "text": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. I don't want you to fail and I know you don't want to fail either. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Reason number five. Your podcast is too broad. Podcasts are too broad, which means it covers a wide range of topics generally speaking not succeed. Now there are exceptions, of course, and if you started in the early days, well, you could podcast really about anything and do well because you were first to market. But today, imagine starting a fitness podcast and competing against all the existing fitness podcasts around. Well, your audio is just going to get there in order to succeed today as a brand new podcaster. You need to start small. Now, it might sound counterintuitive because by niching down, you're leaving people out, leaving people out. You could show up more fully those who your podcast is meant for. Case in point, what are my students actually? His name is Phil Lichenberger. He started a podcast called Scanner School and this is about those radio scanners where he's for emergency lines or whatever, a very specific niche within the electronic space. Well, within six months, he was able to build a raving fan base. Even after 24 episodes here, he sent this message in one of our Facebook groups.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasters",
+            "podcasts",
+            "podcaster",
+            "radio"
+          ],
+          "summary": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 68.72,
+          "end_time": 87.32,
+          "text": "He said, I just had to come here. It's funny feeling to realize that you've created super fans, listeners who follow me on Facebook, Twitter, now YouTube. They come on air contests are there for almost every Facebook live. He'll be fine for six months already. He's getting those things. Really cool is because Phil is establishing a name for himself in a particular area. Many company that wants to be in front of that audience knows that he is the guy I go",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "phil",
+            "super",
+            "fans",
+            "facebook",
+            "guy"
+          ],
+          "summary": "He said, I just had to come here. It's funny feeling to realize that you've created super fans, listeners who follow me on Facebook, Twitter, now YouTube."
+        },
+        {
+          "segment_id": 3,
+          "start_time": 87.32,
+          "end_time": 105.16,
+          "text": "to. In overtime, if you wanted to, you can then expand with the base of the audience that you've already built. Start to broad. Tusu will have a very good, the truth is some of those episodes that you create may hit. Now imagine if all your episodes were about that particular topic, that hit, how much of a name you could make for yourself in that space, and how much more quickly you could",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "episodes",
+            "tusu",
+            "overtime",
+            "audience",
+            "broad"
+          ],
+          "summary": "Start to broad.to. You can then expand with the base of the audience that you've already built. Tusu will have a very good, the truth"
+        },
+        {
+          "segment_id": 4,
+          "start_time": 105.16,
+          "end_time": 185.58,
+          "text": "build loyal fans, connect with companies, and build a business. Riches are the niches. Next reason, number four. You compare yourself to other, and the comparison game is very, very dangerous. It's totally cool and actually encouraged to look at others for inspiration and motivation. However, if you look at them and say, oh, why not me, or well, they started much later than me and they're already doing better. They have more subscribers, they have more emails, they have more follow whatever the case may be. Doesn't nothing posit. It is so common to see podcasters give up because they see another podcaster who they feel is doing better. And so they think, well, why should I even be here in the first place? The comparison game that you need to play with yourself is podcaster is you versus you, yes, you versus how you and your show were last week. You versus how you and your show were last month or last year. That is how you can make the improvements. That is how you can motivate yourself and gamify the situation. One common comparison newbie podcasters make often is, oh, there's somebody else already in that space. And I'm starting from scratch, I have no business, no context, no following, no emails, no nothing. How am I going to succeed? Well, you actually have a huge advantage. That you can actually craft the experience beginning. The fact that you can actually tailor messages and specificodes to a pitiful, and you can fill in the gaps that everybody else has sort of missed within the space. And finally, you can come up better or different, make some noise. For example, take Sophie Walker, she's another one of my students. She started a podcast interviewing moms who were pregnant or had just given birth, help other moms. Not her mom.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasters",
+            "podcaster",
+            "podcast",
+            "motivate",
+            "subscribers"
+          ],
+          "summary": "build loyal fans, connect with companies, and build a business. Riches are the niches. You compare yourself to other, and the comparison game is very, very dangerous. It is so common to see podcasters give up because they see another podcaster who they feel is doing better. And so they think, well, why should I even be here in the first place?"
+        },
+        {
+          "segment_id": 5,
+          "start_time": 185.58,
+          "end_time": 208.2,
+          "text": "Well, check this out here. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000 and not only that over time. She had the number one podcast in Australia and the kids and family section and she continues to blow us away with her numbers. What's really cool now in Australia is that a lot of organizations use her podcast or continuation credits, super, super inspirational.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "australia",
+            "email",
+            "inspirational",
+            "number"
+          ],
+          "summary": "Well, check this out here. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $"
+        },
+        {
+          "segment_id": 6,
+          "start_time": 208.2,
+          "end_time": 279.24,
+          "text": "And if you want to listen to a full interview that I did with Sophie in her journey and how she got started, I'll link to it in the discreet reason, number three, you don't market yourself or your podcast, you believe that it built it, you will come. It's actually he will come. Not they will look it up. I promise you. It's a mandelo effect thing and it's driving me nuts, but it's not there. But that's what we think. That's what many podcasts are. And you can't do that. Just having the podcast alone. Not going to build. However, you can fast forward your podcast growth by doing a few things that I've based on. One of my earlier tips, if you niche down a bit, you will actually spread faster because people like to hang us like that to show for somebody they're going to share too. Get very clear with your messaging. When your mission, your beliefs, your message is clear, your ideas, much easier for other people. Connect with them and really them to others. Number three, actively go out there and start building relationships. Not just try to find a list, just to come on your podcast, but try to be friend, other people who have podcasts or other blog. Number four, the best thing you can do with relation to that is be a guest on another podcast. Not only are people hearing your voice, but you're getting endorsed from the other hosts are already very easy to subscribe to your podcast. And number five, when it comes to market, great stuff that's worth talking, right? All right. Reason number two, you haven't defined what a successful podcast really means. A lot of people who start podcasting just because other people do that and you don't have something to measure.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasting",
+            "podcast",
+            "podcasts",
+            "listen",
+            "interview"
+          ],
+          "summary": "If you don't market yourself or your podcast, you believe that it built it, you will come. It's a mandelo effect thing and it's driving me nuts, but it's not there. Get very clear with your messaging. When your mission, your beliefs, your message is clear, your ideas, much easier for other people. Connect with them and really them to others."
+        },
+        {
+          "segment_id": 7,
+          "start_time": 279.24,
+          "end_time": 423.66,
+          "text": "Tell whether or not it's actually working or not, continue to do something in your consistent like you should be. Well, the truth is, eventually you're going to get to the point where you're just going to go, well, why am I, when you can define your why success becomes a lot easier to grasp? Maybe it's a certain dollar amount that you want to make after time. Or better yet, it's a certain number of lives you want to change. The biggest thing related to this is to remember that every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. Pretty good opportunity to be able to share your message to connect, build some customers in relationships, actual, actual success stories from what it is that you must first define what success with podcasting means to you. Then you give yourself a certain number of months or years to make that have a show up. You show up consistently. You don't show up consistently, whether that's weekly or every other week like I did when I first started. There's no chance for a person to really gravitate toward your show and have their life. Therefore, have you become a part of their lives? Podcast listener or habitual listening audience. You become a part of their daily life. Unless you're consistently showing, you're going to insert somebody else into that playlist because you're not showing out there. When you can remember your watch, showing up, there's a lot easier, your reasons to do so become a lot. The number one reason why podcasters face is because they give up for the uptick begins. So many people seem to just quit before inflection points happen. Imagine all the people of quit who, if they've only went a couple of months, would have gotten that, hockey stick curve, they've been licking for this whole massive number of subscribers to their email list and potential business, but no to them, the macro level when it comes to podcasting. Yes, you do have to be a bit patient. The micro, a lot of these things that we talked about to market yourself, to stay consistent, to give yourself the best chance to get to that point where that uptick can occur. Give it time. In this world now, we all want results. Right away. This is why most of these podcasters quit and fail. But when you show up and you're consistent, you also figure out what you can do to market your so many doors open up, so many opportunities that you can't even imagine it can be life to review and your listeners. And so, again, if you've just started your show or you're about to, you took part in a picture pod earlier this year, or you're starting your podcast because you found me on YouTube. Your friend told you about it, whatever the reason is. Don't let any of these five reasons are people out there in this world who are ready to listen to you. Of course, I'm here and I'm ready. Some information below in the description to help you run excited because it's not just about putting your podcast up, it's about getting found too, which is what I do. It's the marketing side of it. That's why. Marketing and the content and whatever you say on the mic doesn't matter if you're just going to let any of these things don't let them stop. Click on this video right here. This is what YouTube is telling you is the next video you should watch. Yeah, thanks.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasting",
+            "podcast",
+            "podcasters",
+            "listening",
+            "success"
+          ],
+          "summary": "Every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. The number one reason why podcasters face is because they give up for the uptick begins. Give it time. Marketing and the content and whatever you say on the mic doesn't matter if you're just going to let any of these things don't let them stop. Click on this video right here. This is what YouTube is telling you is the next video you should watch. Of course, I'm here and I'm ready. Some information below in the description to help you run excited because it's not just about putting your podcast up, it's about getting found too, which is what I do."
+        }
+      ]
+    },
+    {
+      "block_size": 8,
+      "k_value": 1.0,
+      "number_of_segments": 4,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 105.16,
+          "text": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. I don't want you to fail and I know you don't want to fail either. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Reason number five. Your podcast is too broad. Podcasts are too broad, which means it covers a wide range of topics generally speaking not succeed. Now there are exceptions, of course, and if you started in the early days, well, you could podcast really about anything and do well because you were first to market. But today, imagine starting a fitness podcast and competing against all the existing fitness podcasts around. Well, your audio is just going to get there in order to succeed today as a brand new podcaster. You need to start small. Now, it might sound counterintuitive because by niching down, you're leaving people out, leaving people out. You could show up more fully those who your podcast is meant for. Case in point, what are my students actually? His name is Phil Lichenberger. He started a podcast called Scanner School and this is about those radio scanners where he's for emergency lines or whatever, a very specific niche within the electronic space. Well, within six months, he was able to build a raving fan base. Even after 24 episodes here, he sent this message in one of our Facebook groups. He said, I just had to come here. It's funny feeling to realize that you've created super fans, listeners who follow me on Facebook, Twitter, now YouTube. They come on air contests are there for almost every Facebook live. He'll be fine for six months already. He's getting those things. Really cool is because Phil is establishing a name for himself in a particular area. Many company that wants to be in front of that audience knows that he is the guy I go to. In overtime, if you wanted to, you can then expand with the base of the audience that you've already built. Start to broad. Tusu will have a very good, the truth is some of those episodes that you create may hit. Now imagine if all your episodes were about that particular topic, that hit, how much of a name you could make for yourself in that space, and how much more quickly you could",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasters",
+            "podcasts",
+            "podcaster",
+            "listeners"
+          ],
+          "summary": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Reason number five. Your podcast is too broad. Podcasts are too broad, which means it covers a wide range of topics generally speaking not succeed. Now imagine if all your episodes were about that particular topic, that hit, how much of a name you could make."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 105.16,
+          "end_time": 185.58,
+          "text": "build loyal fans, connect with companies, and build a business. Riches are the niches. Next reason, number four. You compare yourself to other, and the comparison game is very, very dangerous. It's totally cool and actually encouraged to look at others for inspiration and motivation. However, if you look at them and say, oh, why not me, or well, they started much later than me and they're already doing better. They have more subscribers, they have more emails, they have more follow whatever the case may be. Doesn't nothing posit. It is so common to see podcasters give up because they see another podcaster who they feel is doing better. And so they think, well, why should I even be here in the first place? The comparison game that you need to play with yourself is podcaster is you versus you, yes, you versus how you and your show were last week. You versus how you and your show were last month or last year. That is how you can make the improvements. That is how you can motivate yourself and gamify the situation. One common comparison newbie podcasters make often is, oh, there's somebody else already in that space. And I'm starting from scratch, I have no business, no context, no following, no emails, no nothing. How am I going to succeed? Well, you actually have a huge advantage. That you can actually craft the experience beginning. The fact that you can actually tailor messages and specificodes to a pitiful, and you can fill in the gaps that everybody else has sort of missed within the space. And finally, you can come up better or different, make some noise. For example, take Sophie Walker, she's another one of my students. She started a podcast interviewing moms who were pregnant or had just given birth, help other moms. Not her mom.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasters",
+            "podcaster",
+            "podcast",
+            "motivate",
+            "subscribers"
+          ],
+          "summary": "build loyal fans, connect with companies, and build a business. Riches are the niches. You compare yourself to other, and the comparison game is very, very dangerous. It is so common to see podcasters give up because they see another podcaster who they feel is doing better. And so they think, well, why should I even be here in the first place?"
+        },
+        {
+          "segment_id": 3,
+          "start_time": 185.58,
+          "end_time": 208.2,
+          "text": "Well, check this out here. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000 and not only that over time. She had the number one podcast in Australia and the kids and family section and she continues to blow us away with her numbers. What's really cool now in Australia is that a lot of organizations use her podcast or continuation credits, super, super inspirational.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "australia",
+            "email",
+            "inspirational",
+            "number"
+          ],
+          "summary": "Well, check this out here. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $"
+        },
+        {
+          "segment_id": 4,
+          "start_time": 208.2,
+          "end_time": 423.66,
+          "text": "And if you want to listen to a full interview that I did with Sophie in her journey and how she got started, I'll link to it in the discreet reason, number three, you don't market yourself or your podcast, you believe that it built it, you will come. It's actually he will come. Not they will look it up. I promise you. It's a mandelo effect thing and it's driving me nuts, but it's not there. But that's what we think. That's what many podcasts are. And you can't do that. Just having the podcast alone. Not going to build. However, you can fast forward your podcast growth by doing a few things that I've based on. One of my earlier tips, if you niche down a bit, you will actually spread faster because people like to hang us like that to show for somebody they're going to share too. Get very clear with your messaging. When your mission, your beliefs, your message is clear, your ideas, much easier for other people. Connect with them and really them to others. Number three, actively go out there and start building relationships. Not just try to find a list, just to come on your podcast, but try to be friend, other people who have podcasts or other blog. Number four, the best thing you can do with relation to that is be a guest on another podcast. Not only are people hearing your voice, but you're getting endorsed from the other hosts are already very easy to subscribe to your podcast. And number five, when it comes to market, great stuff that's worth talking, right? All right. Reason number two, you haven't defined what a successful podcast really means. A lot of people who start podcasting just because other people do that and you don't have something to measure. Tell whether or not it's actually working or not, continue to do something in your consistent like you should be. Well, the truth is, eventually you're going to get to the point where you're just going to go, well, why am I, when you can define your why success becomes a lot easier to grasp? Maybe it's a certain dollar amount that you want to make after time. Or better yet, it's a certain number of lives you want to change. The biggest thing related to this is to remember that every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. Pretty good opportunity to be able to share your message to connect, build some customers in relationships, actual, actual success stories from what it is that you must first define what success with podcasting means to you. Then you give yourself a certain number of months or years to make that have a show up. You show up consistently. You don't show up consistently, whether that's weekly or every other week like I did when I first started. There's no chance for a person to really gravitate toward your show and have their life. Therefore, have you become a part of their lives? Podcast listener or habitual listening audience. You become a part of their daily life. Unless you're consistently showing, you're going to insert somebody else into that playlist because you're not showing out there. When you can remember your watch, showing up, there's a lot easier, your reasons to do so become a lot. The number one reason why podcasters face is because they give up for the uptick begins. So many people seem to just quit before inflection points happen. Imagine all the people of quit who, if they've only went a couple of months, would have gotten that, hockey stick curve, they've been licking for this whole massive number of subscribers to their email list and potential business, but no to them, the macro level when it comes to podcasting. Yes, you do have to be a bit patient. The micro, a lot of these things that we talked about to market yourself, to stay consistent, to give yourself the best chance to get to that point where that uptick can occur. Give it time. In this world now, we all want results. Right away. This is why most of these podcasters quit and fail. But when you show up and you're consistent, you also figure out what you can do to market your so many doors open up, so many opportunities that you can't even imagine it can be life to review and your listeners. And so, again, if you've just started your show or you're about to, you took part in a picture pod earlier this year, or you're starting your podcast because you found me on YouTube. Your friend told you about it, whatever the reason is. Don't let any of these five reasons are people out there in this world who are ready to listen to you. Of course, I'm here and I'm ready. Some information below in the description to help you run excited because it's not just about putting your podcast up, it's about getting found too, which is what I do. It's the marketing side of it. That's why. Marketing and the content and whatever you say on the mic doesn't matter if you're just going to let any of these things don't let them stop. Click on this video right here. This is what YouTube is telling you is the next video you should watch. Yeah, thanks.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasting",
+            "podcast",
+            "podcasts",
+            "podcasters",
+            "listening"
+          ],
+          "summary": "If you don't market yourself or your podcast, you believe that it built it, you will come. You can fast forward your podcast growth by doing a few things that I've based on. Get very clear with your messaging. Connect with them and really them to others. And if you want to listen to a full interview that I did with Sophie in her journey and how she got started, I'll link to it in the discreet reason. And so, if you've just started your show and you're excited about putting it up, I'm not just about putting your podcast up. Some information below in the description to help you excited about what you're doing is what's getting you excited because it's getting too early for you. Don't let any of these five reasons are out there in this world who are there to listen, which is what this podcast is about. It's about putting up your podcast because you found me on YouTube, or you're starting your podcast earlier this year, or your friend told you about it, whatever."
+        }
+      ]
+    },
+    {
+      "block_size": 8,
+      "k_value": 1.2,
+      "number_of_segments": 2,
+      "segments": [
+        {
+          "segment_id": 1,
+          "start_time": 0.0,
+          "end_time": 185.58,
+          "text": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. I don't want you to fail and I know you don't want to fail either. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Reason number five. Your podcast is too broad. Podcasts are too broad, which means it covers a wide range of topics generally speaking not succeed. Now there are exceptions, of course, and if you started in the early days, well, you could podcast really about anything and do well because you were first to market. But today, imagine starting a fitness podcast and competing against all the existing fitness podcasts around. Well, your audio is just going to get there in order to succeed today as a brand new podcaster. You need to start small. Now, it might sound counterintuitive because by niching down, you're leaving people out, leaving people out. You could show up more fully those who your podcast is meant for. Case in point, what are my students actually? His name is Phil Lichenberger. He started a podcast called Scanner School and this is about those radio scanners where he's for emergency lines or whatever, a very specific niche within the electronic space. Well, within six months, he was able to build a raving fan base. Even after 24 episodes here, he sent this message in one of our Facebook groups. He said, I just had to come here. It's funny feeling to realize that you've created super fans, listeners who follow me on Facebook, Twitter, now YouTube. They come on air contests are there for almost every Facebook live. He'll be fine for six months already. He's getting those things. Really cool is because Phil is establishing a name for himself in a particular area. Many company that wants to be in front of that audience knows that he is the guy I go to. In overtime, if you wanted to, you can then expand with the base of the audience that you've already built. Start to broad. Tusu will have a very good, the truth is some of those episodes that you create may hit. Now imagine if all your episodes were about that particular topic, that hit, how much of a name you could make for yourself in that space, and how much more quickly you could build loyal fans, connect with companies, and build a business. Riches are the niches. Next reason, number four. You compare yourself to other, and the comparison game is very, very dangerous. It's totally cool and actually encouraged to look at others for inspiration and motivation. However, if you look at them and say, oh, why not me, or well, they started much later than me and they're already doing better. They have more subscribers, they have more emails, they have more follow whatever the case may be. Doesn't nothing posit. It is so common to see podcasters give up because they see another podcaster who they feel is doing better. And so they think, well, why should I even be here in the first place? The comparison game that you need to play with yourself is podcaster is you versus you, yes, you versus how you and your show were last week. You versus how you and your show were last month or last year. That is how you can make the improvements. That is how you can motivate yourself and gamify the situation. One common comparison newbie podcasters make often is, oh, there's somebody else already in that space. And I'm starting from scratch, I have no business, no context, no following, no emails, no nothing. How am I going to succeed? Well, you actually have a huge advantage. That you can actually craft the experience beginning. The fact that you can actually tailor messages and specificodes to a pitiful, and you can fill in the gaps that everybody else has sort of missed within the space. And finally, you can come up better or different, make some noise. For example, take Sophie Walker, she's another one of my students. She started a podcast interviewing moms who were pregnant or had just given birth, help other moms. Not her mom.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcast",
+            "podcasters",
+            "podcasts",
+            "podcaster",
+            "listeners"
+          ],
+          "summary": "If you're starting a podcast or have started a podcast, well, I don't want you to fail. That's why today I'm going to tell you the top five reasons why podcasters fail. So let's watch this video all the way through so we can make sure we give ourselves the best chance to win podcast. Your podcast is too broad, which means it covers a wide range of topics generally speaking not succeed. You compare yourself to other, and the comparison game is very, very dangerous. It is so common to see podcasters give up because they see another podcaster who they feel is doing better. You can actually craft the experience beginning. The fact that you can actually tailor messages and specificodes to a pitiful, and you can fill in the gaps that everybody else has sort of missed within the space. And finally, you can come up better or different, make some noise."
+        },
+        {
+          "segment_id": 2,
+          "start_time": 185.58,
+          "end_time": 423.66,
+          "text": "Well, check this out here. She said she started her podcast with no website, no business. She only has a few amount of people on her email and she hit $50,000 and not only that over time. She had the number one podcast in Australia and the kids and family section and she continues to blow us away with her numbers. What's really cool now in Australia is that a lot of organizations use her podcast or continuation credits, super, super inspirational. And if you want to listen to a full interview that I did with Sophie in her journey and how she got started, I'll link to it in the discreet reason, number three, you don't market yourself or your podcast, you believe that it built it, you will come. It's actually he will come. Not they will look it up. I promise you. It's a mandelo effect thing and it's driving me nuts, but it's not there. But that's what we think. That's what many podcasts are. And you can't do that. Just having the podcast alone. Not going to build. However, you can fast forward your podcast growth by doing a few things that I've based on. One of my earlier tips, if you niche down a bit, you will actually spread faster because people like to hang us like that to show for somebody they're going to share too. Get very clear with your messaging. When your mission, your beliefs, your message is clear, your ideas, much easier for other people. Connect with them and really them to others. Number three, actively go out there and start building relationships. Not just try to find a list, just to come on your podcast, but try to be friend, other people who have podcasts or other blog. Number four, the best thing you can do with relation to that is be a guest on another podcast. Not only are people hearing your voice, but you're getting endorsed from the other hosts are already very easy to subscribe to your podcast. And number five, when it comes to market, great stuff that's worth talking, right? All right. Reason number two, you haven't defined what a successful podcast really means. A lot of people who start podcasting just because other people do that and you don't have something to measure. Tell whether or not it's actually working or not, continue to do something in your consistent like you should be. Well, the truth is, eventually you're going to get to the point where you're just going to go, well, why am I, when you can define your why success becomes a lot easier to grasp? Maybe it's a certain dollar amount that you want to make after time. Or better yet, it's a certain number of lives you want to change. The biggest thing related to this is to remember that every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. Pretty good opportunity to be able to share your message to connect, build some customers in relationships, actual, actual success stories from what it is that you must first define what success with podcasting means to you. Then you give yourself a certain number of months or years to make that have a show up. You show up consistently. You don't show up consistently, whether that's weekly or every other week like I did when I first started. There's no chance for a person to really gravitate toward your show and have their life. Therefore, have you become a part of their lives? Podcast listener or habitual listening audience. You become a part of their daily life. Unless you're consistently showing, you're going to insert somebody else into that playlist because you're not showing out there. When you can remember your watch, showing up, there's a lot easier, your reasons to do so become a lot. The number one reason why podcasters face is because they give up for the uptick begins. So many people seem to just quit before inflection points happen. Imagine all the people of quit who, if they've only went a couple of months, would have gotten that, hockey stick curve, they've been licking for this whole massive number of subscribers to their email list and potential business, but no to them, the macro level when it comes to podcasting. Yes, you do have to be a bit patient. The micro, a lot of these things that we talked about to market yourself, to stay consistent, to give yourself the best chance to get to that point where that uptick can occur. Give it time. In this world now, we all want results. Right away. This is why most of these podcasters quit and fail. But when you show up and you're consistent, you also figure out what you can do to market your so many doors open up, so many opportunities that you can't even imagine it can be life to review and your listeners. And so, again, if you've just started your show or you're about to, you took part in a picture pod earlier this year, or you're starting your podcast because you found me on YouTube. Your friend told you about it, whatever the reason is. Don't let any of these five reasons are people out there in this world who are ready to listen to you. Of course, I'm here and I'm ready. Some information below in the description to help you run excited because it's not just about putting your podcast up, it's about getting found too, which is what I do. It's the marketing side of it. That's why. Marketing and the content and whatever you say on the mic doesn't matter if you're just going to let any of these things don't let them stop. Click on this video right here. This is what YouTube is telling you is the next video you should watch. Yeah, thanks.",
+          "embedding_model": "MiniLM-L6-v2",
+          "keywords": [
+            "podcasting",
+            "podcast",
+            "podcasts",
+            "podcasters",
+            "listening"
+          ],
+          "summary": "Many people start podcasting just because other people do that and you don't have something to measure. The biggest thing related to this is to remember that every single download, every single play of your podcast is an actual human being at spending, timing on what your goals are. You must first define what success with podcasting means to you. Then you give yourself a certain number of months or years to make that have a show up. You don't show up consistently, whether that's weekly or every other week like I did when I first started. There's no chance for a person to really gravitate toward your show and have their life. Therefore, have you become a part of their lives? Podcast listener or habitual listening audience. Unless you're consistently showing, you're going to insert somebody else into that playlist because you're not showing out there. When you can remember your watch, showing up, there's a lot easier, your reasons to do so become a lot. Yes, you have to be a bit patient, you do have to get to the point where that uptick can occur."
+        }
+      ]
+    }
+  ]
+}

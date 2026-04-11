@@ -1,0 +1,58 @@
+{
+  "podcast_01": {
+    "MiniLM": {
+      "Pk": null,
+      "WindowDiff": null,
+      "Precision": 0.13043478260869565,
+      "Recall": 0.13043478260869565
+    },
+    "TextTiling": {
+      "Pk": null,
+      "WindowDiff": null,
+      "Precision": 0.02,
+      "Recall": 0.043478260869565216
+    }
+  },
+  "podcast_08": {
+    "MiniLM": {
+      "Pk": null,
+      "WindowDiff": null,
+      "Precision": 0.0,
+      "Recall": 0.0
+    },
+    "TextTiling": {
+      "Pk": null,
+      "WindowDiff": null,
+      "Precision": 0.03125,
+      "Recall": 0.07692307692307693
+    }
+  },
+  "podcast_20": {
+    "MiniLM": {
+      "Pk": null,
+      "WindowDiff": null,
+      "Precision": 0.13333333333333333,
+      "Recall": 0.3333333333333333
+    },
+    "TextTiling": {
+      "Pk": null,
+      "WindowDiff": null,
+      "Precision": 0.1,
+      "Recall": 0.5
+    }
+  },
+  "podcast_21": {
+    "MiniLM": {
+      "Pk": null,
+      "WindowDiff": null,
+      "Precision": 0.0,
+      "Recall": 0.0
+    },
+    "TextTiling": {
+      "Pk": null,
+      "WindowDiff": null,
+      "Precision": 0.0,
+      "Recall": 0.0
+    }
+  }
+}
